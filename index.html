@@ -4,270 +4,228 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Dot phrases</title>
-<meta name="description" content="Free note templates (dot phrases / SmartPhrases) for family medicine, in Cerner and Epic formats.">
+<meta name="description" content="Free dot phrases / SmartPhrases for family medicine, in Cerner and Epic formats.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #f8f6f1; --ink: #1f1d1a; --muted: #6f6a62; --rule: #e2ddd3; --tint: #efebe3; --accent: #9b2c1f;
-    --serif: "Source Serif 4", Georgia, serif; --mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
+    --bg: #fff; --side: #f6f7f9; --ink: #16191d; --muted: #646b75; --line: #e3e6ea; --sel: #e9f1fb; --accent: #1764b0;
+    --sans: "IBM Plex Sans", system-ui, sans-serif; --mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
   }
   @media (prefers-color-scheme: dark) {
-    :root { --bg: #191816; --ink: #e6e1d8; --muted: #9b958b; --rule: #2f2c28; --tint: #23211e; --accent: #e0806e; }
+    :root { --bg: #15171a; --side: #1b1e22; --ink: #e4e7eb; --muted: #959ca6; --line: #2b2f35; --sel: #1d2a3a; --accent: #6aa8ec; }
   }
   * { box-sizing: border-box; }
-  html { scroll-padding-top: 64px; }
-  body { margin: 0; background: var(--bg); color: var(--ink); font: 17px/1.55 var(--serif); }
-  a { color: inherit; }
-  .wrap { max-width: 1120px; margin: 0 auto; padding: 0 24px; }
+  html, body { height: 100%; }
+  body { margin: 0; display: flex; flex-direction: column; background: var(--bg); color: var(--ink); font: 15px/1.45 var(--sans); }
+  button, input { font: inherit; color: inherit; }
 
-  header.wrap { padding-top: 56px; padding-bottom: 8px; }
-  h1 { font-weight: 600; font-size: 2.6rem; line-height: 1.1; margin: 0 0 10px; letter-spacing: -.01em; }
-  .lede { font-size: 1.15rem; color: var(--muted); max-width: 40em; margin: 0; }
+  .top { display: flex; align-items: center; gap: 12px 20px; padding: 10px 20px; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+  .brand { font-weight: 600; text-decoration: none; color: inherit; white-space: nowrap; }
+  #q { flex: 1 1 300px; max-width: 560px; padding: 7px 12px; border: 1px solid var(--line); border-radius: 6px; background: var(--side); outline: none; }
+  #q:focus { border-color: var(--accent); background: var(--bg); }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
+  .seg button { border: 0; background: none; padding: 6px 14px; cursor: pointer; color: var(--muted); }
+  .seg button[aria-pressed=true] { background: var(--accent); color: #fff; }
+  .csv { margin-left: auto; color: var(--muted); font-size: 14px; }
+  .chips { display: none; }
 
-  .about { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 48px; padding-top: 36px; padding-bottom: 40px; }
-  .about-rule { border-bottom: 1px solid var(--rule); }
-  .about h2 { font-size: .8rem; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin: 0 0 12px; }
-  .about p { margin: 0 0 12px; }
-  .fam { display: grid; grid-template-columns: 2.2rem 1fr; gap: 2px 12px; margin: 0 0 16px; }
-  .fam dt { font: 500 1.5rem/1.2 var(--mono); color: var(--accent); }
-  .fam dd { margin: 0; }
-  .fam dd b { font-weight: 600; }
-  code { font: .88em var(--mono); }
-  .types { color: var(--muted); font-size: .95rem; }
-  .types code { color: var(--ink); }
+  .app { flex: 1; min-height: 0; display: grid; grid-template-columns: 230px minmax(340px, 28vw) minmax(0, 1fr); }
+  #toc, #list, #view { overflow: auto; min-height: 0; }
 
-  .bar { position: sticky; top: 0; z-index: 2; background: var(--bg); border-bottom: 1px solid var(--rule); }
-  .bar .wrap { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 28px; padding-top: 12px; padding-bottom: 12px; }
-  #q { flex: 1 1 260px; font: inherit; color: var(--ink); background: transparent; border: 0; border-bottom: 1px solid var(--muted); padding: 4px 0; outline: none; }
-  #q:focus { border-bottom-color: var(--accent); }
-  .fmt { font-size: .95rem; color: var(--muted); }
-  .fmt button { font: inherit; background: none; border: 0; padding: 0 2px; color: var(--muted); cursor: pointer; }
-  .fmt button[aria-pressed=true] { color: var(--ink); text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 4px; text-decoration-thickness: 2px; }
-  #count { font-size: .9rem; color: var(--muted); }
+  #toc { background: var(--side); border-right: 1px solid var(--line); padding: 12px 0 24px; font-size: 14px; }
+  #toc .fam { display: flex; gap: 8px; padding: 10px 16px 4px; font-weight: 600; cursor: pointer; }
+  #toc .fam b { font: 500 15px var(--mono); color: var(--accent); width: 1ch; }
+  #toc a { display: flex; justify-content: space-between; gap: 8px; padding: 3px 16px 3px 33px; color: var(--muted); text-decoration: none; }
+  #toc a:hover { color: var(--ink); background: var(--line); }
+  #toc a.empty { display: none; }
+  .note { padding: 20px 16px; color: var(--muted); font-size: 12px; }
 
-  .layout { display: grid; grid-template-columns: 250px minmax(0, 1fr); gap: 48px; padding-top: 24px; }
-  nav#toc { position: sticky; top: 64px; align-self: start; max-height: calc(100vh - 80px); overflow: auto; font-size: .9rem; padding-bottom: 24px; }
-  nav .f { margin: 0 0 14px; }
-  nav .f > a { display: block; font-weight: 600; text-decoration: none; margin-bottom: 2px; }
-  nav .f > a span { font-family: var(--mono); color: var(--accent); margin-right: 6px; }
-  nav ul { list-style: none; margin: 0; padding: 0 0 0 1.4rem; }
-  nav li a { display: flex; justify-content: space-between; gap: 8px; text-decoration: none; color: var(--muted); padding: 1px 0; }
-  nav li a:hover { color: var(--ink); }
-  nav li.empty { display: none; }
-
-  section.family > h2 { font-size: 1.7rem; font-weight: 600; margin: 8px 0 4px; display: flex; gap: 14px; align-items: baseline; }
-  section.family > h2 span { font-family: var(--mono); color: var(--accent); }
-  section.family > p { color: var(--muted); margin: 0 0 20px; }
-  section.family { margin-bottom: 48px; }
-  h3 { font-size: .8rem; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin: 28px 0 6px; display: flex; gap: 10px; align-items: baseline; }
-  h3 code { letter-spacing: 0; text-transform: none; color: var(--accent); font-weight: 400; }
+  #list { border-right: 1px solid var(--line); outline: none; }
+  .sh { position: sticky; top: 0; z-index: 1; background: var(--bg); border-bottom: 1px solid var(--line); padding: 8px 16px 6px; font-size: 12px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); }
+  .sh code { font: 500 12px var(--mono); color: var(--accent); text-transform: none; margin-left: 6px; }
+  .row { display: flex; gap: 12px; padding: 6px 16px; cursor: pointer; border-bottom: 1px solid var(--line); }
+  .row:hover { background: var(--side); }
+  .row[aria-selected=true] { background: var(--sel); box-shadow: inset 3px 0 var(--accent); }
+  .row .ab { flex: 0 0 9rem; font: 500 13.5px/1.6 var(--mono); color: var(--accent); overflow-wrap: anywhere; }
+  .row .ti { flex: 1; min-width: 0; }
+  .sdg { border-top: 1px solid var(--line); padding: 4px; text-align: center; font-size: 11px; letter-spacing: .3em; color: var(--muted); }
   .hidden { display: none !important; }
 
-  .row { border-top: 1px solid var(--rule); }
-  .row > button { all: unset; box-sizing: border-box; width: 100%; display: grid; grid-template-columns: 11rem 1fr; gap: 16px; padding: 7px 8px; cursor: pointer; }
-  .row > button:hover, .row > button:focus-visible { background: var(--tint); }
-  .row > button:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
-  .ab { font: 500 .9rem/1.9 var(--mono); color: var(--accent); overflow-wrap: anywhere; }
-  .ti { line-height: 1.5; padding-top: 2px; }
-  .open > button { background: var(--tint); }
-  .detail { padding: 6px 8px 22px calc(11rem + 24px); }
-  .use { font-style: italic; color: var(--muted); margin: 0 0 10px; }
-  .acts { font-size: .9rem; margin-bottom: 8px; display: flex; gap: 18px; }
-  .acts button { font: inherit; background: none; border: 0; padding: 0; color: var(--accent); cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
-  pre { margin: 0; padding: 14px 16px; background: var(--tint); border-left: 2px solid var(--accent); font: .84rem/1.6 var(--mono); white-space: pre-wrap; overflow-wrap: anywhere; max-height: 75vh; overflow: auto; }
+  #view { padding: 20px 32px 40px; }
+  #view .crumb { font-size: 13px; color: var(--muted); margin-bottom: 6px; }
+  #view h1 { margin: 0 0 4px; font-size: 22px; font-weight: 600; display: flex; gap: 14px; align-items: baseline; flex-wrap: wrap; }
+  #view h1 code { font: 500 20px var(--mono); color: var(--accent); }
+  .stamp { margin: 2px 0 0; font-size: 13px; color: var(--muted); }
+  .stamp.ok { color: #2e7d4f; }
+  #view .use { color: var(--muted); margin: 4px 0 14px; max-width: 80ch; }
+  .acts { display: flex; gap: 8px; margin: 0 0 14px; flex-wrap: wrap; }
+  .acts button { border: 1px solid var(--line); background: var(--bg); padding: 5px 14px; border-radius: 6px; cursor: pointer; }
+  .acts button.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .acts.nav { display: none; }
+  pre { margin: 0; padding: 16px 18px; background: var(--side); border: 1px solid var(--line); border-radius: 6px; font: 13.5px/1.6 var(--mono); white-space: pre-wrap; overflow-wrap: anywhere; max-width: 120ch; }
+  .hint { margin-top: 10px; font-size: 13px; color: var(--muted); max-width: 120ch; }
+  .hint code { font-family: var(--mono); color: var(--ink); }
 
-  .intro > summary { list-style: none; }
-  .intro > summary::-webkit-details-marker { display: none; }
-  .intro > summary h2 { display: inline; }
-  .intro[open] > summary { margin-bottom: 12px; }
-  .jump { display: none; }
-  .csv { font-size: .9rem; color: var(--muted); text-underline-offset: 3px; }
-  .csv:hover { color: var(--accent); }
-  footer.wrap { border-top: 1px solid var(--rule); margin-top: 32px; padding-top: 20px; padding-bottom: 48px; color: var(--muted); font-size: .9rem; }
+  @media (max-width: 1200px) { .app { grid-template-columns: 200px minmax(300px, 32vw) minmax(0, 1fr); } .row .ab { flex-basis: 8rem; } }
+  @media (max-width: 960px) { .app { grid-template-columns: minmax(280px, 40vw) minmax(0, 1fr); } #toc { display: none; } .chips { display: flex; gap: 4px; } }
 
-  @media (max-width: 860px) {
-    body { font-size: 16px; }
-    .wrap { padding: 0 16px; }
-    header.wrap { padding-top: 28px; padding-bottom: 4px; }
-    h1 { font-size: 1.9rem; }
-    .lede { font-size: 1rem; }
-    .about { grid-template-columns: minmax(0, 1fr); gap: 0; padding-top: 14px; padding-bottom: 14px; }
-    .intro { border-top: 1px solid var(--rule); padding: 10px 0; }
-    .intro > summary { cursor: pointer; display: flex; justify-content: space-between; }
-    .intro > summary::after { content: "+"; font: 1.1rem var(--mono); color: var(--accent); }
-    .intro[open] > summary::after { content: "2"; }
-    .intro > summary h2 { margin: 0; }
-    .intro[open] > summary { margin-bottom: 10px; }
-    html { scroll-padding-top: 112px; }
-    .bar .wrap { gap: 8px 18px; padding-top: 10px; padding-bottom: 8px; }
-    #q { flex: 1 1 100%; font-size: 16px; }
-    .jump { display: flex; gap: 2px; order: 2; }
-    .jump a { font: 500 1.05rem var(--mono); color: var(--accent); text-decoration: none; padding: 2px 9px; }
-    .jump a:active { background: var(--tint); }
-    .fmt { order: 3; margin-left: auto; }
-    #count, .csv { display: none; }
-    .layout { grid-template-columns: minmax(0, 1fr); padding-top: 8px; }
-    nav#toc { display: none; }
-    section.family > h2 { font-size: 1.45rem; }
-    .row > button { grid-template-columns: minmax(0, 1fr); gap: 0; padding: 8px 4px; }
-    .ab { line-height: 1.4; font-size: .85rem; }
-    .detail { padding: 4px 0 18px; }
-    pre { font-size: .78rem; padding: 12px; margin: 0 -16px; border-left-width: 3px; }
+  @media (max-width: 700px) {
+    .top { padding: 8px 12px; gap: 8px; }
+    #q { flex-basis: 100%; max-width: none; order: 3; font-size: 16px; }
+    .seg { margin-left: auto; }
+    .csv { display: none; }
+    .chips { order: 4; width: 100%; }
+    .app { grid-template-columns: minmax(0, 1fr); }
+    #list { border-right: 0; }
+    .row { flex-direction: column; gap: 0; padding: 8px 12px; }
+    .row .ab { flex-basis: auto; }
+    #view { display: none; }
+    body.reading #view { display: block; position: fixed; inset: 0; z-index: 5; background: var(--bg); padding: 12px 14px 32px; }
+    .acts.nav { display: flex; }
+    pre { font-size: 12.5px; padding: 12px; }
   }
+  .chips a { font: 500 15px var(--mono); color: var(--accent); text-decoration: none; padding: 3px 10px; border: 1px solid var(--line); border-radius: 6px; }
 </style>
 </head>
 <body>
-<header class="wrap">
-  <h1>Dot phrases</h1>
-  <p class="lede">About 950 note templates for family medicine: OB and newborn, hospital, clinic, problem-based assessment and plan, exams, patient handouts and reference sheets. Copy one into Cerner Auto Text or an Epic SmartPhrase and make it yours.</p>
-</header>
-
-<div class="about-rule"><div class="wrap about">
-  <details class="intro" open>
-    <summary><h2>How they're organized</h2></summary>
-    <p>The first character of every abbreviation says where it's used. Type it in your EHR and the matching phrases come up together.</p>
-    <dl class="fam">
-      <dt>%</dt><dd><b>OB, L&amp;D and newborn.</b> Admission H&amp;P to discharge, prenatal visits, newborn care.</dd>
-      <dt>&amp;</dt><dd><b>Inpatient.</b> Admissions, progress notes, handoffs, discharges.</dd>
-      <dt>$</dt><dd><b>Clinic.</b> Visit notes, well child checks, handouts, result letters.</dd>
-      <dt>#</dt><dd><b>One problem.</b> An assessment-and-plan block; stack several under any note.</dd>
-      <dt>.</dt><dd><b>Anywhere.</b> Exams, small fragments, consult prep, attestations, reference sheets.</dd>
-    </dl>
-    <p class="types">The letters after the symbol name the kind of phrase: <code>pi</code> patient instructions, <code>lr</code> lab result sentences, <code>h</code> HPI, <code>wcc</code> well child, <code>wu</code> workup, <code>c</code> consult prep, <code>pe</code>/<code>e</code> exam, <code>ed</code> physician reference (not for the chart). So <code>$pi</code> is a clinic handout, <code>%pi</code> a pregnancy one, and <code>&amp;h</code> an admission HPI.</p>
-  </details>
-  <details class="intro" open>
-    <summary><h2>Reading a phrase</h2></summary>
-    <p><b>Cerner</b> format: <code>_</code> is a blank. <code>_yes / no</code> means pick one. Bracketed names like <code>[VITALS]</code> are Cerner smart templates; swap in your facility's.</p>
-    <p><b>Epic</b> format: <code>***</code> is a blank (F2 jumps to the next). <code>{yes/no}</code> marks a pick-list: Epic can't build a dropdown from pasted text, so make it a SmartList in the SmartPhrase editor. <code>@VITALS@</code> and the like stand for SmartLinks, whose names vary by organization. A bracketed name left over is a Cerner template with no general Epic match.</p>
-    <p><code>local</code> after a blank marks a detail that differs by institution: a protocol, a cutoff, a phone number.</p>
-    <p>Bringing these into your EHR in bulk? <a href="phrases.csv" download>Download every phrase as a CSV</a> (abbreviation, title, section, usage, Cerner text, Epic text) and send it to your IT or EHR team.</p>
-    <p>These are templates, not medical advice. Check doses and recommendations against current guidance.</p>
-  </details>
-</div>
-</div>
-
-<div class="bar">
-  <div class="wrap">
-    <input type="search" id="q" placeholder="Search by abbreviation, title or text" aria-label="Search phrases">
-    <span class="fmt" role="group" aria-label="Format">Format:
-      <button type="button" data-fmt="cerner" aria-pressed="true">Cerner</button> /
-      <button type="button" data-fmt="epic" aria-pressed="false">Epic</button>
-    </span>
-    <nav class="jump" aria-label="Families"><a href="#f-ob">%</a><a href="#f-inpatient">&amp;</a><a href="#f-clinic">$</a><a href="#f-problems">#</a><a href="#f-anywhere">.</a></nav>
-    <span id="count" aria-live="polite"></span>
-    <a class="csv" href="phrases.csv" download>Download CSV</a>
+<header class="top">
+  <a class="brand" href="./">Dot phrases</a>
+  <input type="search" id="q" placeholder="Search" aria-label="Search phrases" autocomplete="off">
+  <div class="seg" role="group" aria-label="Format">
+    <button type="button" data-fmt="cerner" aria-pressed="true">Cerner</button><button type="button" data-fmt="epic" aria-pressed="false">Epic</button>
   </div>
+  <nav class="chips" aria-label="Jump to"><a href="#" data-f="%">%</a><a href="#" data-f="&amp;">&amp;</a><a href="#" data-f="$">$</a><a href="#" data-f="#">#</a><a href="#" data-f=".">.</a></nav>
+  <a class="csv" href="phrases.csv" download>Download CSV</a>
+</header>
+<div class="app">
+  <nav id="toc" aria-label="Sections"></nav>
+  <div id="list" role="listbox" aria-label="Phrases" tabindex="0"></div>
+  <article id="view" aria-live="polite"></article>
 </div>
-
-<div class="wrap layout">
-  <nav aria-label="Contents" id="toc"></nav>
-  <main id="list"><p>Loading…</p></main>
-</div>
-
-<footer class="wrap">Free to use and adapt.</footer>
-
+<footer class="sdg">SDG</footer>
 <script>
-const FAMILIES = {
-  '%': ['OB, L&D and newborn', 'Labor and delivery, prenatal and postpartum care, newborns.'],
-  '&': ['Inpatient', 'Hospital notes and admission HPIs.'],
-  '$': ['Clinic', 'Outpatient notes, well child checks, handouts and result letters.'],
-  '#': ['Problems', 'One assessment-and-plan block per problem, plus workups.'],
-  '.': ['Anywhere', 'Exams, fragments, consult prep, attestations and physician reference sheets.'],
-};
+const FAM = { '%': 'OB / L&D', '&': 'Inpatient', '$': 'Clinic', '#': 'Problems', '.': 'Anywhere' };
 const $ = s => document.querySelector(s);
-const slug = s => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-const famId = f => 'f-' + ({ '%': 'ob', '&': 'inpatient', '$': 'clinic', '#': 'problems', '.': 'anywhere' })[f];
-let rows = [], fmt = localStorage.getItem('fmt') || 'cerner';
+const phone = matchMedia('(max-width: 700px)');
+let rows = [], byAbbr = {}, sel = null, fmt = localStorage.getItem('fmt') || 'cerner';
+const famHead = {}, secs = [];
 
 function build() {
   const list = $('#list'), toc = $('#toc');
-  list.textContent = ''; toc.textContent = '';
-  let fam, sec, ul;
+  let fam = null, sec = null;
   for (const r of rows) {
-    if (r.family !== fam?.dataset.f) {
-      fam = document.createElement('section'); fam.className = 'family'; fam.id = famId(r.family); fam.dataset.f = r.family;
-      fam.innerHTML = '<h2><span></span></h2><p></p>';
-      fam.querySelector('span').textContent = r.family;
-      fam.querySelector('h2').append(FAMILIES[r.family][0]);
-      fam.querySelector('p').textContent = FAMILIES[r.family][1];
-      list.append(fam);
-      const f = document.createElement('div'); f.className = 'f';
-      f.innerHTML = '<a><span></span></a><ul></ul>';
-      f.querySelector('a').href = '#' + fam.id;
-      f.querySelector('span').textContent = r.family;
-      f.querySelector('a').append(FAMILIES[r.family][0]);
-      toc.append(f); ul = f.querySelector('ul');
-      sec = null;
+    if (r.family !== fam) {
+      fam = r.family; sec = null;
+      const f = document.createElement('div'); f.className = 'fam';
+      f.innerHTML = '<b></b><span></span>';
+      f.firstChild.textContent = fam; f.lastChild.textContent = FAM[fam];
+      const target = fam; f.onclick = () => jumpFam(target);
+      toc.append(f);
     }
-    if (r.section !== sec?.dataset.s) {
-      sec = document.createElement('div'); sec.dataset.s = r.section; sec.id = fam.id + '-' + slug(r.section);
-      const h = document.createElement('h3'); h.textContent = r.section;
+    if (r.section !== sec?.name) {
+      const h = document.createElement('div'); h.className = 'sh'; h.textContent = r.section;
       if (r.tag) { const c = document.createElement('code'); c.textContent = r.tag; h.append(c); }
-      sec.append(h); fam.append(sec);
-      const li = document.createElement('li'); li.innerHTML = '<a><span></span><span></span></a>';
-      li.querySelector('a').href = '#' + sec.id; li.querySelector('span').textContent = r.section;
-      ul.append(li); sec._toc = li; sec._n = li.querySelectorAll('span')[1];
+      const a = document.createElement('a'); a.href = '#'; a.innerHTML = '<span></span><span></span>';
+      a.firstChild.textContent = r.section;
+      sec = { name: r.section, h, a, rows: [] }; secs.push(sec);
+      a.onclick = e => { e.preventDefault(); h.scrollIntoView({ block: 'start' }); };
+      famHead[fam] ??= h;
+      list.append(h); toc.append(a);
     }
-    sec.append(row(r));
+    const d = document.createElement('div'); d.className = 'row'; d.setAttribute('role', 'option');
+    d.innerHTML = '<span class="ab"></span><span class="ti"></span>';
+    d.firstChild.textContent = r.abbr; d.lastChild.textContent = r.desc;
+    d.onclick = () => select(r, true);
+    r.el = d; sec.rows.push(r); list.append(d);
   }
+  toc.insertAdjacentHTML('beforeend', '<div class="note">Templates, not medical advice.</div>');
 }
 
-function row(r) {
-  const d = document.createElement('div'); d.className = 'row'; d.id = r.abbr; r.el = d;
-  const b = document.createElement('button'); b.type = 'button'; b.setAttribute('aria-expanded', 'false');
-  b.innerHTML = '<span class="ab"></span><span class="ti"></span>';
-  b.children[0].textContent = r.abbr; b.children[1].textContent = r.desc;
-  b.onclick = () => toggle(r);
-  d.append(b);
-  return d;
+function jumpFam(f) { famHead[f]?.scrollIntoView({ block: 'start' }); }
+
+function select(r, fromUser) {
+  if (sel) sel.el.setAttribute('aria-selected', 'false');
+  sel = r; r.el.setAttribute('aria-selected', 'true');
+  render();
+  const url = '#' + encodeURIComponent(r.abbr);
+  if (phone.matches && fromUser) { history.pushState(null, '', url); document.body.classList.add('reading'); $('#view').scrollTop = 0; }
+  else history.replaceState(null, '', url);
+  if (!phone.matches) r.el.scrollIntoView({ block: 'nearest' });
 }
 
-function toggle(r, open = !r.el.classList.contains('open')) {
-  const d = r.el;
-  d.classList.toggle('open', open); d.firstChild.setAttribute('aria-expanded', open);
-  if (!open) { d.querySelector('.detail')?.remove(); return; }
-  const x = document.createElement('div'); x.className = 'detail';
-  if (r.use) { const u = document.createElement('p'); u.className = 'use'; u.textContent = r.use; x.append(u); }
-  const acts = document.createElement('div'); acts.className = 'acts';
-  const copy = document.createElement('button'); copy.type = 'button'; copy.textContent = 'Copy ' + (fmt === 'epic' ? 'Epic' : 'Cerner') + ' text';
-  const link = document.createElement('button'); link.type = 'button'; link.textContent = 'Copy link';
-  const pre = document.createElement('pre'); pre.textContent = fmt === 'epic' ? r.epic : r.body;
-  copy.onclick = () => navigator.clipboard.writeText(pre.textContent).then(() => flash(copy, 'Copied'));
-  link.onclick = () => navigator.clipboard.writeText(location.origin + location.pathname + '#' + encodeURIComponent(r.abbr)).then(() => flash(link, 'Link copied'));
-  acts.append(copy, link); x.append(acts, pre); d.append(x);
+function render() {
+  const r = sel, v = $('#view'); if (!r) return;
+  const text = fmt === 'epic' ? r.epic : r.body;
+  v.innerHTML = `<div class="acts nav"><button class="back" type="button">&larr; Back</button></div>
+    <div class="crumb"></div><h1><code></code><span></span></h1><p class="stamp"></p><p class="use"></p>
+    <div class="acts"><button class="primary copy" type="button"></button><button class="link" type="button">Copy link</button></div>
+    <pre></pre>` + (fmt === 'epic' ? `<p class="hint"><code>***</code> blank &middot; <code>{a/b}</code> build as a SmartList &middot; <code>@NAME@</code> your SmartLink &middot; <code>[ ]</code> Cerner template, swap in yours</p>` : '');
+  v.querySelector('.crumb').textContent = r.family + '  ' + FAM[r.family] + '  /  ' + r.section;
+  v.querySelector('h1 code').textContent = r.abbr;
+  v.querySelector('h1 span').textContent = r.desc;
+  const st = v.querySelector('.stamp');
+  st.textContent = 'Updated ' + day(r.updated) + '  ·  ' + (r.verified ? 'Verified against sources ' + day(r.verified) + (r.verified_source ? ' (' + r.verified_source + ')' : '') : 'Not yet verified against current guidelines');
+  st.classList.toggle('ok', !!r.verified);
+  const use = v.querySelector('.use'); r.use ? use.textContent = r.use : use.remove();
+  v.querySelector('pre').textContent = text;
+  const copy = v.querySelector('.copy'); copy.textContent = 'Copy ' + (fmt === 'epic' ? 'Epic' : 'Cerner');
+  copy.onclick = () => navigator.clipboard.writeText(text).then(() => flash(copy, 'Copied'));
+  const link = v.querySelector('.link');
+  link.onclick = () => navigator.clipboard.writeText(location.href).then(() => flash(link, 'Copied'));
+  v.querySelector('.back').onclick = () => history.back();
 }
 
-function flash(btn, msg) { const t = btn.textContent; btn.textContent = msg; setTimeout(() => btn.textContent = t, 1400); }
+function day(d) { return new Date(d + 'T00:00:00Z').toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' }); }
+
+function flash(b, t) { const o = b.textContent; b.textContent = t; setTimeout(() => b.textContent = o, 1200); }
 
 function filter() {
   const q = $('#q').value.trim().toLowerCase();
-  let n = 0;
-  for (const r of rows) { const hit = !q || r.hay.includes(q); r.el.classList.toggle('hidden', !hit); n += hit; }
-  document.querySelectorAll('[data-s]').forEach(s => {
-    const k = s.querySelectorAll('.row:not(.hidden)').length;
-    s.classList.toggle('hidden', !k); s._toc.classList.toggle('empty', !k); s._n.textContent = k;
-  });
-  document.querySelectorAll('section.family').forEach(f => f.classList.toggle('hidden', !f.querySelector('.row:not(.hidden)')));
-  $('#count').textContent = q ? n + ' of ' + rows.length + ' phrases' : rows.length + ' phrases';
+  for (const r of rows) r.el.classList.toggle('hidden', !!q && !r.hay.includes(q));
+  for (const s of secs) {
+    const k = s.rows.filter(r => !r.el.classList.contains('hidden')).length;
+    s.h.classList.toggle('hidden', !k); s.a.classList.toggle('empty', !k); s.a.lastChild.textContent = k;
+  }
+}
+
+function step(dir) {
+  const vis = rows.filter(r => !r.el.classList.contains('hidden'));
+  if (!vis.length) return;
+  const i = sel ? vis.indexOf(sel) : -1;
+  select(vis[Math.max(0, Math.min(vis.length - 1, i < 0 ? 0 : i + dir))], false);
 }
 
 function setFmt(f) {
   fmt = f; localStorage.setItem('fmt', f);
-  document.querySelectorAll('.fmt button').forEach(b => b.setAttribute('aria-pressed', b.dataset.fmt === f));
-  for (const r of rows) if (r.el?.classList.contains('open')) { toggle(r, false); toggle(r, true); }
+  document.querySelectorAll('.seg button').forEach(b => b.setAttribute('aria-pressed', b.dataset.fmt === f));
+  render();
 }
 
-if (matchMedia('(max-width: 860px)').matches) document.querySelectorAll('.intro').forEach(d => d.open = false);
+function fromHash() {
+  const r = byAbbr[decodeURIComponent(location.hash.slice(1))];
+  document.body.classList.toggle('reading', !!r && phone.matches);
+  if (r) { select(r, false); r.el.scrollIntoView({ block: 'center' }); }
+  else if (!phone.matches && !sel && rows.length) select(rows[0], false);
+}
+
 fetch('phrases.json').then(r => r.json()).then(data => {
   rows = data.map(r => ({ ...r, hay: (r.abbr + ' ' + r.desc + ' ' + r.body).toLowerCase() }));
-  build(); filter(); setFmt(fmt);
-  const r = location.hash && rows.find(r => r.abbr === decodeURIComponent(location.hash.slice(1)));
-  if (r) { toggle(r, true); r.el.scrollIntoView(); }
+  for (const r of rows) byAbbr[r.abbr] = r;
+  $('#q').placeholder = 'Search ' + rows.length + ' phrases';
+  build(); filter(); setFmt(fmt); fromHash();
 });
+addEventListener('popstate', fromHash);
 $('#q').addEventListener('input', filter);
-document.querySelectorAll('.fmt button').forEach(b => b.onclick = () => setFmt(b.dataset.fmt));
+document.querySelectorAll('.seg button').forEach(b => b.onclick = () => setFmt(b.dataset.fmt));
+document.querySelectorAll('.chips a').forEach(a => a.onclick = e => { e.preventDefault(); jumpFam(a.dataset.f); });
+addEventListener('keydown', e => {
+  if (phone.matches) return;
+  if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); step(e.key === 'ArrowDown' ? 1 : -1); }
+  else if (e.key === '/' && document.activeElement !== $('#q')) { e.preventDefault(); $('#q').focus(); }
+  else if (e.key === 'Escape') { $('#q').value = ''; filter(); }
+});
 </script>
 </body>
 </html>
