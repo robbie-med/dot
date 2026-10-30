@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dot phrases</title>
+<meta name="description" content="Free clinical dot phrase / SmartPhrase templates for Cerner and Epic: OB, inpatient, clinic, well child, patient instructions, problem blocks, exams.">
+<style>
+  :root { --bg: #fff; --fg: #1d1d1f; --muted: #6b6b70; --line: #e3e3e6; --card: #f7f7f9; --accent: #1a66d9; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #161618; --fg: #ececee; --muted: #9a9aa1; --line: #2e2e33; --card: #1f1f23; --accent: #6ea8ff; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 960px; margin: 0 auto; padding: 24px 16px 64px; }
+  h1 { margin: 0 0 4px; font-size: 1.6rem; }
+  .sub { color: var(--muted); margin: 0 0 16px; }
+  details.key { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 8px 14px; margin-bottom: 16px; }
+  details.key summary { cursor: pointer; font-weight: 600; }
+  details.key ul { margin: 8px 0; padding-left: 20px; }
+  code, pre, .abbr { font-family: ui-monospace, "Cascadia Mono", Consolas, monospace; }
+  .controls { position: sticky; top: 0; background: var(--bg); padding: 10px 0; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; border-bottom: 1px solid var(--line); z-index: 1; }
+  input[type=search], select { font: inherit; padding: 7px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--card); color: var(--fg); }
+  input[type=search] { flex: 1 1 240px; }
+  .toggle { display: inline-flex; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
+  .toggle button { font: inherit; border: 0; padding: 7px 14px; background: var(--card); color: var(--fg); cursor: pointer; }
+  .toggle button[aria-pressed=true] { background: var(--accent); color: #fff; }
+  #count { color: var(--muted); font-size: .9rem; }
+  h2 { font-size: 1.1rem; margin: 28px 0 8px; padding-bottom: 4px; border-bottom: 1px solid var(--line); }
+  details.p { border: 1px solid var(--line); border-radius: 8px; margin: 6px 0; background: var(--card); }
+  details.p > summary { cursor: pointer; padding: 8px 12px; list-style: none; display: flex; gap: 12px; align-items: baseline; }
+  details.p > summary::-webkit-details-marker { display: none; }
+  .abbr { font-weight: 700; color: var(--accent); min-width: 9ch; }
+  .desc { flex: 1; }
+  .body { padding: 0 12px 12px; }
+  .use { color: var(--muted); margin: 0 0 8px; font-size: .95rem; }
+  pre { margin: 0; padding: 12px; background: var(--bg); border: 1px solid var(--line); border-radius: 6px; white-space: pre-wrap; word-break: break-word; font-size: .88rem; max-height: 70vh; overflow: auto; }
+  .copy { font: inherit; font-size: .85rem; margin-bottom: 8px; padding: 4px 12px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--fg); cursor: pointer; }
+  footer { margin-top: 40px; color: var(--muted); font-size: .85rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Dot phrases</h1>
+  <p class="sub">Free note templates for family medicine: OB, inpatient, clinic, well child, patient instructions, problem blocks, exams and more. Copy one into your EHR's auto text or SmartPhrase editor.</p>
+
+  <details class="key">
+    <summary>How to read these</summary>
+    <ul>
+      <li><b>Cerner</b> view: <code>_</code> is a blank to fill in. <code>_a / b / c</code> means pick one. <code>[VITALS]</code> and other bracketed names are Cerner smart templates; swap in your facility's equivalent.</li>
+      <li><b>Epic</b> view: <code>***</code> is a blank (F2 jumps to the next one). <code>{a/b/c}</code> is a pick-list: Epic can't create a dropdown from pasted text, so build it as a SmartList in the SmartPhrase editor. <code>@VITALS@</code>-style names stand for SmartLinks; names vary by organization, so swap in yours. Bracketed names left over are Cerner templates with no generic Epic equivalent.</li>
+      <li><code>local</code> after a blank marks an institution-specific detail (protocols, phone numbers, cutoffs). Fill in your own.</li>
+      <li>Templates, not medical advice. Check doses and recommendations against current guidance before use, and never paste patient information into anything public.</li>
+    </ul>
+  </details>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search abbreviations, titles, text" aria-label="Search phrases">
+    <select id="sec" aria-label="Section"><option value="">All sections</option></select>
+    <span class="toggle" role="group" aria-label="Format">
+      <button type="button" data-fmt="cerner" aria-pressed="true">Cerner</button>
+      <button type="button" data-fmt="epic" aria-pressed="false">Epic</button>
+    </span>
+    <span id="count" aria-live="polite"></span>
+  </div>
+
+  <div id="list"><p>Loading…</p></div>
+
+  <footer>Free to use and adapt.</footer>
+</main>
+<script>
+const $ = s => document.querySelector(s);
+let rows = [], fmt = localStorage.getItem('fmt') || 'cerner';
+
+function render() {
+  const q = $('#q').value.trim().toLowerCase(), sec = $('#sec').value;
+  const list = $('#list'); list.textContent = '';
+  let n = 0, lastSec = null;
+  for (const r of rows) {
+    if (sec && r.section !== sec) continue;
+    if (q && !r.hay.includes(q)) continue;
+    if (r.section !== lastSec) {
+      const h = document.createElement('h2'); h.textContent = r.section; list.append(h); lastSec = r.section;
+    }
+    list.append(card(r)); n++;
+  }
+  $('#count').textContent = n + ' of ' + rows.length;
+  if (!n) list.innerHTML = '<p>No matches.</p>';
+}
+
+function card(r) {
+  const d = document.createElement('details'); d.className = 'p'; d.id = r.abbr;
+  const s = document.createElement('summary');
+  s.innerHTML = '<span class="abbr"></span><span class="desc"></span>';
+  s.children[0].textContent = r.abbr; s.children[1].textContent = r.desc;
+  d.append(s);
+  d.addEventListener('toggle', () => {  // build the body on first open: keeps 900+ phrases fast
+    if (!d.open || d.querySelector('.body')) return;
+    const b = document.createElement('div'); b.className = 'body';
+    if (r.use) { const u = document.createElement('p'); u.className = 'use'; u.textContent = r.use; b.append(u); }
+    const btn = document.createElement('button'); btn.className = 'copy'; btn.type = 'button'; btn.textContent = 'Copy';
+    const pre = document.createElement('pre');
+    const text = () => fmt === 'epic' ? r.epic : r.body;
+    pre.textContent = text();
+    btn.onclick = async () => {
+      await navigator.clipboard.writeText(text());
+      btn.textContent = 'Copied'; setTimeout(() => btn.textContent = 'Copy', 1500);
+    };
+    b.append(btn, pre); d.append(b);
+    d._refresh = () => pre.textContent = text();
+  });
+  return d;
+}
+
+function setFmt(f) {
+  fmt = f; localStorage.setItem('fmt', f);
+  document.querySelectorAll('.toggle button').forEach(b => b.setAttribute('aria-pressed', b.dataset.fmt === f));
+  document.querySelectorAll('details.p').forEach(d => d._refresh && d._refresh());
+}
+
+fetch('phrases.json').then(r => r.json()).then(data => {
+  rows = data.map(r => ({ ...r, hay: (r.abbr + ' ' + r.desc + ' ' + r.body).toLowerCase() }));
+  for (const s of [...new Set(rows.map(r => r.section))]) $('#sec').add(new Option(s, s));
+  setFmt(fmt); render();
+  if (location.hash) { const d = document.getElementById(decodeURIComponent(location.hash.slice(1))); if (d) { d.open = true; d.scrollIntoView(); } }
+});
+$('#q').addEventListener('input', render);
+$('#sec').addEventListener('change', render);
+document.querySelectorAll('.toggle button').forEach(b => b.onclick = () => setFmt(b.dataset.fmt));
+</script>
+</body>
+</html>
