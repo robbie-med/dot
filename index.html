@@ -8,14 +8,17 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<script>document.documentElement.dataset.theme = localStorage.getItem('theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');</script>
 <style>
   :root {
-    --bg: #fff; --side: #f6f7f9; --ink: #16191d; --muted: #646b75; --line: #e3e6ea; --sel: #e9f1fb; --accent: #1764b0;
+    --bg: #fff; --side: #f6f7f9; --ink: #16191d; --muted: #646b75; --line: #e3e6ea; --sel: #e9f1fb; --accent: #1764b0; --on-accent: #fff;
     --sans: "IBM Plex Sans", system-ui, sans-serif; --mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
   }
+  :root[data-theme=dark] { --bg: #15171a; --side: #1b1e22; --ink: #e4e7eb; --muted: #959ca6; --line: #2b2f35; --sel: #1d2a3a; --accent: #6aa8ec; --on-accent: #0b1622; color-scheme: dark; }
   @media (prefers-color-scheme: dark) {
-    :root { --bg: #15171a; --side: #1b1e22; --ink: #e4e7eb; --muted: #959ca6; --line: #2b2f35; --sel: #1d2a3a; --accent: #6aa8ec; }
+    :root:not([data-theme=light]) { --bg: #15171a; --side: #1b1e22; --ink: #e4e7eb; --muted: #959ca6; --line: #2b2f35; --sel: #1d2a3a; --accent: #6aa8ec; --on-accent: #0b1622; color-scheme: dark; }
   }
+  .theme { border: 1px solid var(--line); background: none; border-radius: 6px; padding: 5px 10px; cursor: pointer; color: var(--muted); }
   * { box-sizing: border-box; }
   html, body { height: 100%; }
   body { margin: 0; display: flex; flex-direction: column; background: var(--bg); color: var(--ink); font: 15px/1.45 var(--sans); }
@@ -27,7 +30,7 @@
   #q:focus { border-color: var(--accent); background: var(--bg); }
   .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
   .seg button { border: 0; background: none; padding: 6px 14px; cursor: pointer; color: var(--muted); }
-  .seg button[aria-pressed=true] { background: var(--accent); color: #fff; }
+  .seg button[aria-pressed=true] { background: var(--accent); color: var(--on-accent); }
   .csv { margin-left: auto; color: var(--muted); font-size: 14px; }
   .chips { display: none; }
 
@@ -42,7 +45,7 @@
   #toc a.empty { display: none; }
   .note { padding: 20px 16px; color: var(--muted); font-size: 12px; }
 
-  #list { border-right: 1px solid var(--line); outline: none; }
+  #list { border-right: 1px solid var(--line); outline: none; position: relative; }
   .sh { position: sticky; top: 0; z-index: 1; background: var(--bg); border-bottom: 1px solid var(--line); padding: 8px 16px 6px; font-size: 12px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); }
   .sh code { font: 500 12px var(--mono); color: var(--accent); text-transform: none; margin-left: 6px; }
   .row { display: flex; gap: 12px; padding: 6px 16px; cursor: pointer; border-bottom: 1px solid var(--line); }
@@ -62,7 +65,7 @@
   #view .use { color: var(--muted); margin: 4px 0 14px; max-width: 80ch; }
   .acts { display: flex; gap: 8px; margin: 0 0 14px; flex-wrap: wrap; }
   .acts button { border: 1px solid var(--line); background: var(--bg); padding: 5px 14px; border-radius: 6px; cursor: pointer; }
-  .acts button.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .acts button.primary { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
   .acts.nav { display: none; }
   pre { margin: 0; padding: 16px 18px; background: var(--side); border: 1px solid var(--line); border-radius: 6px; font: 13.5px/1.6 var(--mono); white-space: pre-wrap; overflow-wrap: anywhere; max-width: 120ch; }
   .hint { margin-top: 10px; font-size: 13px; color: var(--muted); max-width: 120ch; }
@@ -75,6 +78,7 @@
     .top { padding: 8px 12px; gap: 8px; }
     #q { flex-basis: 100%; max-width: none; order: 3; font-size: 16px; }
     .seg { margin-left: auto; }
+    .theme { order: 2; }
     .csv { display: none; }
     .chips { order: 4; width: 100%; }
     .app { grid-template-columns: minmax(0, 1fr); }
@@ -98,6 +102,7 @@
   </div>
   <nav class="chips" aria-label="Jump to"><a href="#" data-f="%">%</a><a href="#" data-f="&amp;">&amp;</a><a href="#" data-f="$">$</a><a href="#" data-f="#">#</a><a href="#" data-f=".">.</a></nav>
   <a class="csv" href="phrases.csv" download>Download CSV</a>
+  <button type="button" class="theme" aria-label="Toggle dark mode"></button>
 </header>
 <div class="app">
   <nav id="toc" aria-label="Sections"></nav>
@@ -110,7 +115,7 @@ const FAM = { '%': 'OB / L&D', '&': 'Inpatient', '$': 'Clinic', '#': 'Problems',
 const $ = s => document.querySelector(s);
 const phone = matchMedia('(max-width: 700px)');
 let rows = [], byAbbr = {}, sel = null, fmt = localStorage.getItem('fmt') || 'cerner';
-const famHead = {}, secs = [];
+const famSecs = {}, secs = [];
 
 function build() {
   const list = $('#list'), toc = $('#toc');
@@ -130,8 +135,8 @@ function build() {
       const a = document.createElement('a'); a.href = '#'; a.innerHTML = '<span></span><span></span>';
       a.firstChild.textContent = r.section;
       sec = { name: r.section, h, a, rows: [] }; secs.push(sec);
-      a.onclick = e => { e.preventDefault(); h.scrollIntoView({ block: 'start' }); };
-      famHead[fam] ??= h;
+      const target = sec; a.onclick = e => { e.preventDefault(); toSec(target); };
+      (famSecs[fam] ??= []).push(sec);
       list.append(h); toc.append(a);
     }
     const d = document.createElement('div'); d.className = 'row'; d.setAttribute('role', 'option');
@@ -143,7 +148,18 @@ function build() {
   toc.insertAdjacentHTML('beforeend', '<div class="note">Templates, not medical advice.</div>');
 }
 
-function jumpFam(f) { famHead[f]?.scrollIntoView({ block: 'start' }); }
+function toSec(sec) {
+  const r = sec.rows.find(r => !r.el.classList.contains('hidden'));
+  if (r) $('#list').scrollTop = r.el.offsetTop - sec.h.offsetHeight;
+  return !!r;
+}
+
+function jumpFam(f) { famSecs[f]?.some(toSec); }
+
+function setTheme(t) {
+  document.documentElement.dataset.theme = t;
+  $('.theme').textContent = t === 'dark' ? 'Light' : 'Dark';
+}
 
 function select(r, fromUser) {
   if (sel) sel.el.setAttribute('aria-selected', 'false');
@@ -217,6 +233,8 @@ fetch('phrases.json').then(r => r.json()).then(data => {
   build(); filter(); setFmt(fmt); fromHash();
 });
 addEventListener('popstate', fromHash);
+setTheme(document.documentElement.dataset.theme);
+$('.theme').onclick = () => { const t = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark'; localStorage.setItem('theme', t); setTheme(t); };
 $('#q').addEventListener('input', filter);
 document.querySelectorAll('.seg button').forEach(b => b.onclick = () => setFmt(b.dataset.fmt));
 document.querySelectorAll('.chips a').forEach(a => a.onclick = e => { e.preventDefault(); jumpFam(a.dataset.f); });
