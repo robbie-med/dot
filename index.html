@@ -69,6 +69,13 @@
   .acts.nav { display: none; }
   pre { margin: 0; padding: 16px 18px; background: var(--side); border: 1px solid var(--line); border-radius: 6px; font: 13.5px/1.6 var(--mono); white-space: pre-wrap; overflow-wrap: anywhere; max-width: 120ch; }
   .hint { margin-top: 10px; font-size: 13px; color: var(--muted); max-width: 120ch; }
+  .key h1 { margin: 0 0 14px; font-size: 20px; font-weight: 600; }
+  .key h2 { margin: 26px 0 8px; font-size: 12px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); }
+  .key table { border-collapse: collapse; width: 100%; max-width: 820px; }
+  .key td { padding: 6px 14px 6px 0; border-bottom: 1px solid var(--line); vertical-align: top; }
+  .key td:first-child { font: 500 15px var(--mono); color: var(--accent); white-space: nowrap; width: 1%; }
+  .key td code { font-family: var(--mono); color: var(--accent); }
+  .key td.m { color: var(--muted); }
   .hint code { font-family: var(--mono); color: var(--ink); }
 
   @media (max-width: 1200px) { .app { grid-template-columns: 200px minmax(300px, 32vw) minmax(0, 1fr); } .row .ab { flex-basis: 8rem; } }
@@ -79,6 +86,7 @@
     #q { flex-basis: 100%; max-width: none; order: 3; font-size: 16px; }
     .seg { margin-left: auto; }
     .theme { order: 2; }
+    .keybtn { order: 1; }
     .csv { display: none; }
     .chips { order: 4; width: 100%; }
     .app { grid-template-columns: minmax(0, 1fr); }
@@ -102,7 +110,8 @@
   </div>
   <nav class="chips" aria-label="Jump to"><a href="#" data-f="%">%</a><a href="#" data-f="&amp;">&amp;</a><a href="#" data-f="$">$</a><a href="#" data-f="#">#</a><a href="#" data-f=".">.</a></nav>
   <a class="csv" href="phrases.csv" download>Download CSV</a>
-  <button type="button" class="theme" aria-label="Toggle dark mode"></button>
+  <button type="button" class="theme keybtn" aria-label="Show the abbreviation key">Key</button>
+  <button type="button" class="theme" id="themebtn" aria-label="Toggle dark mode"></button>
 </header>
 <div class="app">
   <nav id="toc" aria-label="Sections"></nav>
@@ -158,7 +167,7 @@ function jumpFam(f) { famSecs[f]?.some(toSec); }
 
 function setTheme(t) {
   document.documentElement.dataset.theme = t;
-  $('.theme').textContent = t === 'dark' ? 'Light' : 'Dark';
+  $('#themebtn').textContent = t === 'dark' ? 'Light' : 'Dark';
 }
 
 function select(r, fromUser) {
@@ -172,7 +181,7 @@ function select(r, fromUser) {
 }
 
 function render() {
-  const r = sel, v = $('#view'); if (!r) return;
+  const r = sel, v = $('#view'); if (!r) return;  // key showing: nothing to re-render
   const text = fmt === 'epic' ? r.epic : r.body;
   v.innerHTML = `<div class="acts nav"><button class="back" type="button">&larr; Back</button></div>
     <div class="crumb"></div><h1><code></code><span></span></h1><p class="stamp"></p><p class="use"></p>
@@ -194,6 +203,46 @@ function render() {
 }
 
 function day(d) { return new Date(d + 'T00:00:00Z').toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' }); }
+
+const KEY = `<div class="acts nav"><button class="back" type="button">&larr; Back</button></div>
+<div class="key"><h1>Key</h1>
+<h2>First character: where it's used</h2>
+<table>
+<tr><td>%</td><td>OB / L&amp;D / newborn</td><td class="m"><code>%hp</code> admission H&amp;P, <code>%pnc05</code>&ndash;<code>%pnc42</code> weekly prenatal checklists, <code>%pi</code> pregnancy handouts</td></tr>
+<tr><td>&amp;</td><td>Inpatient</td><td class="m">notes, <code>&amp;h</code> admission HPIs</td></tr>
+<tr><td>$</td><td>Clinic</td><td class="m"><code>$wcc</code> well child, <code>$pi</code> handouts, <code>$lr</code> result sentences, <code>$h</code> HPIs</td></tr>
+<tr><td>#</td><td>One problem</td><td class="m">assessment and plan per problem, <code>#wu</code> workups</td></tr>
+<tr><td>.</td><td>Anywhere</td><td class="m"><code>.pe</code> <code>.e</code> exams, <code>.c</code> consult prep, <code>.ed</code> reference, <code>.attest</code>, <code>.dme</code></td></tr>
+</table>
+<h2>Letters after it: what kind</h2>
+<table>
+<tr><td>pi</td><td>Patient instructions</td></tr>
+<tr><td>lr</td><td>Lab result sentence</td></tr>
+<tr><td>h</td><td>HPI</td></tr>
+<tr><td>wcc</td><td>Well child visit</td></tr>
+<tr><td>pnc05&ndash;42</td><td>Prenatal checklist for that week</td></tr>
+<tr><td>wu</td><td>Workup</td></tr>
+<tr><td>c</td><td>Consult prep</td></tr>
+<tr><td>pe, e</td><td>Exam: whole-body, focused</td></tr>
+<tr><td>ed</td><td>Physician reference, not for the chart</td></tr>
+<tr><td>attest</td><td>Attestation</td></tr>
+<tr><td>dme</td><td>DME medical necessity</td></tr>
+<tr><td>omt</td><td>Osteopathic manipulation</td></tr>
+</table>
+<h2>Markup</h2>
+<table>
+<tr><td>Cerner</td><td><code>_</code> blank &middot; <code>_a / b</code> pick one &middot; <code>[VITALS]</code> smart template</td></tr>
+<tr><td>Epic</td><td><code>***</code> blank &middot; <code>{a/b}</code> build as SmartList &middot; <code>@VITALS@</code> your SmartLink &middot; <code>[ ]</code> Cerner template, swap in yours</td></tr>
+<tr><td>local</td><td>Institution-specific: fill in yours</td></tr>
+</table></div>`;
+
+function showKey(fromUser) {
+  if (sel) { sel.el.setAttribute('aria-selected', 'false'); sel = null; }
+  const v = $('#view'); v.innerHTML = KEY; v.scrollTop = 0;
+  v.querySelector('.back').onclick = () => history.back();
+  if (phone.matches && fromUser) { history.pushState(null, '', '#key'); document.body.classList.add('reading'); }
+  else history.replaceState(null, '', '#key');
+}
 
 function flash(b, t) { const o = b.textContent; b.textContent = t; setTimeout(() => b.textContent = o, 1200); }
 
@@ -220,10 +269,10 @@ function setFmt(f) {
 }
 
 function fromHash() {
-  const r = byAbbr[decodeURIComponent(location.hash.slice(1))];
-  document.body.classList.toggle('reading', !!r && phone.matches);
+  const h = decodeURIComponent(location.hash.slice(1)), r = byAbbr[h];
+  document.body.classList.toggle('reading', (!!r || h === 'key') && phone.matches);
   if (r) { select(r, false); r.el.scrollIntoView({ block: 'center' }); }
-  else if (!phone.matches && !sel && rows.length) select(rows[0], false);
+  else if (h === 'key' || !phone.matches) showKey(false);
 }
 
 fetch('phrases.json').then(r => r.json()).then(data => {
@@ -233,8 +282,9 @@ fetch('phrases.json').then(r => r.json()).then(data => {
   build(); filter(); setFmt(fmt); fromHash();
 });
 addEventListener('popstate', fromHash);
+$('.keybtn').onclick = () => showKey(true);
 setTheme(document.documentElement.dataset.theme);
-$('.theme').onclick = () => { const t = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark'; localStorage.setItem('theme', t); setTheme(t); };
+$('#themebtn').onclick = () => { const t = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark'; localStorage.setItem('theme', t); setTheme(t); };
 $('#q').addEventListener('input', filter);
 document.querySelectorAll('.seg button').forEach(b => b.onclick = () => setFmt(b.dataset.fmt));
 document.querySelectorAll('.chips a').forEach(a => a.onclick = e => { e.preventDefault(); jumpFam(a.dataset.f); });
