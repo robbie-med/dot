@@ -10194,6 +10194,1672 @@ Healthy *** with *** growth and *** development.
 - Vaccines today: ***
 - Anticipatory guidance per Bright Futures for age: ***
 - Next well visit at ***",2026-10-29,
+$sports,Sports physical,$,Visit notes,Use for preparticipation sports physicals.,"Preparticipation sports physical
+
+_yo _ here for sports physical for _.
+
+Cardiac screening:
+
+- Exertional chest pain or pressure: _
+- Exertional syncope or near syncope: _
+- Excessive exertional dyspnea or fatigue: _
+- Palpitations: _
+- Prior heart murmur: _
+- Elevated BP: _
+- Prior restriction from sports: _
+- Family sudden death before 50 or cardiac disability: _
+- Family cardiomyopathy, long QT, Marfan, or arrhythmia: _
+
+Other history: concussions _, musculoskeletal injuries _, asthma _, menstrual history _, eating habits _
+
+Exam:
+[VITALS]
+
+- Vision: _
+- Marfan stigmata: absent
+- Heart: regular rhythm, no murmur supine or standing, no change with Valsalva
+- Femoral pulses: 2+ bilaterally
+- Lungs: clear
+- Abdomen: soft, no organomegaly
+- Skin: no lesions
+- MSK: full ROM and strength, duck walk normal
+- Neuro: normal
+
+Assessment and plan:
+Clearance: _ cleared without restriction, cleared with recommendations _, not cleared pending _","Preparticipation sports physical
+
+***yo *** here for sports physical for ***.
+
+Cardiac screening:
+
+- Exertional chest pain or pressure: ***
+- Exertional syncope or near syncope: ***
+- Excessive exertional dyspnea or fatigue: ***
+- Palpitations: ***
+- Prior heart murmur: ***
+- Elevated BP: ***
+- Prior restriction from sports: ***
+- Family sudden death before 50 or cardiac disability: ***
+- Family cardiomyopathy, long QT, Marfan, or arrhythmia: ***
+
+Other history: concussions ***, musculoskeletal injuries ***, asthma ***, menstrual history ***, eating habits ***
+
+Exam:
+@VITALS@
+
+- Vision: ***
+- Marfan stigmata: absent
+- Heart: regular rhythm, no murmur supine or standing, no change with Valsalva
+- Femoral pulses: 2+ bilaterally
+- Lungs: clear
+- Abdomen: soft, no organomegaly
+- Skin: no lesions
+- MSK: full ROM and strength, duck walk normal
+- Neuro: normal
+
+Assessment and plan:
+Clearance: *** cleared without restriction, cleared with recommendations ***, not cleared pending ***",2026-10-30,2026-10-30
+$tele,Telehealth visit,$,Visit notes,Use as the opening attestation block for video or phone visits.,"Telehealth visit
+
+Modality: _video / audio only
+Patient location: _
+Provider location: _
+Others present: _
+Consent: patient verbally consented to telehealth visit and was informed of its limitations.
+
+Exam limitations: physical exam limited to _ by telehealth modality.
+
+Total time on date of service: _ minutes","Telehealth visit
+
+Modality: {video/audio only}
+Patient location: ***
+Provider location: ***
+Others present: ***
+Consent: patient verbally consented to telehealth visit and was informed of its limitations.
+
+Exam limitations: physical exam limited to *** by telehealth modality.
+
+Total time on date of service: *** minutes",2026-10-29,
+$iud,IUD insertion,$,Visit notes,Use for intrauterine device insertion.,"IUD insertion
+
+Indication: _
+Device: _, lot _
+Consent: risks including pain, bleeding, infection, perforation, and expulsion discussed, written consent obtained.
+Pregnancy reasonably excluded by _
+Time out: _
+
+Procedure: Speculum placed, cervix visualized and cleaned with _. Tenaculum placed on the anterior lip. Uterus sounded to _ cm, _ position. IUD inserted per manufacturer instructions without difficulty. Strings trimmed to _ cm.
+
+Anesthesia: _
+EBL: minimal _
+Complications: _
+
+Patient tolerated procedure _. Counseled on string checks, expected bleeding, backup contraception _, and return precautions. Follow up _.","IUD insertion
+
+Indication: ***
+Device: ***, lot ***
+Consent: risks including pain, bleeding, infection, perforation, and expulsion discussed, written consent obtained.
+Pregnancy reasonably excluded by ***
+Time out: ***
+
+Procedure: Speculum placed, cervix visualized and cleaned with ***. Tenaculum placed on the anterior lip. Uterus sounded to *** cm, *** position. IUD inserted per manufacturer instructions without difficulty. Strings trimmed to *** cm.
+
+Anesthesia: ***
+EBL: minimal ***
+Complications: ***
+
+Patient tolerated procedure ***. Counseled on string checks, expected bleeding, backup contraception ***, and return precautions. Follow up ***.",2026-10-29,
+$nexp,Nexplanon insert or remove,$,Visit notes,"Use for etonogestrel implant insertion, removal, or removal with reinsertion.","Etonogestrel implant _insertion / removal / removal and reinsertion
+
+Indication: _
+Consent: risks including pain, bleeding, infection, nerve injury, and difficult removal discussed, written consent obtained.
+Pregnancy reasonably excluded by _ for insertion
+Time out: _
+
+Site: _ nondominant arm, inner upper arm overlying triceps, 8 to 10 cm proximal to medial epicondyle
+Anesthesia: lidocaine 1% _ mL
+Procedure: Area cleaned with _. _
+Device palpated by provider and patient after insertion: _
+Removed implant intact, _ cm: _
+Lot: _
+
+EBL: minimal _
+Complications: _
+
+Pressure dressing applied, remove in 24 hours. Backup contraception for 7 days if inserted more than 5 days after menses start. Return for redness, drainage, or fever.","Etonogestrel implant {insertion/removal/removal} and reinsertion
+
+Indication: ***
+Consent: risks including pain, bleeding, infection, nerve injury, and difficult removal discussed, written consent obtained.
+Pregnancy reasonably excluded by *** for insertion
+Time out: ***
+
+Site: *** nondominant arm, inner upper arm overlying triceps, 8 to 10 cm proximal to medial epicondyle
+Anesthesia: lidocaine 1% *** mL
+Procedure: Area cleaned with ***. ***
+Device palpated by provider and patient after insertion: ***
+Removed implant intact, *** cm: ***
+Lot: ***
+
+EBL: minimal ***
+Complications: ***
+
+Pressure dressing applied, remove in 24 hours. Backup contraception for 7 days if inserted more than 5 days after menses start. Return for redness, drainage, or fever.",2026-10-30,2026-10-30
+$emb,Endometrial biopsy,$,Visit notes,Use for office endometrial biopsy.,"Endometrial biopsy
+
+Indication: _
+Consent: risks including pain, bleeding, infection, perforation, and nondiagnostic sample discussed, written consent obtained.
+Pregnancy test: _
+Time out: _
+
+Procedure: Speculum placed, cervix cleaned with _. Tenaculum placed _. Endometrial sampler advanced to _ cm. _ passes performed with adequate tissue obtained _. Specimen sent to pathology.
+
+EBL: minimal _
+Complications: _
+
+Patient tolerated procedure _. Results expected in _ days. Return for heavy bleeding, fever, or severe pain.","Endometrial biopsy
+
+Indication: ***
+Consent: risks including pain, bleeding, infection, perforation, and nondiagnostic sample discussed, written consent obtained.
+Pregnancy test: ***
+Time out: ***
+
+Procedure: Speculum placed, cervix cleaned with ***. Tenaculum placed ***. Endometrial sampler advanced to *** cm. *** passes performed with adequate tissue obtained ***. Specimen sent to pathology.
+
+EBL: minimal ***
+Complications: ***
+
+Patient tolerated procedure ***. Results expected in *** days. Return for heavy bleeding, fever, or severe pain.",2026-10-29,
+$inj,Joint injection,$,Visit notes,Use for intra-articular or bursal corticosteroid injections.,"Joint injection
+
+Joint: _ side _
+Indication: _
+Consent: risks including infection, bleeding, post-injection flare, skin depigmentation, and transient glucose rise discussed, verbal or written consent obtained.
+Time out: _
+
+Approach: _, _ with ultrasound guidance
+Procedure: Site marked and cleaned with _. Injected with triamcinolone _ mg and lidocaine 1% _ mL using _ gauge needle. Aspirate _.
+
+EBL: minimal
+Complications: _
+
+Patient tolerated procedure _. Relative rest for 24 to 48 hours. Return for redness, warmth, fever, or worsening pain.","Joint injection
+
+Joint: *** side ***
+Indication: ***
+Consent: risks including infection, bleeding, post-injection flare, skin depigmentation, and transient glucose rise discussed, verbal or written consent obtained.
+Time out: ***
+
+Approach: ***, *** with ultrasound guidance
+Procedure: Site marked and cleaned with ***. Injected with triamcinolone *** mg and lidocaine 1% *** mL using *** gauge needle. Aspirate ***.
+
+EBL: minimal
+Complications: ***
+
+Patient tolerated procedure ***. Relative rest for 24 to 48 hours. Return for redness, warmth, fever, or worsening pain.",2026-10-29,
+$id,Incision and drainage,$,Visit notes,Use for abscess incision and drainage.,"Incision and drainage
+
+Site: _
+Size: _ cm induration, _ cm fluctuance
+Consent: risks including pain, bleeding, infection, recurrence, and scarring discussed, verbal consent obtained.
+Time out: _
+
+Anesthesia: lidocaine 1% _ mL
+Procedure: Area cleaned with _. _ cm incision made, _ purulent material expressed, loculations broken up. Irrigated with _.
+
+Packing: _
+Culture: _
+Complications: _
+
+Wound care: keep covered, change dressing daily, warm compresses 3 to 4 times daily. Return in _ days for packing removal or recheck, sooner for spreading redness, fever, or worsening pain.","Incision and drainage
+
+Site: ***
+Size: *** cm induration, *** cm fluctuance
+Consent: risks including pain, bleeding, infection, recurrence, and scarring discussed, verbal consent obtained.
+Time out: ***
+
+Anesthesia: lidocaine 1% *** mL
+Procedure: Area cleaned with ***. *** cm incision made, *** purulent material expressed, loculations broken up. Irrigated with ***.
+
+Packing: ***
+Culture: ***
+Complications: ***
+
+Wound care: keep covered, change dressing daily, warm compresses 3 to 4 times daily. Return in *** days for packing removal or recheck, sooner for spreading redness, fever, or worsening pain.",2026-10-29,
+$bx,Skin biopsy,$,Visit notes,"Use for shave, punch, or excisional skin biopsy.","Skin biopsy
+
+Site: _
+Lesion: _ mm, _
+Clinical differential: most likely _, given _. _ considered but unlikely given _, will confirm with pathology.
+Consent: risks including bleeding, infection, scarring, and need for further procedure discussed, verbal consent obtained.
+Time out: _
+
+Anesthesia: lidocaine 1% with epinephrine _ mL
+Technique: _shave / punch / excision
+Size: _ mm
+Hemostasis: _
+Closure: _
+
+Specimen sent to pathology _
+Complications: _
+
+Wound care: keep dry 24 hours, then daily washing and petroleum jelly. Sutures out in _ days. Results in _ days.","Skin biopsy
+
+Site: ***
+Lesion: *** mm, ***
+Clinical differential: most likely ***, given ***. *** considered but unlikely given ***, will confirm with pathology.
+Consent: risks including bleeding, infection, scarring, and need for further procedure discussed, verbal consent obtained.
+Time out: ***
+
+Anesthesia: lidocaine 1% with epinephrine *** mL
+Technique: {shave/punch/excision}
+Size: *** mm
+Hemostasis: ***
+Closure: ***
+
+Specimen sent to pathology ***
+Complications: ***
+
+Wound care: keep dry 24 hours, then daily washing and petroleum jelly. Sutures out in *** days. Results in *** days.",2026-10-29,
+$cryo,Cryotherapy,$,Visit notes,Use for liquid nitrogen cryotherapy of benign lesions.,"Cryotherapy
+
+Lesions: _ lesions, _, at _
+Diagnosis: _
+Consent: risks including pain, blistering, pigment change, and recurrence discussed, verbal consent obtained.
+
+Procedure: Liquid nitrogen applied for _ freeze-thaw cycles of _ seconds each.
+
+Complications: _
+
+Aftercare: expect redness and possible blister, keep clean, do not pop blisters. May need repeat treatment in _ weeks.","Cryotherapy
+
+Lesions: *** lesions, ***, at ***
+Diagnosis: ***
+Consent: risks including pain, blistering, pigment change, and recurrence discussed, verbal consent obtained.
+
+Procedure: Liquid nitrogen applied for *** freeze-thaw cycles of *** seconds each.
+
+Complications: ***
+
+Aftercare: expect redness and possible blister, keep clean, do not pop blisters. May need repeat treatment in *** weeks.",2026-10-29,
+$pap,Pap and pelvic,$,Visit notes,Use for cervical cancer screening with or without a full pelvic exam.,"Cervical cancer screening
+
+_yo, last Pap _, result _, HPV _. History of abnormal Pap _.
+
+Screening per age:
+
+- 21 to 29: cytology every 3 years
+- 30 to 65: cytology every 3 years, primary hrHPV every 5 years, or cotesting every 5 years
+
+Chaperone: _
+
+Exam:
+
+- External genitalia: normal
+- Vagina: normal mucosa, no lesions
+- Cervix: no lesions, no discharge
+- Bimanual: no cervical motion tenderness, uterus normal size, no adnexal masses or tenderness
+
+Collected: _
+Next screening due: _","Cervical cancer screening
+
+***yo, last Pap ***, result ***, HPV ***. History of abnormal Pap ***.
+
+Screening per age:
+
+- 21 to 29: cytology every 3 years
+- 30 to 65: cytology every 3 years, primary hrHPV every 5 years, or cotesting every 5 years
+
+Chaperone: ***
+
+Exam:
+
+- External genitalia: normal
+- Vagina: normal mucosa, no lesions
+- Cervix: no lesions, no discharge
+- Bimanual: no cervical motion tenderness, uterus normal size, no adnexal masses or tenderness
+
+Collected: ***
+Next screening due: ***",2026-10-30,2026-10-30
+$labok,Normal result message,$,Visit notes,Use for portal or letter messages with normal results.,"Hello _,
+
+Your recent _ results are normal. No changes are needed at this time.
+
+Your next _ is due in _.
+
+Please reach out with any questions.
+
+_","Hello ***,
+
+Your recent *** results are normal. No changes are needed at this time.
+
+Your next *** is due in ***.
+
+Please reach out with any questions.
+
+***",2026-10-29,
+$labf,Abnormal result message,$,Visit notes,Use for portal or letter messages with abnormal results.,"Hello _,
+
+Your recent _ result showed _.
+
+This means _.
+
+Plan: _
+
+Please schedule _ in _. Please reach out with any questions.
+
+_","Hello ***,
+
+Your recent *** result showed ***.
+
+This means ***.
+
+Plan: ***
+
+Please schedule *** in ***. Please reach out with any questions.
+
+***",2026-10-29,
+$refill,Refill note,$,Visit notes,Use for medication refill encounters.,"Refill request
+
+Medication: _ _ mg PO _
+Last visit: _
+Monitoring labs: _ on _, current _
+Quantity: _ with _ refills
+Next visit due: _
+
+Refill _ approved, _.","Refill request
+
+Medication: *** *** mg PO ***
+Last visit: ***
+Monitoring labs: *** on ***, current ***
+Quantity: *** with *** refills
+Next visit due: ***
+
+Refill *** approved, ***.",2026-10-29,
+$new,New patient visit,$,Visit notes,Use when establishing care with a new clinic patient.,"New patient visit
+
+_F here to establish care. Previous PCP _. Concerns today: _.
+
+PMH:
+
+- _
+
+PSH: _
+Meds: [MEDS], reconciled with patient and _
+Allergies: [ Allergies 2012 ]
+Family history: [ Family History 2012 ]
+Social: lives _, relationship status _, children _, occupation _, vaping _, marijuana _, tobacco _, alcohol _, substances _, sexual activity _, exercise _, diet _, IPV screen _
+Screens: [ DD_PHQ9_Depression_Screen_Current_Encntr ], [ DD_GAD7 ], AUDIT-C _
+
+Exam:
+[VITALS]
+
+- General: no acute distress
+- _
+
+Care gaps: [ * Health Maintenance ]
+
+- Screenings due: _
+- Vaccines due: _
+
+Assessment and plan:
+#_
+Likely _ given _.
+_.
+
+DDx:
+>_; most likely given _, _
+>_; considered but unlikely given _, _
+
+- START _
+- _
+
+#_
+_At / above / below goal on current regimen, _.
+_.
+
+- CONT _
+- _
+
+#Deferred to future visit
+
+- _
+
+Records requested from _. Patient portal sign-up information given _. F/u in _ wk.","New patient visit
+
+***F here to establish care. Previous PCP ***. Concerns today: ***.
+
+PMH:
+
+- ***
+
+PSH: ***
+Meds: @MEDS@, reconciled with patient and ***
+Allergies: @ALLERGIES@
+Family history: @FAMHX@
+Social: lives ***, relationship status ***, children ***, occupation ***, vaping ***, marijuana ***, tobacco ***, alcohol ***, substances ***, sexual activity ***, exercise ***, diet ***, IPV screen ***
+Screens: [ DD_PHQ9_Depression_Screen_Current_Encntr ], [ DD_GAD7 ], AUDIT-C ***
+
+Exam:
+@VITALS@
+
+- General: no acute distress
+- ***
+
+Care gaps: @HM@
+
+- Screenings due: ***
+- Vaccines due: ***
+
+Assessment and plan:
+#***
+Likely *** given ***.
+***.
+
+DDx:
+>***; most likely given ***, ***
+>***; considered but unlikely given ***, ***
+
+- START ***
+- ***
+
+#***
+{At/above/below} goal on current regimen, ***.
+***.
+
+- CONT ***
+- ***
+
+#Deferred to future visit
+
+- ***
+
+Records requested from ***. Patient portal sign-up information given ***. F/u in *** wk.",2026-10-29,
+$tcm,Hospital follow-up visit,$,Visit notes,"Use for hospital or ED follow-up, including transitional care management.","Hospital follow-up visit
+
+_F here for follow-up after _ at _ from _ to _ for _.
+Interactive contact with patient or caregiver on _, within 2 business days of discharge _.
+Face-to-face visit on day _ after discharge.
+Discharge summary reviewed: _
+Hospital course: _
+Since discharge: _. Denies _.
+
+Medication reconciliation:
+
+- New: _
+- Changed: _
+- Stopped: _
+- Patient has and understands all meds _
+
+Pending results at discharge: _
+Follow-up appointments and referrals: _
+Home health or DME: _
+
+Exam:
+[VITALS]
+
+- _
+
+Assessment and plan:
+#_
+_ since d/c, _.
+_.
+
+- _
+
+Medical decision making: _moderate / high complexity
+Return precautions reviewed. F/u in _ wk.","Hospital follow-up visit
+
+***F here for follow-up after *** at *** from *** to *** for ***.
+Interactive contact with patient or caregiver on ***, within 2 business days of discharge ***.
+Face-to-face visit on day *** after discharge.
+Discharge summary reviewed: ***
+Hospital course: ***
+Since discharge: ***. Denies ***.
+
+Medication reconciliation:
+
+- New: ***
+- Changed: ***
+- Stopped: ***
+- Patient has and understands all meds ***
+
+Pending results at discharge: ***
+Follow-up appointments and referrals: ***
+Home health or DME: ***
+
+Exam:
+@VITALS@
+
+- ***
+
+Assessment and plan:
+#***
+*** since d/c, ***.
+***.
+
+- ***
+
+Medical decision making: {moderate/high complexity}
+Return precautions reviewed. F/u in *** wk.",2026-10-30,2026-10-30
+$preop,Preoperative evaluation,$,Visit notes,Use for clinic preoperative risk evaluation.,"Preoperative evaluation
+
+_F here for preop evaluation before _ on _ with Dr. _, _ anesthesia planned.
+Procedure risk: _low / elevated
+Cardiac history _. Pulmonary history _. Bleeding history _. Prior anesthesia problems, personal or family _. STOP-BANG _.
+Functional capacity: _ METs, climbs 2 flights of stairs or walks 4 blocks briskly _
+Meds: [MEDS]
+Allergies: _
+
+Exam:
+[VITALS]
+
+- Airway: _
+- CV: regular rate and rhythm, no murmur
+- Lungs: clear bilaterally
+- Extremities: no edema
+
+Data: ECG _, labs _
+
+RCRI: _ points
+
+- High-risk surgery: _
+- Ischemic heart disease: _
+- Heart failure: _
+- Cerebrovascular disease: _
+- Insulin-treated diabetes: _
+- Creatinine over 2: _
+- NSQIP or AUB-HAS2 risk, if used: _
+
+Assessment and plan:
+_F with _ undergoing _. Estimated perioperative risk _.
+
+- Further cardiac testing: _ not indicated given functional capacity of 4 METs or more or low RCRI risk
+- CONT _
+- HOLD _
+- HOLD SGLT2i 3 days before surgery, 4 days for ertugliflozin _
+- Anticoagulant and antiplatelet plan: _
+- Diabetes plan: _
+- VTE, OSA, and delirium risk: _
+- _ acceptable risk to proceed, final decision per surgeon and anesthesia
+
+Note sent to _.","Preoperative evaluation
+
+***F here for preop evaluation before *** on *** with Dr. ***, *** anesthesia planned.
+Procedure risk: {low/elevated}
+Cardiac history ***. Pulmonary history ***. Bleeding history ***. Prior anesthesia problems, personal or family ***. STOP-BANG ***.
+Functional capacity: *** METs, climbs 2 flights of stairs or walks 4 blocks briskly ***
+Meds: @MEDS@
+Allergies: ***
+
+Exam:
+@VITALS@
+
+- Airway: ***
+- CV: regular rate and rhythm, no murmur
+- Lungs: clear bilaterally
+- Extremities: no edema
+
+Data: ECG ***, labs ***
+
+RCRI: *** points
+
+- High-risk surgery: ***
+- Ischemic heart disease: ***
+- Heart failure: ***
+- Cerebrovascular disease: ***
+- Insulin-treated diabetes: ***
+- Creatinine over 2: ***
+- NSQIP or AUB-HAS2 risk, if used: ***
+
+Assessment and plan:
+***F with *** undergoing ***. Estimated perioperative risk ***.
+
+- Further cardiac testing: *** not indicated given functional capacity of 4 METs or more or low RCRI risk
+- CONT ***
+- HOLD ***
+- HOLD SGLT2i 3 days before surgery, 4 days for ertugliflozin ***
+- Anticoagulant and antiplatelet plan: ***
+- Diabetes plan: ***
+- VTE, OSA, and delirium risk: ***
+- *** acceptable risk to proceed, final decision per surgeon and anesthesia
+
+Note sent to ***.",2026-10-30,2026-10-30
+$ippe,Welcome to Medicare visit,$,Visit notes,Use for the one-time initial preventive physical examination.,"Initial preventive physical examination
+
+_yo here for Welcome to Medicare visit, within 12 months of Part B enrollment _.
+
+Medical and social history reviewed: _
+Meds and supplements reviewed: _
+Opioid use and substance use disorder risk: _
+Depression screen: PHQ-2 _, PHQ-9 _
+Functional ability and safety: ADLs _, falls _, hearing _, home safety _
+Advance directive: discussed _
+
+Exam:
+[VITALS]
+BMI _
+Visual acuity: _
+
+ECG screening: _ordered / declined
+
+Education and referrals:
+
+- Written screening and vaccine checklist given: _
+- Referrals: _","Initial preventive physical examination
+
+***yo here for Welcome to Medicare visit, within 12 months of Part B enrollment ***.
+
+Medical and social history reviewed: ***
+Meds and supplements reviewed: ***
+Opioid use and substance use disorder risk: ***
+Depression screen: PHQ-2 ***, PHQ-9 ***
+Functional ability and safety: ADLs ***, falls ***, hearing ***, home safety ***
+Advance directive: discussed ***
+
+Exam:
+@VITALS@
+BMI ***
+Visual acuity: ***
+
+ECG screening: {ordered/declined}
+
+Education and referrals:
+
+- Written screening and vaccine checklist given: ***
+- Referrals: ***",2026-10-30,2026-10-30
+$acp,Advance care planning,$,Visit notes,Use for a dedicated advance care planning discussion in clinic.,"Advance care planning
+
+Time spent face-to-face on advance care planning: _ minutes, from _ to _.
+Participants: _
+Patient capacity: _
+Patient agreed to the discussion voluntarily.
+
+Discussion:
+
+- Understanding of health: _
+- Values and goals: _
+- Health care agent: _
+- Code status preference: _
+- Treatment preferences: _
+
+Documents: _advance directive / POLST / health care power of attorney _completed / reviewed / given
+Plan: _","Advance care planning
+
+Time spent face-to-face on advance care planning: *** minutes, from *** to ***.
+Participants: ***
+Patient capacity: ***
+Patient agreed to the discussion voluntarily.
+
+Discussion:
+
+- Understanding of health: ***
+- Values and goals: ***
+- Health care agent: ***
+- Code status preference: ***
+- Treatment preferences: ***
+
+Documents: {advance directive/POLST/health care} power of attorney {completed/reviewed/given}
+Plan: ***",2026-10-30,2026-10-30
+$phone,Telephone encounter,$,Visit notes,Use for telephone calls and nurse or provider triage.,"Telephone encounter
+
+Call from _, relationship _, at _, callback number _.
+Two patient identifiers confirmed _.
+Reason for call: _
+Symptoms: _. Red flags asked: _.
+
+Assessment and plan:
+#_
+Likely _ given _.
+
+- _
+
+Disposition: _ home care, clinic visit on _, urgent care, or ED
+Caller understood plan and return precautions _. Total time _ min.","Telephone encounter
+
+Call from ***, relationship ***, at ***, callback number ***.
+Two patient identifiers confirmed ***.
+Reason for call: ***
+Symptoms: ***. Red flags asked: ***.
+
+Assessment and plan:
+#***
+Likely *** given ***.
+
+- ***
+
+Disposition: *** home care, clinic visit on ***, urgent care, or ED
+Caller understood plan and return precautions ***. Total time *** min.",2026-10-29,
+$portal,Portal message reply,$,Visit notes,Use as a shell for replying to patient portal messages.,"Hello _,
+
+Thank you for your message about _.
+
+_
+
+Next steps: _
+
+If you develop _, please call the clinic or go to the ER. Please do not use the portal for urgent needs.
+
+_","Hello ***,
+
+Thank you for your message about ***.
+
+***
+
+Next steps: ***
+
+If you develop ***, please call the clinic or go to the ER. Please do not use the portal for urgent needs.
+
+***",2026-10-29,
+$nbcheck,Newborn weight check,$,Visit notes,Use for the 2 to 5 day newborn weight and jaundice check.,"Newborn weight check
+
+_ day old _w_d _ infant here with _ for weight check. Birth weight _ g, discharge weight _ g.
+Feeding: _breast / formula / both, every _ hours, _ minutes or _ oz per feed. Latch _.
+Voids _ and stools _ in past 24 hours, stool color _.
+Jaundice _, sleepiness _.
+Maternal blood type _, infant _, DAT _. Hospital bilirubin _ at _ hours.
+
+Weight today: _ g, _ percent change from birth weight, NEWT _ percentile
+[VITALS]
+
+- General: _
+- Skin: jaundice to _
+- Fontanelle: soft, flat
+- Mucous membranes: moist
+- Heart: no murmur
+- Cord: _
+
+Assessment: _ day old infant with _% weight change, feeding _, jaundice _.
+
+- Bilirubin: _TcB / TSB _, _ below phototherapy threshold
+- Feeding plan: _
+- Lactation referral: _
+- Weight recheck in _ days, birth weight regained by 10 to 14 days expected","Newborn weight check
+
+*** day old ***w***d *** infant here with *** for weight check. Birth weight *** g, discharge weight *** g.
+Feeding: {breast/formula/both}, every *** hours, *** minutes or *** oz per feed. Latch ***.
+Voids *** and stools *** in past 24 hours, stool color ***.
+Jaundice ***, sleepiness ***.
+Maternal blood type ***, infant ***, DAT ***. Hospital bilirubin *** at *** hours.
+
+Weight today: *** g, *** percent change from birth weight, NEWT *** percentile
+@VITALS@
+
+- General: ***
+- Skin: jaundice to ***
+- Fontanelle: soft, flat
+- Mucous membranes: moist
+- Heart: no murmur
+- Cord: ***
+
+Assessment: *** day old infant with ***% weight change, feeding ***, jaundice ***.
+
+- Bilirubin: {TcB/TSB} ***, *** below phototherapy threshold
+- Feeding plan: ***
+- Lactation referral: ***
+- Weight recheck in *** days, birth weight regained by 10 to 14 days expected",2026-10-31,2026-10-31
+$heads,Adolescent psychosocial screen,$,Visit notes,Use for the confidential HEADSSS adolescent interview.,"Adolescent psychosocial screen
+
+Confidentiality and its limits explained, parent stepped out _.
+
+- Home: _
+- Education and employment: _
+- Activities: _
+- Drugs: tobacco and vaping _, alcohol _, cannabis _, other _
+- Sexuality: _, partners _, contraception _, condoms _, STI testing _
+- Suicide and depression: PHQ-A _, item 9 _, SI _
+- Safety: seat belt and helmet _, firearms in home _, violence or bullying _, online safety _
+
+CRAFFT: _
+Concerns identified: _","Adolescent psychosocial screen
+
+Confidentiality and its limits explained, parent stepped out ***.
+
+- Home: ***
+- Education and employment: ***
+- Activities: ***
+- Drugs: tobacco and vaping ***, alcohol ***, cannabis ***, other ***
+- Sexuality: ***, partners ***, contraception ***, condoms ***, STI testing ***
+- Suicide and depression: PHQ-A ***, item 9 ***, SI ***
+- Safety: seat belt and helmet ***, firearms in home ***, violence or bullying ***, online safety ***
+
+CRAFFT: ***
+Concerns identified: ***",2026-10-29,
+$cs,Controlled substance follow-up,$,Visit notes,Use for any visit where a controlled medication is prescribed or continued.,"Controlled substance follow-up
+
+_F here for follow-up of _ on _.
+
+- Medication: _ mg PO _, quantity _, last fill _
+- PDMP reviewed on _: _ consistent with prescribing
+- Urine drug screen: _ collected, last _, result _
+- Treatment agreement: _ on file, signed _
+- Pill count: _
+- Benefit: function and goals _
+- Harms: sedation _, constipation _, misuse behaviors _
+- Naloxone: _prescribed / on hand
+- Co-prescribed sedatives: _
+
+Assessment and plan:
+#_
+_ benefits outweigh risks, _.
+PDMP _, UDS _, pill count _.
+
+- _CONT / INCR. / DECR. / taper _
+- Next fill date _, next visit _
+- Schedule II: 1-month supply, no refills; secure storage and disposal counseled _
+- Prescription proposed to preceptor Dr. _ for signature","Controlled substance follow-up
+
+***F here for follow-up of *** on ***.
+
+- Medication: *** mg PO ***, quantity ***, last fill ***
+- PDMP reviewed on ***: *** consistent with prescribing
+- Urine drug screen: *** collected, last ***, result ***
+- Treatment agreement: *** on file, signed ***
+- Pill count: ***
+- Benefit: function and goals ***
+- Harms: sedation ***, constipation ***, misuse behaviors ***
+- Naloxone: {prescribed/on hand}
+- Co-prescribed sedatives: ***
+
+Assessment and plan:
+#***
+*** benefits outweigh risks, ***.
+PDMP ***, UDS ***, pill count ***.
+
+- {CONT/INCR}. / DECR. / taper ***
+- Next fill date ***, next visit ***
+- Schedule II: 1-month supply, no refills; secure storage and disposal counseled ***
+- Prescription proposed to preceptor Dr. *** for signature",2026-10-29,
+$bup,Buprenorphine visit,$,Visit notes,Use for buprenorphine initiation or follow-up visits for opioid use disorder.,"Buprenorphine for opioid use disorder
+
+_F here for _initiation / follow-up of OUD on buprenorphine-naloxone.
+
+- Current dose: buprenorphine-naloxone _ mg SL daily
+- Cravings _, withdrawal _, opioid use since last visit _
+- Other substances: _
+- Side effects: _
+- PDMP reviewed: _
+- UDS: _ collected, buprenorphine _, norbuprenorphine _, fentanyl _, other _
+- Naloxone kit: _
+- Counseling or recovery support: _
+- Pregnancy potential and contraception: _
+- HIV, hepatitis B and C screening: _
+
+COWS if initiating: _
+
+Assessment and plan:
+#Opioid use disorder
+OUD, _on maintenance / in early remission, _.
+UDS _, PDMP _.
+
+- _START / CONT buprenorphine-naloxone _ mg SL daily, _ day supply
+- Initiation method if starting: _standard / low-dose / high-dose
+- Next visit in _ wk
+- Prescription proposed to preceptor Dr. _ for signature","Buprenorphine for opioid use disorder
+
+***F here for {initiation/follow-up} of OUD on buprenorphine-naloxone.
+
+- Current dose: buprenorphine-naloxone *** mg SL daily
+- Cravings ***, withdrawal ***, opioid use since last visit ***
+- Other substances: ***
+- Side effects: ***
+- PDMP reviewed: ***
+- UDS: *** collected, buprenorphine ***, norbuprenorphine ***, fentanyl ***, other ***
+- Naloxone kit: ***
+- Counseling or recovery support: ***
+- Pregnancy potential and contraception: ***
+- HIV, hepatitis B and C screening: ***
+
+COWS if initiating: ***
+
+Assessment and plan:
+#Opioid use disorder
+OUD, {on maintenance/in early remission}, ***.
+UDS ***, PDMP ***.
+
+- {START/CONT buprenorphine-naloxone} *** mg SL daily, *** day supply
+- Initiation method if starting: {standard/low-dose/high-dose}
+- Next visit in *** wk
+- Prescription proposed to preceptor Dr. *** for signature",2026-10-30,2026-10-30
+$bupstd,Standard buprenorphine initiation,$,Visit notes,Use as the plan when starting buprenorphine after the patient is in withdrawal.,"#Opioid use disorder, standard buprenorphine initiation
+
+Last opioid use: _ at _, type _. COWS _. Fentanyl use _.
+
+- Start once in clear withdrawal: COWS 8 or more, moderate withdrawal of COWS over 13 often used with fentanyl _
+- Day 1: buprenorphine-naloxone 4 mg SL. Repeat 4 mg SL every 1 to 2 hours as needed for withdrawal. Usual day 1 total 8 to 16 mg
+- Day 2: day 1 total plus up to 4 mg SL as needed, once daily
+- Maintenance: buprenorphine-naloxone _ mg SL daily, usual 16 to 24 mg
+- If withdrawal worsens after a dose, manage as precipitated withdrawal
+- Naloxone 4 mg nasal spray prescribed
+- Follow-up call or visit in _ days
+- Prescription proposed to preceptor Dr. _ for signature","#Opioid use disorder, standard buprenorphine initiation
+
+Last opioid use: *** at ***, type ***. COWS ***. Fentanyl use ***.
+
+- Start once in clear withdrawal: COWS 8 or more, moderate withdrawal of COWS over 13 often used with fentanyl ***
+- Day 1: buprenorphine-naloxone 4 mg SL. Repeat 4 mg SL every 1 to 2 hours as needed for withdrawal. Usual day 1 total 8 to 16 mg
+- Day 2: day 1 total plus up to 4 mg SL as needed, once daily
+- Maintenance: buprenorphine-naloxone *** mg SL daily, usual 16 to 24 mg
+- If withdrawal worsens after a dose, manage as precipitated withdrawal
+- Naloxone 4 mg nasal spray prescribed
+- Follow-up call or visit in *** days
+- Prescription proposed to preceptor Dr. *** for signature",2026-10-30,2026-10-30
+$bupmicro,Low-dose buprenorphine initiation,$,Visit notes,"Use as the plan for low-dose, or micro, buprenorphine initiation while the patient continues full agonist opioids.","#Opioid use disorder, low-dose buprenorphine initiation
+
+Current full agonist: _ at _ per day. Reason for low-dose method: _.
+
+- Continue the full agonist at the current dose during days 1 to 6
+- Buprenorphine-naloxone 2/0.5 mg film, cut into quarters for 0.5 mg doses
+- Day 1: 0.5 mg SL once daily
+- Day 2: 0.5 mg SL BID
+- Day 3: 1 mg SL BID
+- Day 4: 2 mg SL BID
+- Day 5: 3 mg SL BID
+- Day 6: 4 mg SL BID
+- Day 7: 12 mg SL once daily, stop the full agonist
+- Day 8 and on: 16 mg SL daily, adjust to cravings and withdrawal _
+- If withdrawal appears, hold at the current dose for 1 to 2 days, then resume
+- Check in by phone on day _ and visit on day _
+- Written schedule given
+- Naloxone 4 mg nasal spray prescribed
+- Prescription proposed to preceptor Dr. _ for signature","#Opioid use disorder, low-dose buprenorphine initiation
+
+Current full agonist: *** at *** per day. Reason for low-dose method: ***.
+
+- Continue the full agonist at the current dose during days 1 to 6
+- Buprenorphine-naloxone 2/0.5 mg film, cut into quarters for 0.5 mg doses
+- Day 1: 0.5 mg SL once daily
+- Day 2: 0.5 mg SL BID
+- Day 3: 1 mg SL BID
+- Day 4: 2 mg SL BID
+- Day 5: 3 mg SL BID
+- Day 6: 4 mg SL BID
+- Day 7: 12 mg SL once daily, stop the full agonist
+- Day 8 and on: 16 mg SL daily, adjust to cravings and withdrawal ***
+- If withdrawal appears, hold at the current dose for 1 to 2 days, then resume
+- Check in by phone on day *** and visit on day ***
+- Written schedule given
+- Naloxone 4 mg nasal spray prescribed
+- Prescription proposed to preceptor Dr. *** for signature",2026-10-29,
+$bupprecip,Precipitated withdrawal management,$,Visit notes,Use as the plan when buprenorphine precipitates withdrawal.,"#Precipitated opioid withdrawal
+
+Buprenorphine _ mg given at _. COWS before _ and now _.
+
+- Additional buprenorphine: buprenorphine-naloxone 8 mg SL now, repeat 8 mg SL in 1 hour if COWS still rising _
+- Symptom adjuncts as needed:
+- Clonidine 0.1 mg PO every 6 hours as needed, hold for SBP under 100
+- Ondansetron 4 mg PO every 8 hours as needed for nausea
+- Loperamide 4 mg PO once, then 2 mg after each loose stool, max 16 mg/day
+- Hydroxyzine 25 to 50 mg PO every 6 hours as needed for anxiety
+- Ibuprofen 600 mg PO every 6 hours as needed for aches
+- Reassess COWS every 1 hour until improving
+- ED if unable to keep fluids down or symptoms uncontrolled
+- Restart plan: _","#Precipitated opioid withdrawal
+
+Buprenorphine *** mg given at ***. COWS before *** and now ***.
+
+- Additional buprenorphine: buprenorphine-naloxone 8 mg SL now, repeat 8 mg SL in 1 hour if COWS still rising ***
+- Symptom adjuncts as needed:
+- Clonidine 0.1 mg PO every 6 hours as needed, hold for SBP under 100
+- Ondansetron 4 mg PO every 8 hours as needed for nausea
+- Loperamide 4 mg PO once, then 2 mg after each loose stool, max 16 mg/day
+- Hydroxyzine 25 to 50 mg PO every 6 hours as needed for anxiety
+- Ibuprofen 600 mg PO every 6 hours as needed for aches
+- Reassess COWS every 1 hour until improving
+- ED if unable to keep fluids down or symptoms uncontrolled
+- Restart plan: ***",2026-10-30,2026-10-30
+$adhd,"ADHD follow-up, pediatric",$,Visit notes,Use for pediatric ADHD medication follow-up visits.,"ADHD follow-up, pediatric
+
+_yo here with _parent / patient / both for ADHD follow-up on _ _ mg PO every morning.
+
+- School: _improved / unchanged / worse, grade _, IEP or 504 _in place / requested / none
+- Home and friends: _improved / unchanged / worse
+- Vanderbilt follow-up: parent symptoms _/54, performance average _; teacher symptoms _/54, performance average _
+- Wears off at _, adherence _daily / school days only / missed doses
+- Side effects: appetite _none / mild / bothersome, sleep _none / mild / bothersome, headache or stomachache _none / mild / bothersome
+- Mood or irritability _none / mild / bothersome, tics _none / mild / bothersome, rebound _none / mild / bothersome
+- Cardiac: chest pain, palpitations, or fainting with exercise _denies / reports _
+- Diversion: stored locked, not shared or sold, no lost or early refills _yes / concern _
+- Substance use: _not asked, under 12 / none / _
+- PDMP reviewed: _yes, no concerns / yes, see note
+
+[VITALS]
+Weight _, _ percentile, change _. Height _ percentile. BMI _ percentile.
+BP _, _normal / elevated / hypertensive for age. HR _.
+
+Assessment and plan:
+#ADHD, _combined / predominantly inattentive / predominantly hyperactive-impulsive presentation
+_Well controlled / partially controlled / uncontrolled on current regimen, _.
+Vanderbilt parent _, teacher _. Weight _ percentile, BP _, HR _.
+
+- _CONT / START / STOP / INCR. / DECR. _methylphenidate ER / dexmethylphenidate ER / mixed amphetamine salts ER / lisdexamfetamine / atomoxetine / guanfacine ER / viloxazine ER _ mg PO daily
+- Parent training in behavior management, classroom supports, IEP or 504 plan _
+- Medication locked up, never shared, unused doses disposed of
+- Monitor height, weight, BP, HR, sleep, and mood each visit
+- Vanderbilt follow-up from parent and teacher before next visit
+- Resident PCP: monthly in-person visits for controlled prescriptions per clinic policy; PDMP each visit, UDS and agreement at least yearly _
+- Next visit in _ wk
+- Prescription proposed to preceptor Dr. _ for signature
+
+If dose change:
+
+- INCR. methylphenidate ER (OROS) by 18 mg weekly, max 54 mg/day age 6-12, 72 mg/day age 13-17, not >2 mg/kg/day
+- INCR. dexmethylphenidate ER by 5 mg weekly, max 30 mg/day
+- INCR. mixed amphetamine salts ER by 5-10 mg weekly, max 30 mg/day age 6-12; age 13-17 label dose 20 mg/day
+- INCR. lisdexamfetamine by 10-20 mg weekly, max 70 mg/day
+- INCR. atomoxetine after 3 days or more to 1.2 mg/kg/day, max 1.4 mg/kg/day or 100 mg/day
+- INCR. guanfacine ER by 1 mg/wk or less, target 0.05-0.12 mg/kg/day, max 4 mg/day age 6-12, 7 mg/day age 13-17
+- INCR. viloxazine ER by 100 mg weekly age 6-11, by 200 mg after 1 wk age 12-17, max 400 mg/day
+- DECR. guanfacine ER by 1 mg every 3-7 days to stop, avoid abrupt d/c
+
+If side effects:
+
+- Low appetite or weight loss: breakfast before dose takes effect, calorie-dense dinner and evening snack
+- Insomnia: dose early in the morning, bedtime routine, adjust dose or agent if persists
+- Rebound: small short-acting afternoon dose, or DECR. if dose too high
+- Sedated, tearful, or irritable: DECR. dose
+- Tics: hold stimulant until tics settle, then a different stimulant or a nonstimulant
+- Poor growth: consider treatment interruption if height or weight not tracking
+- Atomoxetine or viloxazine: monitor for suicidal thoughts and mood change, most in early months and after dose changes","ADHD follow-up, pediatric
+
+***yo here with {parent/patient/both} for ADHD follow-up on *** *** mg PO every morning.
+
+- School: {improved/unchanged/worse}, grade ***, IEP or 504 {in place/requested/none}
+- Home and friends: {improved/unchanged/worse}
+- Vanderbilt follow-up: parent symptoms ***/54, performance average ***; teacher symptoms ***/54, performance average ***
+- Wears off at ***, adherence {daily/school days only/missed doses}
+- Side effects: appetite {none/mild/bothersome}, sleep {none/mild/bothersome}, headache or stomachache {none/mild/bothersome}
+- Mood or irritability {none/mild/bothersome}, tics {none/mild/bothersome}, rebound {none/mild/bothersome}
+- Cardiac: chest pain, palpitations, or fainting with exercise {denies/reports} ***
+- Diversion: stored locked, not shared or sold, no lost or early refills {yes/concern} ***
+- Substance use: ***not asked, under 12 / none / ***
+- PDMP reviewed: ***yes, no concerns / yes, see note
+
+@VITALS@
+Weight ***, *** percentile, change ***. Height *** percentile. BMI *** percentile.
+BP ***, {normal/elevated/hypertensive} for age. HR ***.
+
+Assessment and plan:
+#ADHD, {combined/predominantly inattentive/predominantly hyperactive-impulsive presentation}
+{Well controlled/partially controlled/uncontrolled} on current regimen, ***.
+Vanderbilt parent ***, teacher ***. Weight *** percentile, BP ***, HR ***.
+
+- {CONT/START/STOP/INCR}. / DECR. {methylphenidate ER/dexmethylphenidate ER/mixed amphetamine salts ER/lisdexamfetamine/atomoxetine/guanfacine ER/viloxazine ER} *** mg PO daily
+- Parent training in behavior management, classroom supports, IEP or 504 plan ***
+- Medication locked up, never shared, unused doses disposed of
+- Monitor height, weight, BP, HR, sleep, and mood each visit
+- Vanderbilt follow-up from parent and teacher before next visit
+- Resident PCP: monthly in-person visits for controlled prescriptions per clinic policy; PDMP each visit, UDS and agreement at least yearly ***
+- Next visit in *** wk
+- Prescription proposed to preceptor Dr. *** for signature
+
+If dose change:
+
+- INCR. methylphenidate ER (OROS) by 18 mg weekly, max 54 mg/day age 6-12, 72 mg/day age 13-17, not >2 mg/kg/day
+- INCR. dexmethylphenidate ER by 5 mg weekly, max 30 mg/day
+- INCR. mixed amphetamine salts ER by 5-10 mg weekly, max 30 mg/day age 6-12; age 13-17 label dose 20 mg/day
+- INCR. lisdexamfetamine by 10-20 mg weekly, max 70 mg/day
+- INCR. atomoxetine after 3 days or more to 1.2 mg/kg/day, max 1.4 mg/kg/day or 100 mg/day
+- INCR. guanfacine ER by 1 mg/wk or less, target 0.05-0.12 mg/kg/day, max 4 mg/day age 6-12, 7 mg/day age 13-17
+- INCR. viloxazine ER by 100 mg weekly age 6-11, by 200 mg after 1 wk age 12-17, max 400 mg/day
+- DECR. guanfacine ER by 1 mg every 3-7 days to stop, avoid abrupt d/c
+
+If side effects:
+
+- Low appetite or weight loss: breakfast before dose takes effect, calorie-dense dinner and evening snack
+- Insomnia: dose early in the morning, bedtime routine, adjust dose or agent if persists
+- Rebound: small short-acting afternoon dose, or DECR. if dose too high
+- Sedated, tearful, or irritable: DECR. dose
+- Tics: hold stimulant until tics settle, then a different stimulant or a nonstimulant
+- Poor growth: consider treatment interruption if height or weight not tracking
+- Atomoxetine or viloxazine: monitor for suicidal thoughts and mood change, most in early months and after dose changes",2026-10-31,2026-10-31
+$worknote,Work note,$,Visit notes,Use for a return-to-work or work restriction letter.,"To whom it may concern,
+
+_ was seen in our clinic on _.
+
+_ may return to work on _ without restrictions.
+Restrictions until _: _
+
+Please contact our office at _ local with questions.
+
+_","To whom it may concern,
+
+*** was seen in our clinic on ***.
+
+*** may return to work on *** without restrictions.
+Restrictions until ***: ***
+
+Please contact our office at *** local with questions.
+
+***",2026-10-29,
+$schoolnote,School note,$,Visit notes,"Use for a school absence, return, or activity restriction letter.","To whom it may concern,
+
+_ was seen in our clinic on _.
+
+Please excuse _ from school on _. _ may return to school on _.
+Physical activity: _no restrictions / restricted until _ as follows: _
+Medications at school: _
+
+Please contact our office at _ local with questions.
+
+_","To whom it may concern,
+
+*** was seen in our clinic on ***.
+
+Please excuse *** from school on ***. *** may return to school on ***.
+Physical activity: {no restrictions/restricted until} *** as follows: ***
+Medications at school: ***
+
+Please contact our office at *** local with questions.
+
+***",2026-10-29,
+$noshow,Missed appointment,$,Visit notes,Use to document a missed appointment and outreach.,"Missed appointment
+
+Patient did not arrive for _ appointment on _.
+Outreach: _ phone call with message, portal message, or letter on _.
+Clinical risk of missed visit: _
+Plan: reschedule _, refills _, notify _.","Missed appointment
+
+Patient did not arrive for *** appointment on ***.
+Outreach: *** phone call with message, portal message, or letter on ***.
+Clinical risk of missed visit: ***
+Plan: reschedule ***, refills ***, notify ***.",2026-10-29,
+$reflet,Referral letter,$,Visit notes,Use as a letter to accompany a specialist referral.,"Referral to _
+
+Dear Dr. _,
+
+Thank you for seeing _, a _yo _, for _.
+
+Question: _
+Urgency: _
+Relevant history: _
+Workup so far: _
+Current meds: _
+
+Please send your recommendations to _ local.
+
+Thank you,
+_","Referral to ***
+
+Dear Dr. ***,
+
+Thank you for seeing ***, a ***yo ***, for ***.
+
+Question: ***
+Urgency: ***
+Relevant history: ***
+Workup so far: ***
+Current meds: ***
+
+Please send your recommendations to *** local.
+
+Thank you,
+***",2026-10-29,
+$nail,Toenail removal,$,Visit notes,Use for partial or full toenail avulsion with or without matrixectomy.,"Toenail removal
+
+Toe: _ side, _ toe
+Procedure: _partial wedge / full nail avulsion, _with / without chemical matrixectomy
+Indication: _
+Consent: risks including pain, bleeding, infection, regrowth, and nail deformity discussed, written consent obtained.
+Time out: _
+
+Anesthesia: digital block with lidocaine 1% _with / without epinephrine, _ mL
+Tourniquet: applied at _ and removed at _
+Procedure: Prepped with _. Nail plate freed from nail bed and _ lateral fold. _ portion removed with _. Phenol 88 percent applied to matrix for _ applications of 30 seconds each, then irrigated with alcohol _. Granulation tissue removed _.
+
+EBL: minimal
+Dressing: _
+Complications: _
+
+Aftercare instructions given. Follow up _.","Toenail removal
+
+Toe: *** side, *** toe
+Procedure: {partial wedge/full nail avulsion}, {with/without} chemical matrixectomy
+Indication: ***
+Consent: risks including pain, bleeding, infection, regrowth, and nail deformity discussed, written consent obtained.
+Time out: ***
+
+Anesthesia: digital block with lidocaine 1% {with/without epinephrine}, *** mL
+Tourniquet: applied at *** and removed at ***
+Procedure: Prepped with ***. Nail plate freed from nail bed and *** lateral fold. *** portion removed with ***. Phenol 88 percent applied to matrix for *** applications of 30 seconds each, then irrigated with alcohol ***. Granulation tissue removed ***.
+
+EBL: minimal
+Dressing: ***
+Complications: ***
+
+Aftercare instructions given. Follow up ***.",2026-10-30,2026-10-30
+$colpo,Colposcopy,$,Visit notes,Use for colposcopy with or without biopsy and ECC.,"Colposcopy
+
+Indication: _, prior cytology _ on _, HPV _.
+LMP _, pregnancy test _.
+Consent: risks including bleeding, infection, pain, and need for further procedures discussed, written consent obtained.
+Time out: _
+
+Procedure: Speculum placed. Acetic acid 3 to 5 percent applied. Lugol solution _.
+
+- Adequacy: squamocolumnar junction _ fully seen, transformation zone type _
+- Findings: _
+- Biopsies: _ at _ o'clock
+- ECC: _ done, not done if pregnant
+- Hemostasis: _Monsel solution / silver nitrate
+
+Colposcopic impression: _
+EBL: minimal
+Complications: _
+
+Specimens to pathology. Results expected in _ days. Plan per results and risk-based management _. Aftercare instructions given.","Colposcopy
+
+Indication: ***, prior cytology *** on ***, HPV ***.
+LMP ***, pregnancy test ***.
+Consent: risks including bleeding, infection, pain, and need for further procedures discussed, written consent obtained.
+Time out: ***
+
+Procedure: Speculum placed. Acetic acid 3 to 5 percent applied. Lugol solution ***.
+
+- Adequacy: squamocolumnar junction *** fully seen, transformation zone type ***
+- Findings: ***
+- Biopsies: *** at *** o'clock
+- ECC: *** done, not done if pregnant
+- Hemostasis: {Monsel solution/silver nitrate}
+
+Colposcopic impression: ***
+EBL: minimal
+Complications: ***
+
+Specimens to pathology. Results expected in *** days. Plan per results and risk-based management ***. Aftercare instructions given.",2026-10-30,2026-10-30
+$repair,Laceration repair,$,Visit notes,"Use for clinic laceration repair with sutures, staples, or tissue adhesive.","Laceration repair
+
+Location: _
+Length: _ cm, depth _, _simple / intermediate / complex
+Mechanism and time of injury: _
+Tetanus: _
+Distal neurovascular and tendon function: intact _
+Consent: risks including infection, scarring, and dehiscence discussed, verbal consent obtained.
+Time out: _
+
+Anesthesia: lidocaine 1% _with / without epinephrine, _ mL
+Irrigation: _ mL normal saline under pressure
+Exploration: no foreign body or tendon involvement _
+Closure: _ sutures of _, _ layers, or tissue adhesive
+EBL: minimal
+Complications: _
+
+Wound care and suture removal in _ days reviewed.","Laceration repair
+
+Location: ***
+Length: *** cm, depth ***, {simple/intermediate/complex}
+Mechanism and time of injury: ***
+Tetanus: ***
+Distal neurovascular and tendon function: intact ***
+Consent: risks including infection, scarring, and dehiscence discussed, verbal consent obtained.
+Time out: ***
+
+Anesthesia: lidocaine 1% {with/without epinephrine}, *** mL
+Irrigation: *** mL normal saline under pressure
+Exploration: no foreign body or tendon involvement ***
+Closure: *** sutures of ***, *** layers, or tissue adhesive
+EBL: minimal
+Complications: ***
+
+Wound care and suture removal in *** days reviewed.",2026-10-29,
+$cerumen,Cerumen removal,$,Visit notes,Use for impacted cerumen removal.,"Cerumen removal
+
+Indication: impacted cerumen, _left / right / bilateral, with _
+No TM perforation, tubes, or prior ear surgery before irrigation _.
+Verbal consent obtained.
+Method: _ irrigation with warm water, curette, or suction
+Result: TM _ visualized after removal, appears _
+Complications: _","Cerumen removal
+
+Indication: impacted cerumen, {left/right/bilateral}, with ***
+No TM perforation, tubes, or prior ear surgery before irrigation ***.
+Verbal consent obtained.
+Method: *** irrigation with warm water, curette, or suction
+Result: TM *** visualized after removal, appears ***
+Complications: ***",2026-10-29,
+$tpi,Trigger point injection,$,Visit notes,Use for myofascial trigger point injections.,"Trigger point injection
+
+Muscle: _, _ sites
+Indication: _
+Consent: risks including bleeding, infection, pneumothorax for thoracic sites, and post-injection soreness discussed, verbal consent obtained.
+Time out: _
+
+Procedure: Trigger points identified by palpation. Prepped with _. Injected with lidocaine 1% without epinephrine _ mL per site, _ mL total, using _ gauge needle.
+
+Complications: _
+Post-procedure: _","Trigger point injection
+
+Muscle: ***, *** sites
+Indication: ***
+Consent: risks including bleeding, infection, pneumothorax for thoracic sites, and post-injection soreness discussed, verbal consent obtained.
+Time out: ***
+
+Procedure: Trigger points identified by palpation. Prepped with ***. Injected with lidocaine 1% without epinephrine *** mL per site, *** mL total, using *** gauge needle.
+
+Complications: ***
+Post-procedure: ***",2026-10-29,
+$splint,Splint application,$,Visit notes,Use for splint application in clinic.,"Splint application
+
+Indication: _
+Splint: _ type, _ material
+Position: _
+Neurovascular exam before: _
+Neurovascular exam after: cap refill under 2 seconds, sensation intact, motor intact _
+Skin checked and bony prominences padded _.
+
+Instructions: elevate, ice, keep dry, return for numbness, color change, or increasing pain. Follow up with _ in _ days.","Splint application
+
+Indication: ***
+Splint: *** type, *** material
+Position: ***
+Neurovascular exam before: ***
+Neurovascular exam after: cap refill under 2 seconds, sensation intact, motor intact ***
+Skin checked and bony prominences padded ***.
+
+Instructions: elevate, ice, keep dry, return for numbness, color change, or increasing pain. Follow up with *** in *** days.",2026-10-29,
+$iudrem,IUD removal,$,Visit notes,Use for IUD removal.,"IUD removal
+
+Indication: _, device placed _
+Plan after removal: _ new IUD, other method _, or pregnancy desired
+Unprotected intercourse in past 5 days: _
+Verbal consent obtained.
+
+Procedure: Speculum placed, strings visualized _. IUD grasped with ring forceps and removed with gentle traction. Device intact _.
+
+Complications: _","IUD removal
+
+Indication: ***, device placed ***
+Plan after removal: *** new IUD, other method ***, or pregnancy desired
+Unprotected intercourse in past 5 days: ***
+Verbal consent obtained.
+
+Procedure: Speculum placed, strings visualized ***. IUD grasped with ring forceps and removed with gentle traction. Device intact ***.
+
+Complications: ***",2026-10-30,2026-10-30
+$fb,Foreign body removal,$,Visit notes,Use for superficial foreign body removal.,"Foreign body removal
+
+Location: _
+Object: _, time since _
+Verbal consent obtained.
+Anesthesia: _
+
+Procedure: _ removed with _. Wound inspected, no remaining foreign body _.
+
+Tetanus: _
+Complications: _","Foreign body removal
+
+Location: ***
+Object: ***, time since ***
+Verbal consent obtained.
+Anesthesia: ***
+
+Procedure: *** removed with ***. Wound inspected, no remaining foreign body ***.
+
+Tetanus: ***
+Complications: ***",2026-10-29,
+$ecg,ECG interpretation,$,Visit notes,Use to document an ECG interpretation.,"ECG interpretation
+
+Indication: _
+Rate: _ bpm
+Rhythm: _
+Axis: _
+Intervals: PR _ ms, QRS _ ms, QTc _ ms
+ST and T waves: _
+Other: _
+Compared with prior ECG on _: _
+Impression: _","ECG interpretation
+
+Indication: ***
+Rate: *** bpm
+Rhythm: ***
+Axis: ***
+Intervals: PR *** ms, QRS *** ms, QTc *** ms
+ST and T waves: ***
+Other: ***
+Compared with prior ECG on ***: ***
+Impression: ***",2026-10-29,
+$spiro,Spirometry interpretation,$,Visit notes,Use to document a spirometry interpretation.,"Spirometry interpretation
+
+Indication: _
+Quality: acceptable and repeatable _
+Pre-bronchodilator: FEV1 _ L, _ percent predicted, FVC _ L, _ percent predicted, FEV1/FVC _
+Post-bronchodilator: FEV1 _ L, change of _ mL and _ percent of predicted
+Interpretation: obstruction _, FEV1/FVC _ below lower limit of normal, severity _, bronchodilator response _ significant if more than 10 percent of predicted
+Impression: _","Spirometry interpretation
+
+Indication: ***
+Quality: acceptable and repeatable ***
+Pre-bronchodilator: FEV1 *** L, *** percent predicted, FVC *** L, *** percent predicted, FEV1/FVC ***
+Post-bronchodilator: FEV1 *** L, change of *** mL and *** percent of predicted
+Interpretation: obstruction ***, FEV1/FVC *** below lower limit of normal, severity ***, bronchodilator response *** significant if more than 10 percent of predicted
+Impression: ***",2026-10-30,2026-10-30
+$neb,In-clinic nebulizer,$,Visit notes,Use to document an in-clinic nebulizer treatment.,"In-clinic nebulizer treatment
+
+Indication: _
+Before: SpO2 _, RR _, HR _, wheeze _, work of breathing _, peak flow _
+Treatment at _: albuterol _ mg nebulized, children 0.15 mg/kg with min 2.5 mg and max 5 mg. _ ipratropium 0.5 mg nebulized, children 0.25 to 0.5 mg
+After: SpO2 _, RR _, HR _, wheeze _, work of breathing _, peak flow _
+Response: _","In-clinic nebulizer treatment
+
+Indication: ***
+Before: SpO2 ***, RR ***, HR ***, wheeze ***, work of breathing ***, peak flow ***
+Treatment at ***: albuterol *** mg nebulized, children 0.15 mg/kg with min 2.5 mg and max 5 mg. *** ipratropium 0.5 mg nebulized, children 0.25 to 0.5 mg
+After: SpO2 ***, RR ***, HR ***, wheeze ***, work of breathing ***, peak flow ***
+Response: ***",2026-10-30,2026-10-30
+$poc,Point of care results,$,Visit notes,Use to document point of care test results. Delete lines not done.,"Point of care testing
+
+- Urinalysis: _
+- Urine pregnancy test: _
+- Rapid strep: _
+- Influenza and COVID-19: _
+- Glucose: _
+- A1c: _
+- Hemoglobin: _
+- Other: _","Point of care testing
+
+- Urinalysis: ***
+- Urine pregnancy test: ***
+- Rapid strep: ***
+- Influenza and COVID-19: ***
+- Glucose: ***
+- A1c: ***
+- Hemoglobin: ***
+- Other: ***",2026-10-29,
+$cpod,Long-term opioid therapy review,$,Visit notes,"Use for a structured review of a patient on long-term opioid therapy, including inherited patients and assessment for complex persistent opioid dependence.","Long-term opioid therapy review
+
+_F on long-term opioid therapy for _ since _.
+
+- Current regimen: _ mg PO _, total _ MME per day
+- Prescriber history: _ inherited from Dr. _
+- Pain and function: PEG _, goals _, change over past year _
+- Benefit: _
+- Harms: sedation _, falls _, constipation _, hypogonadism symptoms _, sleep apnea _, mood _
+- Dependence: withdrawal between or with missed doses _, distress with dose reduction _, worsening pain despite dose _
+- OUD criteria: _ of 11 met, not counting tolerance and withdrawal under medical supervision
+- PDMP reviewed on _: _
+- UDS: _ collected, result _
+- Co-prescribed: benzodiazepines _, gabapentinoids _, sleep aids _, alcohol _
+- Naloxone: _prescribed / on hand
+- Mental health: PHQ-9 _, GAD-7 _, suicide risk _
+- Treatment agreement: signed on _ with prescriber _
+- Risk screening: ORT _, COMM _, PADT _
+- UDS within 12 months: _
+
+Assessment:
+#Long-term opioid therapy
+_F on long-term opioid therapy at _ MME/day, _ complex persistent opioid dependence given _.
+OUD criteria _ met. PDMP _, UDS _.","Long-term opioid therapy review
+
+***F on long-term opioid therapy for *** since ***.
+
+- Current regimen: *** mg PO ***, total *** MME per day
+- Prescriber history: *** inherited from Dr. ***
+- Pain and function: PEG ***, goals ***, change over past year ***
+- Benefit: ***
+- Harms: sedation ***, falls ***, constipation ***, hypogonadism symptoms ***, sleep apnea ***, mood ***
+- Dependence: withdrawal between or with missed doses ***, distress with dose reduction ***, worsening pain despite dose ***
+- OUD criteria: *** of 11 met, not counting tolerance and withdrawal under medical supervision
+- PDMP reviewed on ***: ***
+- UDS: *** collected, result ***
+- Co-prescribed: benzodiazepines ***, gabapentinoids ***, sleep aids ***, alcohol ***
+- Naloxone: {prescribed/on hand}
+- Mental health: PHQ-9 ***, GAD-7 ***, suicide risk ***
+- Treatment agreement: signed on *** with prescriber ***
+- Risk screening: ORT ***, COMM ***, PADT ***
+- UDS within 12 months: ***
+
+Assessment:
+#Long-term opioid therapy
+***F on long-term opioid therapy at *** MME/day, *** complex persistent opioid dependence given ***.
+OUD criteria *** met. PDMP ***, UDS ***.",2026-10-30,2026-10-30
+$opitaper,Opioid taper plan,$,Visit notes,Use as the plan for a patient-agreed opioid dose reduction.,"#Opioid taper plan
+
+Starting regimen: _ at _ MME/day. Reason for taper: _. Patient agrees _.
+
+- Rate: _ percent of the current dose every _ weeks; after 1 year or more of opioid use, about 10 percent per month or slower
+- Step 1, from _: _
+- Step 2, from _: _
+- Step 3, from _: _
+- Pause if withdrawal or function requires
+- Once the smallest tablet is reached, lengthen the dosing interval before stopping
+- START clonidine 0.1-0.2 mg PO q6-8h PRN withdrawal, HOLD if BP under 90/60 _
+- Clonidine test dose 0.1 mg with BP check 1 hr after, then daily BP checks
+- START loperamide 2 mg PO after each loose stool PRN, max 8 mg/day _
+- START ondansetron 4 mg PO q8h PRN nausea _
+- START hydroxyzine 25 mg PO q6h PRN anxiety _
+- Monitor for worsening mood, suicidal thoughts, and illicit opioid use; offer buprenorphine if OUD emerges
+- Naloxone on hand, counsel on lost tolerance
+- Follow up every _ weeks during taper, written schedule given
+- Prescription proposed to preceptor Dr. _ for signature","#Opioid taper plan
+
+Starting regimen: *** at *** MME/day. Reason for taper: ***. Patient agrees ***.
+
+- Rate: *** percent of the current dose every *** weeks; after 1 year or more of opioid use, about 10 percent per month or slower
+- Step 1, from ***: ***
+- Step 2, from ***: ***
+- Step 3, from ***: ***
+- Pause if withdrawal or function requires
+- Once the smallest tablet is reached, lengthen the dosing interval before stopping
+- START clonidine 0.1-0.2 mg PO q6-8h PRN withdrawal, HOLD if BP under 90/60 ***
+- Clonidine test dose 0.1 mg with BP check 1 hr after, then daily BP checks
+- START loperamide 2 mg PO after each loose stool PRN, max 8 mg/day ***
+- START ondansetron 4 mg PO q8h PRN nausea ***
+- START hydroxyzine 25 mg PO q6h PRN anxiety ***
+- Monitor for worsening mood, suicidal thoughts, and illicit opioid use; offer buprenorphine if OUD emerges
+- Naloxone on hand, counsel on lost tolerance
+- Follow up every *** weeks during taper, written schedule given
+- Prescription proposed to preceptor Dr. *** for signature",2026-10-30,2026-10-30
+$bupcpod,Rotation to buprenorphine for pain,$,Visit notes,Use as the plan to rotate a patient on long-term full agonist opioids to buprenorphine for chronic pain or complex persistent opioid dependence.,"#Rotation to buprenorphine for long-term opioid therapy
+
+Current full agonist: _ at _ MME/day. Reason for rotation: _.
+
+- Method: _low-dose overlap / standard initiation after withdrawal
+- Low-dose overlap: start buprenorphine-naloxone 0.5 mg SL daily and increase over 7 days while continuing the full agonist, then stop the full agonist
+- Pain dosing: buprenorphine-naloxone _ mg SL daily divided TID
+- Alternative for pain: buprenorphine buccal film or transdermal patch _
+- Naloxone 4 mg nasal spray prescribed
+- Reassess pain, function, and withdrawal in _ days, written plan given
+- Prescription proposed to preceptor Dr. _ for signature","#Rotation to buprenorphine for long-term opioid therapy
+
+Current full agonist: *** at *** MME/day. Reason for rotation: ***.
+
+- Method: {low-dose overlap/standard initiation} after withdrawal
+- Low-dose overlap: start buprenorphine-naloxone 0.5 mg SL daily and increase over 7 days while continuing the full agonist, then stop the full agonist
+- Pain dosing: buprenorphine-naloxone *** mg SL daily divided TID
+- Alternative for pain: buprenorphine buccal film or transdermal patch ***
+- Naloxone 4 mg nasal spray prescribed
+- Reassess pain, function, and withdrawal in *** days, written plan given
+- Prescription proposed to preceptor Dr. *** for signature",2026-10-30,2026-10-30
+$bzd,Long-term benzodiazepine review,$,Visit notes,"Use for a structured review of a patient on long-term benzodiazepines or Z-drugs, including inherited patients.","Long-term benzodiazepine review
+
+_F on _ _ mg PO _ since _, diazepam equivalent _ mg/day. Prescriber history: _ inherited from Dr. _.
+
+- Original indication: _
+- Current benefit per patient: _
+- Dose escalation or early refills: _
+- Rebound or withdrawal between doses: _
+- Sedative use disorder criteria: _ of 11 met, not counting tolerance and withdrawal under medical supervision
+- Harms: falls _, memory or cognition _, daytime sedation _, driving or crashes _, depression _
+- Co-use: opioids _, gabapentinoids _, alcohol _, other sedatives _
+- Sleep apnea or COPD: _
+- Seizure history or prior withdrawal seizures: _
+- PDMP reviewed on _: _
+- Readiness to discuss a taper: _
+
+Assessment:
+#Long-term benzodiazepine use
+Long-term benzodiazepine use with _ physiologic dependence, risk _.
+Sedative use disorder criteria _ met.","Long-term benzodiazepine review
+
+***F on *** *** mg PO *** since ***, diazepam equivalent *** mg/day. Prescriber history: *** inherited from Dr. ***.
+
+- Original indication: ***
+- Current benefit per patient: ***
+- Dose escalation or early refills: ***
+- Rebound or withdrawal between doses: ***
+- Sedative use disorder criteria: *** of 11 met, not counting tolerance and withdrawal under medical supervision
+- Harms: falls ***, memory or cognition ***, daytime sedation ***, driving or crashes ***, depression ***
+- Co-use: opioids ***, gabapentinoids ***, alcohol ***, other sedatives ***
+- Sleep apnea or COPD: ***
+- Seizure history or prior withdrawal seizures: ***
+- PDMP reviewed on ***: ***
+- Readiness to discuss a taper: ***
+
+Assessment:
+#Long-term benzodiazepine use
+Long-term benzodiazepine use with *** physiologic dependence, risk ***.
+Sedative use disorder criteria *** met.",2026-10-30,2026-10-30
+$bzdtaper,Benzodiazepine taper plan,$,Visit notes,Use as the plan for a patient-agreed benzodiazepine taper.,"#Benzodiazepine taper plan
+
+Starting regimen: _ at diazepam equivalent _ mg/day. Patient agrees _.
+
+- Optional switch to a longer-acting agent before tapering a short-acting drug: _ mg PO _ _
+- Rate: reduce by 5 to 10 percent of the current dose every 2 to 4 weeks. No more than 25 percent in any 2-week period
+- Strong physiologic dependence: 5 to 10 percent every 6 to 8 weeks or slower
+- Slow down near the end; the last steps are often the hardest
+- Pauses are allowed if symptoms interfere with function; avoid going back up if possible
+- Step schedule: _
+- CBT for anxiety or CBT-I for insomnia during the taper _
+- Watch for withdrawal: anxiety, insomnia, tremor, sweating, perceptual changes; seizure risk with fast reduction
+- Follow up every _ weeks, written schedule given
+- Prescription proposed to preceptor Dr. _ for signature","#Benzodiazepine taper plan
+
+Starting regimen: *** at diazepam equivalent *** mg/day. Patient agrees ***.
+
+- Optional switch to a longer-acting agent before tapering a short-acting drug: *** mg PO *** ***
+- Rate: reduce by 5 to 10 percent of the current dose every 2 to 4 weeks. No more than 25 percent in any 2-week period
+- Strong physiologic dependence: 5 to 10 percent every 6 to 8 weeks or slower
+- Slow down near the end; the last steps are often the hardest
+- Pauses are allowed if symptoms interfere with function; avoid going back up if possible
+- Step schedule: ***
+- CBT for anxiety or CBT-I for insomnia during the taper ***
+- Watch for withdrawal: anxiety, insomnia, tremor, sweating, perceptual changes; seizure risk with fast reduction
+- Follow up every *** weeks, written schedule given
+- Prescription proposed to preceptor Dr. *** for signature",2026-10-30,2026-10-30
+$bzdlet,Letter to inherited benzodiazepine patients,$,Visit notes,Use as a letter to patients inherited on long-term benzodiazepines before a review visit.,"Dear _,
+
+I am your new doctor at _. I want to talk with you about your _ medicine.
+
+Medicines like this can help in the short term. Over many years, they can raise the risk of falls, memory problems, car crashes, and breathing problems. The risk is higher with age, and with pain medicines or alcohol.
+
+I will not stop your medicine suddenly. Stopping suddenly can be dangerous. Any change will be slow, planned together with you, and paused if needed.
+
+At your visit on _, I would like to review how this medicine is working for you and talk about options.
+
+Please call _ local with questions.
+
+_","Dear ***,
+
+I am your new doctor at ***. I want to talk with you about your *** medicine.
+
+Medicines like this can help in the short term. Over many years, they can raise the risk of falls, memory problems, car crashes, and breathing problems. The risk is higher with age, and with pain medicines or alcohol.
+
+I will not stop your medicine suddenly. Stopping suddenly can be dangerous. Any change will be slow, planned together with you, and paused if needed.
+
+At your visit on ***, I would like to review how this medicine is working for you and talk about options.
+
+Please call *** local with questions.
+
+***",2026-10-30,2026-10-30
 $adhdnew,Pediatric ADHD evaluation,$,Visit notes,Use for the initial ADHD evaluation visit in a child or adolescent age 4 to 17.,"ADHD evaluation, pediatric
 
 _yo here with _parent / guardian / both for inattention or hyperactivity concerns x _. Referred by _parent / school / _.
@@ -13310,1672 +14976,6 @@ Healthy ***-year-old.
 - Vaccines today: MenB shared decision through 23, HPV through 26, catch-up as due; influenza in season ***
 - Anticipatory guidance reviewed verbally, handout given: mental health, substance use, sexual health and contraception, healthy relationships, driving safety, sleep, activity and nutrition, transition to adult primary care
 - Next well visit in 1 yr",2026-10-30,2026-10-30
-$sports,Sports physical,$,Well child visits,Use for preparticipation sports physicals.,"Preparticipation sports physical
-
-_yo _ here for sports physical for _.
-
-Cardiac screening:
-
-- Exertional chest pain or pressure: _
-- Exertional syncope or near syncope: _
-- Excessive exertional dyspnea or fatigue: _
-- Palpitations: _
-- Prior heart murmur: _
-- Elevated BP: _
-- Prior restriction from sports: _
-- Family sudden death before 50 or cardiac disability: _
-- Family cardiomyopathy, long QT, Marfan, or arrhythmia: _
-
-Other history: concussions _, musculoskeletal injuries _, asthma _, menstrual history _, eating habits _
-
-Exam:
-[VITALS]
-
-- Vision: _
-- Marfan stigmata: absent
-- Heart: regular rhythm, no murmur supine or standing, no change with Valsalva
-- Femoral pulses: 2+ bilaterally
-- Lungs: clear
-- Abdomen: soft, no organomegaly
-- Skin: no lesions
-- MSK: full ROM and strength, duck walk normal
-- Neuro: normal
-
-Assessment and plan:
-Clearance: _ cleared without restriction, cleared with recommendations _, not cleared pending _","Preparticipation sports physical
-
-***yo *** here for sports physical for ***.
-
-Cardiac screening:
-
-- Exertional chest pain or pressure: ***
-- Exertional syncope or near syncope: ***
-- Excessive exertional dyspnea or fatigue: ***
-- Palpitations: ***
-- Prior heart murmur: ***
-- Elevated BP: ***
-- Prior restriction from sports: ***
-- Family sudden death before 50 or cardiac disability: ***
-- Family cardiomyopathy, long QT, Marfan, or arrhythmia: ***
-
-Other history: concussions ***, musculoskeletal injuries ***, asthma ***, menstrual history ***, eating habits ***
-
-Exam:
-@VITALS@
-
-- Vision: ***
-- Marfan stigmata: absent
-- Heart: regular rhythm, no murmur supine or standing, no change with Valsalva
-- Femoral pulses: 2+ bilaterally
-- Lungs: clear
-- Abdomen: soft, no organomegaly
-- Skin: no lesions
-- MSK: full ROM and strength, duck walk normal
-- Neuro: normal
-
-Assessment and plan:
-Clearance: *** cleared without restriction, cleared with recommendations ***, not cleared pending ***",2026-10-30,2026-10-30
-$tele,Telehealth visit,$,Well child visits,Use as the opening attestation block for video or phone visits.,"Telehealth visit
-
-Modality: _video / audio only
-Patient location: _
-Provider location: _
-Others present: _
-Consent: patient verbally consented to telehealth visit and was informed of its limitations.
-
-Exam limitations: physical exam limited to _ by telehealth modality.
-
-Total time on date of service: _ minutes","Telehealth visit
-
-Modality: {video/audio only}
-Patient location: ***
-Provider location: ***
-Others present: ***
-Consent: patient verbally consented to telehealth visit and was informed of its limitations.
-
-Exam limitations: physical exam limited to *** by telehealth modality.
-
-Total time on date of service: *** minutes",2026-10-29,
-$iud,IUD insertion,$,Well child visits,Use for intrauterine device insertion.,"IUD insertion
-
-Indication: _
-Device: _, lot _
-Consent: risks including pain, bleeding, infection, perforation, and expulsion discussed, written consent obtained.
-Pregnancy reasonably excluded by _
-Time out: _
-
-Procedure: Speculum placed, cervix visualized and cleaned with _. Tenaculum placed on the anterior lip. Uterus sounded to _ cm, _ position. IUD inserted per manufacturer instructions without difficulty. Strings trimmed to _ cm.
-
-Anesthesia: _
-EBL: minimal _
-Complications: _
-
-Patient tolerated procedure _. Counseled on string checks, expected bleeding, backup contraception _, and return precautions. Follow up _.","IUD insertion
-
-Indication: ***
-Device: ***, lot ***
-Consent: risks including pain, bleeding, infection, perforation, and expulsion discussed, written consent obtained.
-Pregnancy reasonably excluded by ***
-Time out: ***
-
-Procedure: Speculum placed, cervix visualized and cleaned with ***. Tenaculum placed on the anterior lip. Uterus sounded to *** cm, *** position. IUD inserted per manufacturer instructions without difficulty. Strings trimmed to *** cm.
-
-Anesthesia: ***
-EBL: minimal ***
-Complications: ***
-
-Patient tolerated procedure ***. Counseled on string checks, expected bleeding, backup contraception ***, and return precautions. Follow up ***.",2026-10-29,
-$nexp,Nexplanon insert or remove,$,Well child visits,"Use for etonogestrel implant insertion, removal, or removal with reinsertion.","Etonogestrel implant _insertion / removal / removal and reinsertion
-
-Indication: _
-Consent: risks including pain, bleeding, infection, nerve injury, and difficult removal discussed, written consent obtained.
-Pregnancy reasonably excluded by _ for insertion
-Time out: _
-
-Site: _ nondominant arm, inner upper arm overlying triceps, 8 to 10 cm proximal to medial epicondyle
-Anesthesia: lidocaine 1% _ mL
-Procedure: Area cleaned with _. _
-Device palpated by provider and patient after insertion: _
-Removed implant intact, _ cm: _
-Lot: _
-
-EBL: minimal _
-Complications: _
-
-Pressure dressing applied, remove in 24 hours. Backup contraception for 7 days if inserted more than 5 days after menses start. Return for redness, drainage, or fever.","Etonogestrel implant {insertion/removal/removal} and reinsertion
-
-Indication: ***
-Consent: risks including pain, bleeding, infection, nerve injury, and difficult removal discussed, written consent obtained.
-Pregnancy reasonably excluded by *** for insertion
-Time out: ***
-
-Site: *** nondominant arm, inner upper arm overlying triceps, 8 to 10 cm proximal to medial epicondyle
-Anesthesia: lidocaine 1% *** mL
-Procedure: Area cleaned with ***. ***
-Device palpated by provider and patient after insertion: ***
-Removed implant intact, *** cm: ***
-Lot: ***
-
-EBL: minimal ***
-Complications: ***
-
-Pressure dressing applied, remove in 24 hours. Backup contraception for 7 days if inserted more than 5 days after menses start. Return for redness, drainage, or fever.",2026-10-30,2026-10-30
-$emb,Endometrial biopsy,$,Well child visits,Use for office endometrial biopsy.,"Endometrial biopsy
-
-Indication: _
-Consent: risks including pain, bleeding, infection, perforation, and nondiagnostic sample discussed, written consent obtained.
-Pregnancy test: _
-Time out: _
-
-Procedure: Speculum placed, cervix cleaned with _. Tenaculum placed _. Endometrial sampler advanced to _ cm. _ passes performed with adequate tissue obtained _. Specimen sent to pathology.
-
-EBL: minimal _
-Complications: _
-
-Patient tolerated procedure _. Results expected in _ days. Return for heavy bleeding, fever, or severe pain.","Endometrial biopsy
-
-Indication: ***
-Consent: risks including pain, bleeding, infection, perforation, and nondiagnostic sample discussed, written consent obtained.
-Pregnancy test: ***
-Time out: ***
-
-Procedure: Speculum placed, cervix cleaned with ***. Tenaculum placed ***. Endometrial sampler advanced to *** cm. *** passes performed with adequate tissue obtained ***. Specimen sent to pathology.
-
-EBL: minimal ***
-Complications: ***
-
-Patient tolerated procedure ***. Results expected in *** days. Return for heavy bleeding, fever, or severe pain.",2026-10-29,
-$inj,Joint injection,$,Well child visits,Use for intra-articular or bursal corticosteroid injections.,"Joint injection
-
-Joint: _ side _
-Indication: _
-Consent: risks including infection, bleeding, post-injection flare, skin depigmentation, and transient glucose rise discussed, verbal or written consent obtained.
-Time out: _
-
-Approach: _, _ with ultrasound guidance
-Procedure: Site marked and cleaned with _. Injected with triamcinolone _ mg and lidocaine 1% _ mL using _ gauge needle. Aspirate _.
-
-EBL: minimal
-Complications: _
-
-Patient tolerated procedure _. Relative rest for 24 to 48 hours. Return for redness, warmth, fever, or worsening pain.","Joint injection
-
-Joint: *** side ***
-Indication: ***
-Consent: risks including infection, bleeding, post-injection flare, skin depigmentation, and transient glucose rise discussed, verbal or written consent obtained.
-Time out: ***
-
-Approach: ***, *** with ultrasound guidance
-Procedure: Site marked and cleaned with ***. Injected with triamcinolone *** mg and lidocaine 1% *** mL using *** gauge needle. Aspirate ***.
-
-EBL: minimal
-Complications: ***
-
-Patient tolerated procedure ***. Relative rest for 24 to 48 hours. Return for redness, warmth, fever, or worsening pain.",2026-10-29,
-$id,Incision and drainage,$,Well child visits,Use for abscess incision and drainage.,"Incision and drainage
-
-Site: _
-Size: _ cm induration, _ cm fluctuance
-Consent: risks including pain, bleeding, infection, recurrence, and scarring discussed, verbal consent obtained.
-Time out: _
-
-Anesthesia: lidocaine 1% _ mL
-Procedure: Area cleaned with _. _ cm incision made, _ purulent material expressed, loculations broken up. Irrigated with _.
-
-Packing: _
-Culture: _
-Complications: _
-
-Wound care: keep covered, change dressing daily, warm compresses 3 to 4 times daily. Return in _ days for packing removal or recheck, sooner for spreading redness, fever, or worsening pain.","Incision and drainage
-
-Site: ***
-Size: *** cm induration, *** cm fluctuance
-Consent: risks including pain, bleeding, infection, recurrence, and scarring discussed, verbal consent obtained.
-Time out: ***
-
-Anesthesia: lidocaine 1% *** mL
-Procedure: Area cleaned with ***. *** cm incision made, *** purulent material expressed, loculations broken up. Irrigated with ***.
-
-Packing: ***
-Culture: ***
-Complications: ***
-
-Wound care: keep covered, change dressing daily, warm compresses 3 to 4 times daily. Return in *** days for packing removal or recheck, sooner for spreading redness, fever, or worsening pain.",2026-10-29,
-$bx,Skin biopsy,$,Well child visits,"Use for shave, punch, or excisional skin biopsy.","Skin biopsy
-
-Site: _
-Lesion: _ mm, _
-Clinical differential: most likely _, given _. _ considered but unlikely given _, will confirm with pathology.
-Consent: risks including bleeding, infection, scarring, and need for further procedure discussed, verbal consent obtained.
-Time out: _
-
-Anesthesia: lidocaine 1% with epinephrine _ mL
-Technique: _shave / punch / excision
-Size: _ mm
-Hemostasis: _
-Closure: _
-
-Specimen sent to pathology _
-Complications: _
-
-Wound care: keep dry 24 hours, then daily washing and petroleum jelly. Sutures out in _ days. Results in _ days.","Skin biopsy
-
-Site: ***
-Lesion: *** mm, ***
-Clinical differential: most likely ***, given ***. *** considered but unlikely given ***, will confirm with pathology.
-Consent: risks including bleeding, infection, scarring, and need for further procedure discussed, verbal consent obtained.
-Time out: ***
-
-Anesthesia: lidocaine 1% with epinephrine *** mL
-Technique: {shave/punch/excision}
-Size: *** mm
-Hemostasis: ***
-Closure: ***
-
-Specimen sent to pathology ***
-Complications: ***
-
-Wound care: keep dry 24 hours, then daily washing and petroleum jelly. Sutures out in *** days. Results in *** days.",2026-10-29,
-$cryo,Cryotherapy,$,Well child visits,Use for liquid nitrogen cryotherapy of benign lesions.,"Cryotherapy
-
-Lesions: _ lesions, _, at _
-Diagnosis: _
-Consent: risks including pain, blistering, pigment change, and recurrence discussed, verbal consent obtained.
-
-Procedure: Liquid nitrogen applied for _ freeze-thaw cycles of _ seconds each.
-
-Complications: _
-
-Aftercare: expect redness and possible blister, keep clean, do not pop blisters. May need repeat treatment in _ weeks.","Cryotherapy
-
-Lesions: *** lesions, ***, at ***
-Diagnosis: ***
-Consent: risks including pain, blistering, pigment change, and recurrence discussed, verbal consent obtained.
-
-Procedure: Liquid nitrogen applied for *** freeze-thaw cycles of *** seconds each.
-
-Complications: ***
-
-Aftercare: expect redness and possible blister, keep clean, do not pop blisters. May need repeat treatment in *** weeks.",2026-10-29,
-$pap,Pap and pelvic,$,Well child visits,Use for cervical cancer screening with or without a full pelvic exam.,"Cervical cancer screening
-
-_yo, last Pap _, result _, HPV _. History of abnormal Pap _.
-
-Screening per age:
-
-- 21 to 29: cytology every 3 years
-- 30 to 65: cytology every 3 years, primary hrHPV every 5 years, or cotesting every 5 years
-
-Chaperone: _
-
-Exam:
-
-- External genitalia: normal
-- Vagina: normal mucosa, no lesions
-- Cervix: no lesions, no discharge
-- Bimanual: no cervical motion tenderness, uterus normal size, no adnexal masses or tenderness
-
-Collected: _
-Next screening due: _","Cervical cancer screening
-
-***yo, last Pap ***, result ***, HPV ***. History of abnormal Pap ***.
-
-Screening per age:
-
-- 21 to 29: cytology every 3 years
-- 30 to 65: cytology every 3 years, primary hrHPV every 5 years, or cotesting every 5 years
-
-Chaperone: ***
-
-Exam:
-
-- External genitalia: normal
-- Vagina: normal mucosa, no lesions
-- Cervix: no lesions, no discharge
-- Bimanual: no cervical motion tenderness, uterus normal size, no adnexal masses or tenderness
-
-Collected: ***
-Next screening due: ***",2026-10-30,2026-10-30
-$labok,Normal result message,$,Well child visits,Use for portal or letter messages with normal results.,"Hello _,
-
-Your recent _ results are normal. No changes are needed at this time.
-
-Your next _ is due in _.
-
-Please reach out with any questions.
-
-_","Hello ***,
-
-Your recent *** results are normal. No changes are needed at this time.
-
-Your next *** is due in ***.
-
-Please reach out with any questions.
-
-***",2026-10-29,
-$labf,Abnormal result message,$,Well child visits,Use for portal or letter messages with abnormal results.,"Hello _,
-
-Your recent _ result showed _.
-
-This means _.
-
-Plan: _
-
-Please schedule _ in _. Please reach out with any questions.
-
-_","Hello ***,
-
-Your recent *** result showed ***.
-
-This means ***.
-
-Plan: ***
-
-Please schedule *** in ***. Please reach out with any questions.
-
-***",2026-10-29,
-$refill,Refill note,$,Well child visits,Use for medication refill encounters.,"Refill request
-
-Medication: _ _ mg PO _
-Last visit: _
-Monitoring labs: _ on _, current _
-Quantity: _ with _ refills
-Next visit due: _
-
-Refill _ approved, _.","Refill request
-
-Medication: *** *** mg PO ***
-Last visit: ***
-Monitoring labs: *** on ***, current ***
-Quantity: *** with *** refills
-Next visit due: ***
-
-Refill *** approved, ***.",2026-10-29,
-$new,New patient visit,$,Well child visits,Use when establishing care with a new clinic patient.,"New patient visit
-
-_F here to establish care. Previous PCP _. Concerns today: _.
-
-PMH:
-
-- _
-
-PSH: _
-Meds: [MEDS], reconciled with patient and _
-Allergies: [ Allergies 2012 ]
-Family history: [ Family History 2012 ]
-Social: lives _, relationship status _, children _, occupation _, vaping _, marijuana _, tobacco _, alcohol _, substances _, sexual activity _, exercise _, diet _, IPV screen _
-Screens: [ DD_PHQ9_Depression_Screen_Current_Encntr ], [ DD_GAD7 ], AUDIT-C _
-
-Exam:
-[VITALS]
-
-- General: no acute distress
-- _
-
-Care gaps: [ * Health Maintenance ]
-
-- Screenings due: _
-- Vaccines due: _
-
-Assessment and plan:
-#_
-Likely _ given _.
-_.
-
-DDx:
->_; most likely given _, _
->_; considered but unlikely given _, _
-
-- START _
-- _
-
-#_
-_At / above / below goal on current regimen, _.
-_.
-
-- CONT _
-- _
-
-#Deferred to future visit
-
-- _
-
-Records requested from _. Patient portal sign-up information given _. F/u in _ wk.","New patient visit
-
-***F here to establish care. Previous PCP ***. Concerns today: ***.
-
-PMH:
-
-- ***
-
-PSH: ***
-Meds: @MEDS@, reconciled with patient and ***
-Allergies: @ALLERGIES@
-Family history: @FAMHX@
-Social: lives ***, relationship status ***, children ***, occupation ***, vaping ***, marijuana ***, tobacco ***, alcohol ***, substances ***, sexual activity ***, exercise ***, diet ***, IPV screen ***
-Screens: [ DD_PHQ9_Depression_Screen_Current_Encntr ], [ DD_GAD7 ], AUDIT-C ***
-
-Exam:
-@VITALS@
-
-- General: no acute distress
-- ***
-
-Care gaps: @HM@
-
-- Screenings due: ***
-- Vaccines due: ***
-
-Assessment and plan:
-#***
-Likely *** given ***.
-***.
-
-DDx:
->***; most likely given ***, ***
->***; considered but unlikely given ***, ***
-
-- START ***
-- ***
-
-#***
-{At/above/below} goal on current regimen, ***.
-***.
-
-- CONT ***
-- ***
-
-#Deferred to future visit
-
-- ***
-
-Records requested from ***. Patient portal sign-up information given ***. F/u in *** wk.",2026-10-29,
-$tcm,Hospital follow-up visit,$,Well child visits,"Use for hospital or ED follow-up, including transitional care management.","Hospital follow-up visit
-
-_F here for follow-up after _ at _ from _ to _ for _.
-Interactive contact with patient or caregiver on _, within 2 business days of discharge _.
-Face-to-face visit on day _ after discharge.
-Discharge summary reviewed: _
-Hospital course: _
-Since discharge: _. Denies _.
-
-Medication reconciliation:
-
-- New: _
-- Changed: _
-- Stopped: _
-- Patient has and understands all meds _
-
-Pending results at discharge: _
-Follow-up appointments and referrals: _
-Home health or DME: _
-
-Exam:
-[VITALS]
-
-- _
-
-Assessment and plan:
-#_
-_ since d/c, _.
-_.
-
-- _
-
-Medical decision making: _moderate / high complexity
-Return precautions reviewed. F/u in _ wk.","Hospital follow-up visit
-
-***F here for follow-up after *** at *** from *** to *** for ***.
-Interactive contact with patient or caregiver on ***, within 2 business days of discharge ***.
-Face-to-face visit on day *** after discharge.
-Discharge summary reviewed: ***
-Hospital course: ***
-Since discharge: ***. Denies ***.
-
-Medication reconciliation:
-
-- New: ***
-- Changed: ***
-- Stopped: ***
-- Patient has and understands all meds ***
-
-Pending results at discharge: ***
-Follow-up appointments and referrals: ***
-Home health or DME: ***
-
-Exam:
-@VITALS@
-
-- ***
-
-Assessment and plan:
-#***
-*** since d/c, ***.
-***.
-
-- ***
-
-Medical decision making: {moderate/high complexity}
-Return precautions reviewed. F/u in *** wk.",2026-10-30,2026-10-30
-$preop,Preoperative evaluation,$,Well child visits,Use for clinic preoperative risk evaluation.,"Preoperative evaluation
-
-_F here for preop evaluation before _ on _ with Dr. _, _ anesthesia planned.
-Procedure risk: _low / elevated
-Cardiac history _. Pulmonary history _. Bleeding history _. Prior anesthesia problems, personal or family _. STOP-BANG _.
-Functional capacity: _ METs, climbs 2 flights of stairs or walks 4 blocks briskly _
-Meds: [MEDS]
-Allergies: _
-
-Exam:
-[VITALS]
-
-- Airway: _
-- CV: regular rate and rhythm, no murmur
-- Lungs: clear bilaterally
-- Extremities: no edema
-
-Data: ECG _, labs _
-
-RCRI: _ points
-
-- High-risk surgery: _
-- Ischemic heart disease: _
-- Heart failure: _
-- Cerebrovascular disease: _
-- Insulin-treated diabetes: _
-- Creatinine over 2: _
-- NSQIP or AUB-HAS2 risk, if used: _
-
-Assessment and plan:
-_F with _ undergoing _. Estimated perioperative risk _.
-
-- Further cardiac testing: _ not indicated given functional capacity of 4 METs or more or low RCRI risk
-- CONT _
-- HOLD _
-- HOLD SGLT2i 3 days before surgery, 4 days for ertugliflozin _
-- Anticoagulant and antiplatelet plan: _
-- Diabetes plan: _
-- VTE, OSA, and delirium risk: _
-- _ acceptable risk to proceed, final decision per surgeon and anesthesia
-
-Note sent to _.","Preoperative evaluation
-
-***F here for preop evaluation before *** on *** with Dr. ***, *** anesthesia planned.
-Procedure risk: {low/elevated}
-Cardiac history ***. Pulmonary history ***. Bleeding history ***. Prior anesthesia problems, personal or family ***. STOP-BANG ***.
-Functional capacity: *** METs, climbs 2 flights of stairs or walks 4 blocks briskly ***
-Meds: @MEDS@
-Allergies: ***
-
-Exam:
-@VITALS@
-
-- Airway: ***
-- CV: regular rate and rhythm, no murmur
-- Lungs: clear bilaterally
-- Extremities: no edema
-
-Data: ECG ***, labs ***
-
-RCRI: *** points
-
-- High-risk surgery: ***
-- Ischemic heart disease: ***
-- Heart failure: ***
-- Cerebrovascular disease: ***
-- Insulin-treated diabetes: ***
-- Creatinine over 2: ***
-- NSQIP or AUB-HAS2 risk, if used: ***
-
-Assessment and plan:
-***F with *** undergoing ***. Estimated perioperative risk ***.
-
-- Further cardiac testing: *** not indicated given functional capacity of 4 METs or more or low RCRI risk
-- CONT ***
-- HOLD ***
-- HOLD SGLT2i 3 days before surgery, 4 days for ertugliflozin ***
-- Anticoagulant and antiplatelet plan: ***
-- Diabetes plan: ***
-- VTE, OSA, and delirium risk: ***
-- *** acceptable risk to proceed, final decision per surgeon and anesthesia
-
-Note sent to ***.",2026-10-30,2026-10-30
-$ippe,Welcome to Medicare visit,$,Well child visits,Use for the one-time initial preventive physical examination.,"Initial preventive physical examination
-
-_yo here for Welcome to Medicare visit, within 12 months of Part B enrollment _.
-
-Medical and social history reviewed: _
-Meds and supplements reviewed: _
-Opioid use and substance use disorder risk: _
-Depression screen: PHQ-2 _, PHQ-9 _
-Functional ability and safety: ADLs _, falls _, hearing _, home safety _
-Advance directive: discussed _
-
-Exam:
-[VITALS]
-BMI _
-Visual acuity: _
-
-ECG screening: _ordered / declined
-
-Education and referrals:
-
-- Written screening and vaccine checklist given: _
-- Referrals: _","Initial preventive physical examination
-
-***yo here for Welcome to Medicare visit, within 12 months of Part B enrollment ***.
-
-Medical and social history reviewed: ***
-Meds and supplements reviewed: ***
-Opioid use and substance use disorder risk: ***
-Depression screen: PHQ-2 ***, PHQ-9 ***
-Functional ability and safety: ADLs ***, falls ***, hearing ***, home safety ***
-Advance directive: discussed ***
-
-Exam:
-@VITALS@
-BMI ***
-Visual acuity: ***
-
-ECG screening: {ordered/declined}
-
-Education and referrals:
-
-- Written screening and vaccine checklist given: ***
-- Referrals: ***",2026-10-30,2026-10-30
-$acp,Advance care planning,$,Well child visits,Use for a dedicated advance care planning discussion in clinic.,"Advance care planning
-
-Time spent face-to-face on advance care planning: _ minutes, from _ to _.
-Participants: _
-Patient capacity: _
-Patient agreed to the discussion voluntarily.
-
-Discussion:
-
-- Understanding of health: _
-- Values and goals: _
-- Health care agent: _
-- Code status preference: _
-- Treatment preferences: _
-
-Documents: _advance directive / POLST / health care power of attorney _completed / reviewed / given
-Plan: _","Advance care planning
-
-Time spent face-to-face on advance care planning: *** minutes, from *** to ***.
-Participants: ***
-Patient capacity: ***
-Patient agreed to the discussion voluntarily.
-
-Discussion:
-
-- Understanding of health: ***
-- Values and goals: ***
-- Health care agent: ***
-- Code status preference: ***
-- Treatment preferences: ***
-
-Documents: {advance directive/POLST/health care} power of attorney {completed/reviewed/given}
-Plan: ***",2026-10-30,2026-10-30
-$phone,Telephone encounter,$,Well child visits,Use for telephone calls and nurse or provider triage.,"Telephone encounter
-
-Call from _, relationship _, at _, callback number _.
-Two patient identifiers confirmed _.
-Reason for call: _
-Symptoms: _. Red flags asked: _.
-
-Assessment and plan:
-#_
-Likely _ given _.
-
-- _
-
-Disposition: _ home care, clinic visit on _, urgent care, or ED
-Caller understood plan and return precautions _. Total time _ min.","Telephone encounter
-
-Call from ***, relationship ***, at ***, callback number ***.
-Two patient identifiers confirmed ***.
-Reason for call: ***
-Symptoms: ***. Red flags asked: ***.
-
-Assessment and plan:
-#***
-Likely *** given ***.
-
-- ***
-
-Disposition: *** home care, clinic visit on ***, urgent care, or ED
-Caller understood plan and return precautions ***. Total time *** min.",2026-10-29,
-$portal,Portal message reply,$,Well child visits,Use as a shell for replying to patient portal messages.,"Hello _,
-
-Thank you for your message about _.
-
-_
-
-Next steps: _
-
-If you develop _, please call the clinic or go to the ER. Please do not use the portal for urgent needs.
-
-_","Hello ***,
-
-Thank you for your message about ***.
-
-***
-
-Next steps: ***
-
-If you develop ***, please call the clinic or go to the ER. Please do not use the portal for urgent needs.
-
-***",2026-10-29,
-$nbcheck,Newborn weight check,$,Well child visits,Use for the 2 to 5 day newborn weight and jaundice check.,"Newborn weight check
-
-_ day old _w_d _ infant here with _ for weight check. Birth weight _ g, discharge weight _ g.
-Feeding: _breast / formula / both, every _ hours, _ minutes or _ oz per feed. Latch _.
-Voids _ and stools _ in past 24 hours, stool color _.
-Jaundice _, sleepiness _.
-Maternal blood type _, infant _, DAT _. Hospital bilirubin _ at _ hours.
-
-Weight today: _ g, _ percent change from birth weight, NEWT _ percentile
-[VITALS]
-
-- General: _
-- Skin: jaundice to _
-- Fontanelle: soft, flat
-- Mucous membranes: moist
-- Heart: no murmur
-- Cord: _
-
-Assessment: _ day old infant with _% weight change, feeding _, jaundice _.
-
-- Bilirubin: _TcB / TSB _, _ below phototherapy threshold
-- Feeding plan: _
-- Lactation referral: _
-- Weight recheck in _ days, birth weight regained by 10 to 14 days expected","Newborn weight check
-
-*** day old ***w***d *** infant here with *** for weight check. Birth weight *** g, discharge weight *** g.
-Feeding: {breast/formula/both}, every *** hours, *** minutes or *** oz per feed. Latch ***.
-Voids *** and stools *** in past 24 hours, stool color ***.
-Jaundice ***, sleepiness ***.
-Maternal blood type ***, infant ***, DAT ***. Hospital bilirubin *** at *** hours.
-
-Weight today: *** g, *** percent change from birth weight, NEWT *** percentile
-@VITALS@
-
-- General: ***
-- Skin: jaundice to ***
-- Fontanelle: soft, flat
-- Mucous membranes: moist
-- Heart: no murmur
-- Cord: ***
-
-Assessment: *** day old infant with ***% weight change, feeding ***, jaundice ***.
-
-- Bilirubin: {TcB/TSB} ***, *** below phototherapy threshold
-- Feeding plan: ***
-- Lactation referral: ***
-- Weight recheck in *** days, birth weight regained by 10 to 14 days expected",2026-10-31,2026-10-31
-$heads,Adolescent psychosocial screen,$,Well child visits,Use for the confidential HEADSSS adolescent interview.,"Adolescent psychosocial screen
-
-Confidentiality and its limits explained, parent stepped out _.
-
-- Home: _
-- Education and employment: _
-- Activities: _
-- Drugs: tobacco and vaping _, alcohol _, cannabis _, other _
-- Sexuality: _, partners _, contraception _, condoms _, STI testing _
-- Suicide and depression: PHQ-A _, item 9 _, SI _
-- Safety: seat belt and helmet _, firearms in home _, violence or bullying _, online safety _
-
-CRAFFT: _
-Concerns identified: _","Adolescent psychosocial screen
-
-Confidentiality and its limits explained, parent stepped out ***.
-
-- Home: ***
-- Education and employment: ***
-- Activities: ***
-- Drugs: tobacco and vaping ***, alcohol ***, cannabis ***, other ***
-- Sexuality: ***, partners ***, contraception ***, condoms ***, STI testing ***
-- Suicide and depression: PHQ-A ***, item 9 ***, SI ***
-- Safety: seat belt and helmet ***, firearms in home ***, violence or bullying ***, online safety ***
-
-CRAFFT: ***
-Concerns identified: ***",2026-10-29,
-$cs,Controlled substance follow-up,$,Well child visits,Use for any visit where a controlled medication is prescribed or continued.,"Controlled substance follow-up
-
-_F here for follow-up of _ on _.
-
-- Medication: _ mg PO _, quantity _, last fill _
-- PDMP reviewed on _: _ consistent with prescribing
-- Urine drug screen: _ collected, last _, result _
-- Treatment agreement: _ on file, signed _
-- Pill count: _
-- Benefit: function and goals _
-- Harms: sedation _, constipation _, misuse behaviors _
-- Naloxone: _prescribed / on hand
-- Co-prescribed sedatives: _
-
-Assessment and plan:
-#_
-_ benefits outweigh risks, _.
-PDMP _, UDS _, pill count _.
-
-- _CONT / INCR. / DECR. / taper _
-- Next fill date _, next visit _
-- Schedule II: 1-month supply, no refills; secure storage and disposal counseled _
-- Prescription proposed to preceptor Dr. _ for signature","Controlled substance follow-up
-
-***F here for follow-up of *** on ***.
-
-- Medication: *** mg PO ***, quantity ***, last fill ***
-- PDMP reviewed on ***: *** consistent with prescribing
-- Urine drug screen: *** collected, last ***, result ***
-- Treatment agreement: *** on file, signed ***
-- Pill count: ***
-- Benefit: function and goals ***
-- Harms: sedation ***, constipation ***, misuse behaviors ***
-- Naloxone: {prescribed/on hand}
-- Co-prescribed sedatives: ***
-
-Assessment and plan:
-#***
-*** benefits outweigh risks, ***.
-PDMP ***, UDS ***, pill count ***.
-
-- {CONT/INCR}. / DECR. / taper ***
-- Next fill date ***, next visit ***
-- Schedule II: 1-month supply, no refills; secure storage and disposal counseled ***
-- Prescription proposed to preceptor Dr. *** for signature",2026-10-29,
-$bup,Buprenorphine visit,$,Well child visits,Use for buprenorphine initiation or follow-up visits for opioid use disorder.,"Buprenorphine for opioid use disorder
-
-_F here for _initiation / follow-up of OUD on buprenorphine-naloxone.
-
-- Current dose: buprenorphine-naloxone _ mg SL daily
-- Cravings _, withdrawal _, opioid use since last visit _
-- Other substances: _
-- Side effects: _
-- PDMP reviewed: _
-- UDS: _ collected, buprenorphine _, norbuprenorphine _, fentanyl _, other _
-- Naloxone kit: _
-- Counseling or recovery support: _
-- Pregnancy potential and contraception: _
-- HIV, hepatitis B and C screening: _
-
-COWS if initiating: _
-
-Assessment and plan:
-#Opioid use disorder
-OUD, _on maintenance / in early remission, _.
-UDS _, PDMP _.
-
-- _START / CONT buprenorphine-naloxone _ mg SL daily, _ day supply
-- Initiation method if starting: _standard / low-dose / high-dose
-- Next visit in _ wk
-- Prescription proposed to preceptor Dr. _ for signature","Buprenorphine for opioid use disorder
-
-***F here for {initiation/follow-up} of OUD on buprenorphine-naloxone.
-
-- Current dose: buprenorphine-naloxone *** mg SL daily
-- Cravings ***, withdrawal ***, opioid use since last visit ***
-- Other substances: ***
-- Side effects: ***
-- PDMP reviewed: ***
-- UDS: *** collected, buprenorphine ***, norbuprenorphine ***, fentanyl ***, other ***
-- Naloxone kit: ***
-- Counseling or recovery support: ***
-- Pregnancy potential and contraception: ***
-- HIV, hepatitis B and C screening: ***
-
-COWS if initiating: ***
-
-Assessment and plan:
-#Opioid use disorder
-OUD, {on maintenance/in early remission}, ***.
-UDS ***, PDMP ***.
-
-- {START/CONT buprenorphine-naloxone} *** mg SL daily, *** day supply
-- Initiation method if starting: {standard/low-dose/high-dose}
-- Next visit in *** wk
-- Prescription proposed to preceptor Dr. *** for signature",2026-10-30,2026-10-30
-$bupstd,Standard buprenorphine initiation,$,Well child visits,Use as the plan when starting buprenorphine after the patient is in withdrawal.,"#Opioid use disorder, standard buprenorphine initiation
-
-Last opioid use: _ at _, type _. COWS _. Fentanyl use _.
-
-- Start once in clear withdrawal: COWS 8 or more, moderate withdrawal of COWS over 13 often used with fentanyl _
-- Day 1: buprenorphine-naloxone 4 mg SL. Repeat 4 mg SL every 1 to 2 hours as needed for withdrawal. Usual day 1 total 8 to 16 mg
-- Day 2: day 1 total plus up to 4 mg SL as needed, once daily
-- Maintenance: buprenorphine-naloxone _ mg SL daily, usual 16 to 24 mg
-- If withdrawal worsens after a dose, manage as precipitated withdrawal
-- Naloxone 4 mg nasal spray prescribed
-- Follow-up call or visit in _ days
-- Prescription proposed to preceptor Dr. _ for signature","#Opioid use disorder, standard buprenorphine initiation
-
-Last opioid use: *** at ***, type ***. COWS ***. Fentanyl use ***.
-
-- Start once in clear withdrawal: COWS 8 or more, moderate withdrawal of COWS over 13 often used with fentanyl ***
-- Day 1: buprenorphine-naloxone 4 mg SL. Repeat 4 mg SL every 1 to 2 hours as needed for withdrawal. Usual day 1 total 8 to 16 mg
-- Day 2: day 1 total plus up to 4 mg SL as needed, once daily
-- Maintenance: buprenorphine-naloxone *** mg SL daily, usual 16 to 24 mg
-- If withdrawal worsens after a dose, manage as precipitated withdrawal
-- Naloxone 4 mg nasal spray prescribed
-- Follow-up call or visit in *** days
-- Prescription proposed to preceptor Dr. *** for signature",2026-10-30,2026-10-30
-$bupmicro,Low-dose buprenorphine initiation,$,Well child visits,"Use as the plan for low-dose, or micro, buprenorphine initiation while the patient continues full agonist opioids.","#Opioid use disorder, low-dose buprenorphine initiation
-
-Current full agonist: _ at _ per day. Reason for low-dose method: _.
-
-- Continue the full agonist at the current dose during days 1 to 6
-- Buprenorphine-naloxone 2/0.5 mg film, cut into quarters for 0.5 mg doses
-- Day 1: 0.5 mg SL once daily
-- Day 2: 0.5 mg SL BID
-- Day 3: 1 mg SL BID
-- Day 4: 2 mg SL BID
-- Day 5: 3 mg SL BID
-- Day 6: 4 mg SL BID
-- Day 7: 12 mg SL once daily, stop the full agonist
-- Day 8 and on: 16 mg SL daily, adjust to cravings and withdrawal _
-- If withdrawal appears, hold at the current dose for 1 to 2 days, then resume
-- Check in by phone on day _ and visit on day _
-- Written schedule given
-- Naloxone 4 mg nasal spray prescribed
-- Prescription proposed to preceptor Dr. _ for signature","#Opioid use disorder, low-dose buprenorphine initiation
-
-Current full agonist: *** at *** per day. Reason for low-dose method: ***.
-
-- Continue the full agonist at the current dose during days 1 to 6
-- Buprenorphine-naloxone 2/0.5 mg film, cut into quarters for 0.5 mg doses
-- Day 1: 0.5 mg SL once daily
-- Day 2: 0.5 mg SL BID
-- Day 3: 1 mg SL BID
-- Day 4: 2 mg SL BID
-- Day 5: 3 mg SL BID
-- Day 6: 4 mg SL BID
-- Day 7: 12 mg SL once daily, stop the full agonist
-- Day 8 and on: 16 mg SL daily, adjust to cravings and withdrawal ***
-- If withdrawal appears, hold at the current dose for 1 to 2 days, then resume
-- Check in by phone on day *** and visit on day ***
-- Written schedule given
-- Naloxone 4 mg nasal spray prescribed
-- Prescription proposed to preceptor Dr. *** for signature",2026-10-29,
-$bupprecip,Precipitated withdrawal management,$,Well child visits,Use as the plan when buprenorphine precipitates withdrawal.,"#Precipitated opioid withdrawal
-
-Buprenorphine _ mg given at _. COWS before _ and now _.
-
-- Additional buprenorphine: buprenorphine-naloxone 8 mg SL now, repeat 8 mg SL in 1 hour if COWS still rising _
-- Symptom adjuncts as needed:
-- Clonidine 0.1 mg PO every 6 hours as needed, hold for SBP under 100
-- Ondansetron 4 mg PO every 8 hours as needed for nausea
-- Loperamide 4 mg PO once, then 2 mg after each loose stool, max 16 mg/day
-- Hydroxyzine 25 to 50 mg PO every 6 hours as needed for anxiety
-- Ibuprofen 600 mg PO every 6 hours as needed for aches
-- Reassess COWS every 1 hour until improving
-- ED if unable to keep fluids down or symptoms uncontrolled
-- Restart plan: _","#Precipitated opioid withdrawal
-
-Buprenorphine *** mg given at ***. COWS before *** and now ***.
-
-- Additional buprenorphine: buprenorphine-naloxone 8 mg SL now, repeat 8 mg SL in 1 hour if COWS still rising ***
-- Symptom adjuncts as needed:
-- Clonidine 0.1 mg PO every 6 hours as needed, hold for SBP under 100
-- Ondansetron 4 mg PO every 8 hours as needed for nausea
-- Loperamide 4 mg PO once, then 2 mg after each loose stool, max 16 mg/day
-- Hydroxyzine 25 to 50 mg PO every 6 hours as needed for anxiety
-- Ibuprofen 600 mg PO every 6 hours as needed for aches
-- Reassess COWS every 1 hour until improving
-- ED if unable to keep fluids down or symptoms uncontrolled
-- Restart plan: ***",2026-10-30,2026-10-30
-$adhd,"ADHD follow-up, pediatric",$,Well child visits,Use for pediatric ADHD medication follow-up visits.,"ADHD follow-up, pediatric
-
-_yo here with _parent / patient / both for ADHD follow-up on _ _ mg PO every morning.
-
-- School: _improved / unchanged / worse, grade _, IEP or 504 _in place / requested / none
-- Home and friends: _improved / unchanged / worse
-- Vanderbilt follow-up: parent symptoms _/54, performance average _; teacher symptoms _/54, performance average _
-- Wears off at _, adherence _daily / school days only / missed doses
-- Side effects: appetite _none / mild / bothersome, sleep _none / mild / bothersome, headache or stomachache _none / mild / bothersome
-- Mood or irritability _none / mild / bothersome, tics _none / mild / bothersome, rebound _none / mild / bothersome
-- Cardiac: chest pain, palpitations, or fainting with exercise _denies / reports _
-- Diversion: stored locked, not shared or sold, no lost or early refills _yes / concern _
-- Substance use: _not asked, under 12 / none / _
-- PDMP reviewed: _yes, no concerns / yes, see note
-
-[VITALS]
-Weight _, _ percentile, change _. Height _ percentile. BMI _ percentile.
-BP _, _normal / elevated / hypertensive for age. HR _.
-
-Assessment and plan:
-#ADHD, _combined / predominantly inattentive / predominantly hyperactive-impulsive presentation
-_Well controlled / partially controlled / uncontrolled on current regimen, _.
-Vanderbilt parent _, teacher _. Weight _ percentile, BP _, HR _.
-
-- _CONT / START / STOP / INCR. / DECR. _methylphenidate ER / dexmethylphenidate ER / mixed amphetamine salts ER / lisdexamfetamine / atomoxetine / guanfacine ER / viloxazine ER _ mg PO daily
-- Parent training in behavior management, classroom supports, IEP or 504 plan _
-- Medication locked up, never shared, unused doses disposed of
-- Monitor height, weight, BP, HR, sleep, and mood each visit
-- Vanderbilt follow-up from parent and teacher before next visit
-- Resident PCP: monthly in-person visits for controlled prescriptions per clinic policy; PDMP each visit, UDS and agreement at least yearly _
-- Next visit in _ wk
-- Prescription proposed to preceptor Dr. _ for signature
-
-If dose change:
-
-- INCR. methylphenidate ER (OROS) by 18 mg weekly, max 54 mg/day age 6-12, 72 mg/day age 13-17, not >2 mg/kg/day
-- INCR. dexmethylphenidate ER by 5 mg weekly, max 30 mg/day
-- INCR. mixed amphetamine salts ER by 5-10 mg weekly, max 30 mg/day age 6-12; age 13-17 label dose 20 mg/day
-- INCR. lisdexamfetamine by 10-20 mg weekly, max 70 mg/day
-- INCR. atomoxetine after 3 days or more to 1.2 mg/kg/day, max 1.4 mg/kg/day or 100 mg/day
-- INCR. guanfacine ER by 1 mg/wk or less, target 0.05-0.12 mg/kg/day, max 4 mg/day age 6-12, 7 mg/day age 13-17
-- INCR. viloxazine ER by 100 mg weekly age 6-11, by 200 mg after 1 wk age 12-17, max 400 mg/day
-- DECR. guanfacine ER by 1 mg every 3-7 days to stop, avoid abrupt d/c
-
-If side effects:
-
-- Low appetite or weight loss: breakfast before dose takes effect, calorie-dense dinner and evening snack
-- Insomnia: dose early in the morning, bedtime routine, adjust dose or agent if persists
-- Rebound: small short-acting afternoon dose, or DECR. if dose too high
-- Sedated, tearful, or irritable: DECR. dose
-- Tics: hold stimulant until tics settle, then a different stimulant or a nonstimulant
-- Poor growth: consider treatment interruption if height or weight not tracking
-- Atomoxetine or viloxazine: monitor for suicidal thoughts and mood change, most in early months and after dose changes","ADHD follow-up, pediatric
-
-***yo here with {parent/patient/both} for ADHD follow-up on *** *** mg PO every morning.
-
-- School: {improved/unchanged/worse}, grade ***, IEP or 504 {in place/requested/none}
-- Home and friends: {improved/unchanged/worse}
-- Vanderbilt follow-up: parent symptoms ***/54, performance average ***; teacher symptoms ***/54, performance average ***
-- Wears off at ***, adherence {daily/school days only/missed doses}
-- Side effects: appetite {none/mild/bothersome}, sleep {none/mild/bothersome}, headache or stomachache {none/mild/bothersome}
-- Mood or irritability {none/mild/bothersome}, tics {none/mild/bothersome}, rebound {none/mild/bothersome}
-- Cardiac: chest pain, palpitations, or fainting with exercise {denies/reports} ***
-- Diversion: stored locked, not shared or sold, no lost or early refills {yes/concern} ***
-- Substance use: ***not asked, under 12 / none / ***
-- PDMP reviewed: ***yes, no concerns / yes, see note
-
-@VITALS@
-Weight ***, *** percentile, change ***. Height *** percentile. BMI *** percentile.
-BP ***, {normal/elevated/hypertensive} for age. HR ***.
-
-Assessment and plan:
-#ADHD, {combined/predominantly inattentive/predominantly hyperactive-impulsive presentation}
-{Well controlled/partially controlled/uncontrolled} on current regimen, ***.
-Vanderbilt parent ***, teacher ***. Weight *** percentile, BP ***, HR ***.
-
-- {CONT/START/STOP/INCR}. / DECR. {methylphenidate ER/dexmethylphenidate ER/mixed amphetamine salts ER/lisdexamfetamine/atomoxetine/guanfacine ER/viloxazine ER} *** mg PO daily
-- Parent training in behavior management, classroom supports, IEP or 504 plan ***
-- Medication locked up, never shared, unused doses disposed of
-- Monitor height, weight, BP, HR, sleep, and mood each visit
-- Vanderbilt follow-up from parent and teacher before next visit
-- Resident PCP: monthly in-person visits for controlled prescriptions per clinic policy; PDMP each visit, UDS and agreement at least yearly ***
-- Next visit in *** wk
-- Prescription proposed to preceptor Dr. *** for signature
-
-If dose change:
-
-- INCR. methylphenidate ER (OROS) by 18 mg weekly, max 54 mg/day age 6-12, 72 mg/day age 13-17, not >2 mg/kg/day
-- INCR. dexmethylphenidate ER by 5 mg weekly, max 30 mg/day
-- INCR. mixed amphetamine salts ER by 5-10 mg weekly, max 30 mg/day age 6-12; age 13-17 label dose 20 mg/day
-- INCR. lisdexamfetamine by 10-20 mg weekly, max 70 mg/day
-- INCR. atomoxetine after 3 days or more to 1.2 mg/kg/day, max 1.4 mg/kg/day or 100 mg/day
-- INCR. guanfacine ER by 1 mg/wk or less, target 0.05-0.12 mg/kg/day, max 4 mg/day age 6-12, 7 mg/day age 13-17
-- INCR. viloxazine ER by 100 mg weekly age 6-11, by 200 mg after 1 wk age 12-17, max 400 mg/day
-- DECR. guanfacine ER by 1 mg every 3-7 days to stop, avoid abrupt d/c
-
-If side effects:
-
-- Low appetite or weight loss: breakfast before dose takes effect, calorie-dense dinner and evening snack
-- Insomnia: dose early in the morning, bedtime routine, adjust dose or agent if persists
-- Rebound: small short-acting afternoon dose, or DECR. if dose too high
-- Sedated, tearful, or irritable: DECR. dose
-- Tics: hold stimulant until tics settle, then a different stimulant or a nonstimulant
-- Poor growth: consider treatment interruption if height or weight not tracking
-- Atomoxetine or viloxazine: monitor for suicidal thoughts and mood change, most in early months and after dose changes",2026-10-31,2026-10-31
-$worknote,Work note,$,Well child visits,Use for a return-to-work or work restriction letter.,"To whom it may concern,
-
-_ was seen in our clinic on _.
-
-_ may return to work on _ without restrictions.
-Restrictions until _: _
-
-Please contact our office at _ local with questions.
-
-_","To whom it may concern,
-
-*** was seen in our clinic on ***.
-
-*** may return to work on *** without restrictions.
-Restrictions until ***: ***
-
-Please contact our office at *** local with questions.
-
-***",2026-10-29,
-$schoolnote,School note,$,Well child visits,"Use for a school absence, return, or activity restriction letter.","To whom it may concern,
-
-_ was seen in our clinic on _.
-
-Please excuse _ from school on _. _ may return to school on _.
-Physical activity: _no restrictions / restricted until _ as follows: _
-Medications at school: _
-
-Please contact our office at _ local with questions.
-
-_","To whom it may concern,
-
-*** was seen in our clinic on ***.
-
-Please excuse *** from school on ***. *** may return to school on ***.
-Physical activity: {no restrictions/restricted until} *** as follows: ***
-Medications at school: ***
-
-Please contact our office at *** local with questions.
-
-***",2026-10-29,
-$noshow,Missed appointment,$,Well child visits,Use to document a missed appointment and outreach.,"Missed appointment
-
-Patient did not arrive for _ appointment on _.
-Outreach: _ phone call with message, portal message, or letter on _.
-Clinical risk of missed visit: _
-Plan: reschedule _, refills _, notify _.","Missed appointment
-
-Patient did not arrive for *** appointment on ***.
-Outreach: *** phone call with message, portal message, or letter on ***.
-Clinical risk of missed visit: ***
-Plan: reschedule ***, refills ***, notify ***.",2026-10-29,
-$reflet,Referral letter,$,Well child visits,Use as a letter to accompany a specialist referral.,"Referral to _
-
-Dear Dr. _,
-
-Thank you for seeing _, a _yo _, for _.
-
-Question: _
-Urgency: _
-Relevant history: _
-Workup so far: _
-Current meds: _
-
-Please send your recommendations to _ local.
-
-Thank you,
-_","Referral to ***
-
-Dear Dr. ***,
-
-Thank you for seeing ***, a ***yo ***, for ***.
-
-Question: ***
-Urgency: ***
-Relevant history: ***
-Workup so far: ***
-Current meds: ***
-
-Please send your recommendations to *** local.
-
-Thank you,
-***",2026-10-29,
-$nail,Toenail removal,$,Well child visits,Use for partial or full toenail avulsion with or without matrixectomy.,"Toenail removal
-
-Toe: _ side, _ toe
-Procedure: _partial wedge / full nail avulsion, _with / without chemical matrixectomy
-Indication: _
-Consent: risks including pain, bleeding, infection, regrowth, and nail deformity discussed, written consent obtained.
-Time out: _
-
-Anesthesia: digital block with lidocaine 1% _with / without epinephrine, _ mL
-Tourniquet: applied at _ and removed at _
-Procedure: Prepped with _. Nail plate freed from nail bed and _ lateral fold. _ portion removed with _. Phenol 88 percent applied to matrix for _ applications of 30 seconds each, then irrigated with alcohol _. Granulation tissue removed _.
-
-EBL: minimal
-Dressing: _
-Complications: _
-
-Aftercare instructions given. Follow up _.","Toenail removal
-
-Toe: *** side, *** toe
-Procedure: {partial wedge/full nail avulsion}, {with/without} chemical matrixectomy
-Indication: ***
-Consent: risks including pain, bleeding, infection, regrowth, and nail deformity discussed, written consent obtained.
-Time out: ***
-
-Anesthesia: digital block with lidocaine 1% {with/without epinephrine}, *** mL
-Tourniquet: applied at *** and removed at ***
-Procedure: Prepped with ***. Nail plate freed from nail bed and *** lateral fold. *** portion removed with ***. Phenol 88 percent applied to matrix for *** applications of 30 seconds each, then irrigated with alcohol ***. Granulation tissue removed ***.
-
-EBL: minimal
-Dressing: ***
-Complications: ***
-
-Aftercare instructions given. Follow up ***.",2026-10-30,2026-10-30
-$colpo,Colposcopy,$,Well child visits,Use for colposcopy with or without biopsy and ECC.,"Colposcopy
-
-Indication: _, prior cytology _ on _, HPV _.
-LMP _, pregnancy test _.
-Consent: risks including bleeding, infection, pain, and need for further procedures discussed, written consent obtained.
-Time out: _
-
-Procedure: Speculum placed. Acetic acid 3 to 5 percent applied. Lugol solution _.
-
-- Adequacy: squamocolumnar junction _ fully seen, transformation zone type _
-- Findings: _
-- Biopsies: _ at _ o'clock
-- ECC: _ done, not done if pregnant
-- Hemostasis: _Monsel solution / silver nitrate
-
-Colposcopic impression: _
-EBL: minimal
-Complications: _
-
-Specimens to pathology. Results expected in _ days. Plan per results and risk-based management _. Aftercare instructions given.","Colposcopy
-
-Indication: ***, prior cytology *** on ***, HPV ***.
-LMP ***, pregnancy test ***.
-Consent: risks including bleeding, infection, pain, and need for further procedures discussed, written consent obtained.
-Time out: ***
-
-Procedure: Speculum placed. Acetic acid 3 to 5 percent applied. Lugol solution ***.
-
-- Adequacy: squamocolumnar junction *** fully seen, transformation zone type ***
-- Findings: ***
-- Biopsies: *** at *** o'clock
-- ECC: *** done, not done if pregnant
-- Hemostasis: {Monsel solution/silver nitrate}
-
-Colposcopic impression: ***
-EBL: minimal
-Complications: ***
-
-Specimens to pathology. Results expected in *** days. Plan per results and risk-based management ***. Aftercare instructions given.",2026-10-30,2026-10-30
-$repair,Laceration repair,$,Well child visits,"Use for clinic laceration repair with sutures, staples, or tissue adhesive.","Laceration repair
-
-Location: _
-Length: _ cm, depth _, _simple / intermediate / complex
-Mechanism and time of injury: _
-Tetanus: _
-Distal neurovascular and tendon function: intact _
-Consent: risks including infection, scarring, and dehiscence discussed, verbal consent obtained.
-Time out: _
-
-Anesthesia: lidocaine 1% _with / without epinephrine, _ mL
-Irrigation: _ mL normal saline under pressure
-Exploration: no foreign body or tendon involvement _
-Closure: _ sutures of _, _ layers, or tissue adhesive
-EBL: minimal
-Complications: _
-
-Wound care and suture removal in _ days reviewed.","Laceration repair
-
-Location: ***
-Length: *** cm, depth ***, {simple/intermediate/complex}
-Mechanism and time of injury: ***
-Tetanus: ***
-Distal neurovascular and tendon function: intact ***
-Consent: risks including infection, scarring, and dehiscence discussed, verbal consent obtained.
-Time out: ***
-
-Anesthesia: lidocaine 1% {with/without epinephrine}, *** mL
-Irrigation: *** mL normal saline under pressure
-Exploration: no foreign body or tendon involvement ***
-Closure: *** sutures of ***, *** layers, or tissue adhesive
-EBL: minimal
-Complications: ***
-
-Wound care and suture removal in *** days reviewed.",2026-10-29,
-$cerumen,Cerumen removal,$,Well child visits,Use for impacted cerumen removal.,"Cerumen removal
-
-Indication: impacted cerumen, _left / right / bilateral, with _
-No TM perforation, tubes, or prior ear surgery before irrigation _.
-Verbal consent obtained.
-Method: _ irrigation with warm water, curette, or suction
-Result: TM _ visualized after removal, appears _
-Complications: _","Cerumen removal
-
-Indication: impacted cerumen, {left/right/bilateral}, with ***
-No TM perforation, tubes, or prior ear surgery before irrigation ***.
-Verbal consent obtained.
-Method: *** irrigation with warm water, curette, or suction
-Result: TM *** visualized after removal, appears ***
-Complications: ***",2026-10-29,
-$tpi,Trigger point injection,$,Well child visits,Use for myofascial trigger point injections.,"Trigger point injection
-
-Muscle: _, _ sites
-Indication: _
-Consent: risks including bleeding, infection, pneumothorax for thoracic sites, and post-injection soreness discussed, verbal consent obtained.
-Time out: _
-
-Procedure: Trigger points identified by palpation. Prepped with _. Injected with lidocaine 1% without epinephrine _ mL per site, _ mL total, using _ gauge needle.
-
-Complications: _
-Post-procedure: _","Trigger point injection
-
-Muscle: ***, *** sites
-Indication: ***
-Consent: risks including bleeding, infection, pneumothorax for thoracic sites, and post-injection soreness discussed, verbal consent obtained.
-Time out: ***
-
-Procedure: Trigger points identified by palpation. Prepped with ***. Injected with lidocaine 1% without epinephrine *** mL per site, *** mL total, using *** gauge needle.
-
-Complications: ***
-Post-procedure: ***",2026-10-29,
-$splint,Splint application,$,Well child visits,Use for splint application in clinic.,"Splint application
-
-Indication: _
-Splint: _ type, _ material
-Position: _
-Neurovascular exam before: _
-Neurovascular exam after: cap refill under 2 seconds, sensation intact, motor intact _
-Skin checked and bony prominences padded _.
-
-Instructions: elevate, ice, keep dry, return for numbness, color change, or increasing pain. Follow up with _ in _ days.","Splint application
-
-Indication: ***
-Splint: *** type, *** material
-Position: ***
-Neurovascular exam before: ***
-Neurovascular exam after: cap refill under 2 seconds, sensation intact, motor intact ***
-Skin checked and bony prominences padded ***.
-
-Instructions: elevate, ice, keep dry, return for numbness, color change, or increasing pain. Follow up with *** in *** days.",2026-10-29,
-$iudrem,IUD removal,$,Well child visits,Use for IUD removal.,"IUD removal
-
-Indication: _, device placed _
-Plan after removal: _ new IUD, other method _, or pregnancy desired
-Unprotected intercourse in past 5 days: _
-Verbal consent obtained.
-
-Procedure: Speculum placed, strings visualized _. IUD grasped with ring forceps and removed with gentle traction. Device intact _.
-
-Complications: _","IUD removal
-
-Indication: ***, device placed ***
-Plan after removal: *** new IUD, other method ***, or pregnancy desired
-Unprotected intercourse in past 5 days: ***
-Verbal consent obtained.
-
-Procedure: Speculum placed, strings visualized ***. IUD grasped with ring forceps and removed with gentle traction. Device intact ***.
-
-Complications: ***",2026-10-30,2026-10-30
-$fb,Foreign body removal,$,Well child visits,Use for superficial foreign body removal.,"Foreign body removal
-
-Location: _
-Object: _, time since _
-Verbal consent obtained.
-Anesthesia: _
-
-Procedure: _ removed with _. Wound inspected, no remaining foreign body _.
-
-Tetanus: _
-Complications: _","Foreign body removal
-
-Location: ***
-Object: ***, time since ***
-Verbal consent obtained.
-Anesthesia: ***
-
-Procedure: *** removed with ***. Wound inspected, no remaining foreign body ***.
-
-Tetanus: ***
-Complications: ***",2026-10-29,
-$ecg,ECG interpretation,$,Well child visits,Use to document an ECG interpretation.,"ECG interpretation
-
-Indication: _
-Rate: _ bpm
-Rhythm: _
-Axis: _
-Intervals: PR _ ms, QRS _ ms, QTc _ ms
-ST and T waves: _
-Other: _
-Compared with prior ECG on _: _
-Impression: _","ECG interpretation
-
-Indication: ***
-Rate: *** bpm
-Rhythm: ***
-Axis: ***
-Intervals: PR *** ms, QRS *** ms, QTc *** ms
-ST and T waves: ***
-Other: ***
-Compared with prior ECG on ***: ***
-Impression: ***",2026-10-29,
-$spiro,Spirometry interpretation,$,Well child visits,Use to document a spirometry interpretation.,"Spirometry interpretation
-
-Indication: _
-Quality: acceptable and repeatable _
-Pre-bronchodilator: FEV1 _ L, _ percent predicted, FVC _ L, _ percent predicted, FEV1/FVC _
-Post-bronchodilator: FEV1 _ L, change of _ mL and _ percent of predicted
-Interpretation: obstruction _, FEV1/FVC _ below lower limit of normal, severity _, bronchodilator response _ significant if more than 10 percent of predicted
-Impression: _","Spirometry interpretation
-
-Indication: ***
-Quality: acceptable and repeatable ***
-Pre-bronchodilator: FEV1 *** L, *** percent predicted, FVC *** L, *** percent predicted, FEV1/FVC ***
-Post-bronchodilator: FEV1 *** L, change of *** mL and *** percent of predicted
-Interpretation: obstruction ***, FEV1/FVC *** below lower limit of normal, severity ***, bronchodilator response *** significant if more than 10 percent of predicted
-Impression: ***",2026-10-30,2026-10-30
-$neb,In-clinic nebulizer,$,Well child visits,Use to document an in-clinic nebulizer treatment.,"In-clinic nebulizer treatment
-
-Indication: _
-Before: SpO2 _, RR _, HR _, wheeze _, work of breathing _, peak flow _
-Treatment at _: albuterol _ mg nebulized, children 0.15 mg/kg with min 2.5 mg and max 5 mg. _ ipratropium 0.5 mg nebulized, children 0.25 to 0.5 mg
-After: SpO2 _, RR _, HR _, wheeze _, work of breathing _, peak flow _
-Response: _","In-clinic nebulizer treatment
-
-Indication: ***
-Before: SpO2 ***, RR ***, HR ***, wheeze ***, work of breathing ***, peak flow ***
-Treatment at ***: albuterol *** mg nebulized, children 0.15 mg/kg with min 2.5 mg and max 5 mg. *** ipratropium 0.5 mg nebulized, children 0.25 to 0.5 mg
-After: SpO2 ***, RR ***, HR ***, wheeze ***, work of breathing ***, peak flow ***
-Response: ***",2026-10-30,2026-10-30
-$poc,Point of care results,$,Well child visits,Use to document point of care test results. Delete lines not done.,"Point of care testing
-
-- Urinalysis: _
-- Urine pregnancy test: _
-- Rapid strep: _
-- Influenza and COVID-19: _
-- Glucose: _
-- A1c: _
-- Hemoglobin: _
-- Other: _","Point of care testing
-
-- Urinalysis: ***
-- Urine pregnancy test: ***
-- Rapid strep: ***
-- Influenza and COVID-19: ***
-- Glucose: ***
-- A1c: ***
-- Hemoglobin: ***
-- Other: ***",2026-10-29,
-$cpod,Long-term opioid therapy review,$,Well child visits,"Use for a structured review of a patient on long-term opioid therapy, including inherited patients and assessment for complex persistent opioid dependence.","Long-term opioid therapy review
-
-_F on long-term opioid therapy for _ since _.
-
-- Current regimen: _ mg PO _, total _ MME per day
-- Prescriber history: _ inherited from Dr. _
-- Pain and function: PEG _, goals _, change over past year _
-- Benefit: _
-- Harms: sedation _, falls _, constipation _, hypogonadism symptoms _, sleep apnea _, mood _
-- Dependence: withdrawal between or with missed doses _, distress with dose reduction _, worsening pain despite dose _
-- OUD criteria: _ of 11 met, not counting tolerance and withdrawal under medical supervision
-- PDMP reviewed on _: _
-- UDS: _ collected, result _
-- Co-prescribed: benzodiazepines _, gabapentinoids _, sleep aids _, alcohol _
-- Naloxone: _prescribed / on hand
-- Mental health: PHQ-9 _, GAD-7 _, suicide risk _
-- Treatment agreement: signed on _ with prescriber _
-- Risk screening: ORT _, COMM _, PADT _
-- UDS within 12 months: _
-
-Assessment:
-#Long-term opioid therapy
-_F on long-term opioid therapy at _ MME/day, _ complex persistent opioid dependence given _.
-OUD criteria _ met. PDMP _, UDS _.","Long-term opioid therapy review
-
-***F on long-term opioid therapy for *** since ***.
-
-- Current regimen: *** mg PO ***, total *** MME per day
-- Prescriber history: *** inherited from Dr. ***
-- Pain and function: PEG ***, goals ***, change over past year ***
-- Benefit: ***
-- Harms: sedation ***, falls ***, constipation ***, hypogonadism symptoms ***, sleep apnea ***, mood ***
-- Dependence: withdrawal between or with missed doses ***, distress with dose reduction ***, worsening pain despite dose ***
-- OUD criteria: *** of 11 met, not counting tolerance and withdrawal under medical supervision
-- PDMP reviewed on ***: ***
-- UDS: *** collected, result ***
-- Co-prescribed: benzodiazepines ***, gabapentinoids ***, sleep aids ***, alcohol ***
-- Naloxone: {prescribed/on hand}
-- Mental health: PHQ-9 ***, GAD-7 ***, suicide risk ***
-- Treatment agreement: signed on *** with prescriber ***
-- Risk screening: ORT ***, COMM ***, PADT ***
-- UDS within 12 months: ***
-
-Assessment:
-#Long-term opioid therapy
-***F on long-term opioid therapy at *** MME/day, *** complex persistent opioid dependence given ***.
-OUD criteria *** met. PDMP ***, UDS ***.",2026-10-30,2026-10-30
-$opitaper,Opioid taper plan,$,Well child visits,Use as the plan for a patient-agreed opioid dose reduction.,"#Opioid taper plan
-
-Starting regimen: _ at _ MME/day. Reason for taper: _. Patient agrees _.
-
-- Rate: _ percent of the current dose every _ weeks; after 1 year or more of opioid use, about 10 percent per month or slower
-- Step 1, from _: _
-- Step 2, from _: _
-- Step 3, from _: _
-- Pause if withdrawal or function requires
-- Once the smallest tablet is reached, lengthen the dosing interval before stopping
-- START clonidine 0.1-0.2 mg PO q6-8h PRN withdrawal, HOLD if BP under 90/60 _
-- Clonidine test dose 0.1 mg with BP check 1 hr after, then daily BP checks
-- START loperamide 2 mg PO after each loose stool PRN, max 8 mg/day _
-- START ondansetron 4 mg PO q8h PRN nausea _
-- START hydroxyzine 25 mg PO q6h PRN anxiety _
-- Monitor for worsening mood, suicidal thoughts, and illicit opioid use; offer buprenorphine if OUD emerges
-- Naloxone on hand, counsel on lost tolerance
-- Follow up every _ weeks during taper, written schedule given
-- Prescription proposed to preceptor Dr. _ for signature","#Opioid taper plan
-
-Starting regimen: *** at *** MME/day. Reason for taper: ***. Patient agrees ***.
-
-- Rate: *** percent of the current dose every *** weeks; after 1 year or more of opioid use, about 10 percent per month or slower
-- Step 1, from ***: ***
-- Step 2, from ***: ***
-- Step 3, from ***: ***
-- Pause if withdrawal or function requires
-- Once the smallest tablet is reached, lengthen the dosing interval before stopping
-- START clonidine 0.1-0.2 mg PO q6-8h PRN withdrawal, HOLD if BP under 90/60 ***
-- Clonidine test dose 0.1 mg with BP check 1 hr after, then daily BP checks
-- START loperamide 2 mg PO after each loose stool PRN, max 8 mg/day ***
-- START ondansetron 4 mg PO q8h PRN nausea ***
-- START hydroxyzine 25 mg PO q6h PRN anxiety ***
-- Monitor for worsening mood, suicidal thoughts, and illicit opioid use; offer buprenorphine if OUD emerges
-- Naloxone on hand, counsel on lost tolerance
-- Follow up every *** weeks during taper, written schedule given
-- Prescription proposed to preceptor Dr. *** for signature",2026-10-30,2026-10-30
-$bupcpod,Rotation to buprenorphine for pain,$,Well child visits,Use as the plan to rotate a patient on long-term full agonist opioids to buprenorphine for chronic pain or complex persistent opioid dependence.,"#Rotation to buprenorphine for long-term opioid therapy
-
-Current full agonist: _ at _ MME/day. Reason for rotation: _.
-
-- Method: _low-dose overlap / standard initiation after withdrawal
-- Low-dose overlap: start buprenorphine-naloxone 0.5 mg SL daily and increase over 7 days while continuing the full agonist, then stop the full agonist
-- Pain dosing: buprenorphine-naloxone _ mg SL daily divided TID
-- Alternative for pain: buprenorphine buccal film or transdermal patch _
-- Naloxone 4 mg nasal spray prescribed
-- Reassess pain, function, and withdrawal in _ days, written plan given
-- Prescription proposed to preceptor Dr. _ for signature","#Rotation to buprenorphine for long-term opioid therapy
-
-Current full agonist: *** at *** MME/day. Reason for rotation: ***.
-
-- Method: {low-dose overlap/standard initiation} after withdrawal
-- Low-dose overlap: start buprenorphine-naloxone 0.5 mg SL daily and increase over 7 days while continuing the full agonist, then stop the full agonist
-- Pain dosing: buprenorphine-naloxone *** mg SL daily divided TID
-- Alternative for pain: buprenorphine buccal film or transdermal patch ***
-- Naloxone 4 mg nasal spray prescribed
-- Reassess pain, function, and withdrawal in *** days, written plan given
-- Prescription proposed to preceptor Dr. *** for signature",2026-10-30,2026-10-30
-$bzd,Long-term benzodiazepine review,$,Well child visits,"Use for a structured review of a patient on long-term benzodiazepines or Z-drugs, including inherited patients.","Long-term benzodiazepine review
-
-_F on _ _ mg PO _ since _, diazepam equivalent _ mg/day. Prescriber history: _ inherited from Dr. _.
-
-- Original indication: _
-- Current benefit per patient: _
-- Dose escalation or early refills: _
-- Rebound or withdrawal between doses: _
-- Sedative use disorder criteria: _ of 11 met, not counting tolerance and withdrawal under medical supervision
-- Harms: falls _, memory or cognition _, daytime sedation _, driving or crashes _, depression _
-- Co-use: opioids _, gabapentinoids _, alcohol _, other sedatives _
-- Sleep apnea or COPD: _
-- Seizure history or prior withdrawal seizures: _
-- PDMP reviewed on _: _
-- Readiness to discuss a taper: _
-
-Assessment:
-#Long-term benzodiazepine use
-Long-term benzodiazepine use with _ physiologic dependence, risk _.
-Sedative use disorder criteria _ met.","Long-term benzodiazepine review
-
-***F on *** *** mg PO *** since ***, diazepam equivalent *** mg/day. Prescriber history: *** inherited from Dr. ***.
-
-- Original indication: ***
-- Current benefit per patient: ***
-- Dose escalation or early refills: ***
-- Rebound or withdrawal between doses: ***
-- Sedative use disorder criteria: *** of 11 met, not counting tolerance and withdrawal under medical supervision
-- Harms: falls ***, memory or cognition ***, daytime sedation ***, driving or crashes ***, depression ***
-- Co-use: opioids ***, gabapentinoids ***, alcohol ***, other sedatives ***
-- Sleep apnea or COPD: ***
-- Seizure history or prior withdrawal seizures: ***
-- PDMP reviewed on ***: ***
-- Readiness to discuss a taper: ***
-
-Assessment:
-#Long-term benzodiazepine use
-Long-term benzodiazepine use with *** physiologic dependence, risk ***.
-Sedative use disorder criteria *** met.",2026-10-30,2026-10-30
-$bzdtaper,Benzodiazepine taper plan,$,Well child visits,Use as the plan for a patient-agreed benzodiazepine taper.,"#Benzodiazepine taper plan
-
-Starting regimen: _ at diazepam equivalent _ mg/day. Patient agrees _.
-
-- Optional switch to a longer-acting agent before tapering a short-acting drug: _ mg PO _ _
-- Rate: reduce by 5 to 10 percent of the current dose every 2 to 4 weeks. No more than 25 percent in any 2-week period
-- Strong physiologic dependence: 5 to 10 percent every 6 to 8 weeks or slower
-- Slow down near the end; the last steps are often the hardest
-- Pauses are allowed if symptoms interfere with function; avoid going back up if possible
-- Step schedule: _
-- CBT for anxiety or CBT-I for insomnia during the taper _
-- Watch for withdrawal: anxiety, insomnia, tremor, sweating, perceptual changes; seizure risk with fast reduction
-- Follow up every _ weeks, written schedule given
-- Prescription proposed to preceptor Dr. _ for signature","#Benzodiazepine taper plan
-
-Starting regimen: *** at diazepam equivalent *** mg/day. Patient agrees ***.
-
-- Optional switch to a longer-acting agent before tapering a short-acting drug: *** mg PO *** ***
-- Rate: reduce by 5 to 10 percent of the current dose every 2 to 4 weeks. No more than 25 percent in any 2-week period
-- Strong physiologic dependence: 5 to 10 percent every 6 to 8 weeks or slower
-- Slow down near the end; the last steps are often the hardest
-- Pauses are allowed if symptoms interfere with function; avoid going back up if possible
-- Step schedule: ***
-- CBT for anxiety or CBT-I for insomnia during the taper ***
-- Watch for withdrawal: anxiety, insomnia, tremor, sweating, perceptual changes; seizure risk with fast reduction
-- Follow up every *** weeks, written schedule given
-- Prescription proposed to preceptor Dr. *** for signature",2026-10-30,2026-10-30
-$bzdlet,Letter to inherited benzodiazepine patients,$,Well child visits,Use as a letter to patients inherited on long-term benzodiazepines before a review visit.,"Dear _,
-
-I am your new doctor at _. I want to talk with you about your _ medicine.
-
-Medicines like this can help in the short term. Over many years, they can raise the risk of falls, memory problems, car crashes, and breathing problems. The risk is higher with age, and with pain medicines or alcohol.
-
-I will not stop your medicine suddenly. Stopping suddenly can be dangerous. Any change will be slow, planned together with you, and paused if needed.
-
-At your visit on _, I would like to review how this medicine is working for you and talk about options.
-
-Please call _ local with questions.
-
-_","Dear ***,
-
-I am your new doctor at ***. I want to talk with you about your *** medicine.
-
-Medicines like this can help in the short term. Over many years, they can raise the risk of falls, memory problems, car crashes, and breathing problems. The risk is higher with age, and with pain medicines or alcohol.
-
-I will not stop your medicine suddenly. Stopping suddenly can be dangerous. Any change will be slow, planned together with you, and paused if needed.
-
-At your visit on ***, I would like to review how this medicine is working for you and talk about options.
-
-Please call *** local with questions.
-
-***",2026-10-30,2026-10-30
 $pihtn,High blood pressure,$,Patient instructions,Use as after-visit instructions for hypertension.,"High blood pressure
 
 Your blood pressure goal is below 130 over 80.
