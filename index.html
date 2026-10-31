@@ -248,7 +248,9 @@ function flash(b, t) { const o = b.textContent; b.textContent = t; setTimeout(()
 
 function filter() {
   const q = $('#q').value.trim().toLowerCase();
-  for (const r of rows) r.el.classList.toggle('hidden', !!q && !r.hay.includes(q));
+  // every word must match; "labs" also matches "lab" (ponytail: crude plural strip, real stemming if it misses)
+  const ws = q.split(/\s+/).filter(Boolean).map(w => w.length > 3 && w.endsWith('s') ? w.slice(0, -1) : w);
+  for (const r of rows) r.el.classList.toggle('hidden', !ws.every(w => r.hay.includes(w)));
   for (const s of secs) {
     const k = s.rows.filter(r => !r.el.classList.contains('hidden')).length;
     s.h.classList.toggle('hidden', !k); s.a.classList.toggle('empty', !k); s.a.lastChild.textContent = k;
@@ -276,7 +278,7 @@ function fromHash() {
 }
 
 fetch('phrases.json').then(r => r.json()).then(data => {
-  rows = data.map(r => ({ ...r, hay: (r.abbr + ' ' + r.desc + ' ' + r.body).toLowerCase() }));
+  rows = data.map(r => ({ ...r, hay: [r.abbr, r.desc, r.section, r.use, r.body].join(' ').toLowerCase() }));
   for (const r of rows) byAbbr[r.abbr] = r;
   $('#q').placeholder = 'Search ' + rows.length + ' phrases';
   build(); filter(); setFmt(fmt); fromHash();
