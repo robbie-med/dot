@@ -37431,6 +37431,154 @@ Call 911 or go to the ER if you have:
 - Severe weakness, fainting, or confusion.
 - Black, tarry stools.
 - Trouble breathing.",2026-11-01,2026-11-01
+$piotomycosis,Fungal ear infection,$,Patient instructions: more clinic topics,Use as after-visit instructions for an adult with otomycosis.,"Fungal ear infection
+
+You have a fungal infection in your ear canal. It often causes itching, fullness, and muffled hearing. It can happen after antibiotic ear drops.
+
+Your ear drops:
+
+- Use clotrimazole ear drops in the _ ear.
+- Use 1 vial twice a day, about 12 hours apart.
+- Use them for 14 days, even if your ear feels better.
+- Stop any antibiotic ear drops unless we told you to keep using them.
+
+How to put in the drops:
+
+- Hold the vial in your hand for 1 to 2 minutes to warm it. Cold drops can make you dizzy.
+- Lie down with the sore ear facing up.
+- Gently pull your outer ear up and back.
+- Squeeze in the whole vial.
+- Stay lying down for 1 minute.
+- Throw the vial away after each use.
+
+Keep your ear dry:
+
+- Put a cotton ball coated with petroleum jelly in your ear when you shower.
+- Do not swim until your ear has healed.
+- Dry the outside of your ear gently with a towel.
+- Do not put cotton swabs or anything else in your ear.
+
+Call the clinic if:
+
+- Your ear is not better after 14 days of drops
+- Pain gets worse, or you get a fever
+- Fluid drains from your ear
+- The infection comes back
+
+Go to the ER if:
+
+- Your face feels weak or droops
+- You have very bad ear pain","Fungal ear infection
+
+You have a fungal infection in your ear canal. It often causes itching, fullness, and muffled hearing. It can happen after antibiotic ear drops.
+
+Your ear drops:
+
+- Use clotrimazole ear drops in the *** ear.
+- Use 1 vial twice a day, about 12 hours apart.
+- Use them for 14 days, even if your ear feels better.
+- Stop any antibiotic ear drops unless we told you to keep using them.
+
+How to put in the drops:
+
+- Hold the vial in your hand for 1 to 2 minutes to warm it. Cold drops can make you dizzy.
+- Lie down with the sore ear facing up.
+- Gently pull your outer ear up and back.
+- Squeeze in the whole vial.
+- Stay lying down for 1 minute.
+- Throw the vial away after each use.
+
+Keep your ear dry:
+
+- Put a cotton ball coated with petroleum jelly in your ear when you shower.
+- Do not swim until your ear has healed.
+- Dry the outside of your ear gently with a towel.
+- Do not put cotton swabs or anything else in your ear.
+
+Call the clinic if:
+
+- Your ear is not better after 14 days of drops
+- Pain gets worse, or you get a fever
+- Fluid drains from your ear
+- The infection comes back
+
+Go to the ER if:
+
+- Your face feels weak or droops
+- You have very bad ear pain",2026-11-02,2026-11-02
+$picsom,Long-lasting ear drainage,$,Patient instructions: more clinic topics,Use as after-visit instructions for chronic suppurative otitis media.,"Long-lasting ear drainage
+
+You have a hole in your eardrum that keeps draining. This is a long-lasting middle ear infection. Ear drops and keeping the ear dry help it settle down.
+
+Your ear drops:
+
+- Put _ drops in the _ ear, twice a day, for _ days.
+- Hold the bottle in your hand for 1 to 2 minutes first. Cold drops can make you dizzy.
+- Lie down with the draining ear facing up.
+- Put in the drops, then push on the small flap in front of the ear 4 times.
+- Stay lying down for 5 minutes.
+- Do not use any other ear drops unless we tell you to.
+
+Keep your ear dry:
+
+- Put a cotton ball coated with petroleum jelly in your ear when you shower.
+- Do not swim until an ear doctor says it is OK.
+- Do not put cotton swabs or anything else in your ear.
+- Wipe drainage from the outer ear with a clean tissue.
+
+Next steps:
+
+- We will check your ear again in _ weeks.
+- A hearing test is planned _.
+- An ear doctor may fix the hole with surgery.
+
+Call the clinic if:
+
+- Drainage is not better after you finish the drops
+- Drainage comes back
+- Your hearing gets worse
+
+Go to the ER if:
+
+- You feel dizzy or the room spins
+- Your face feels weak or droops
+- You have a bad headache, stiff neck, or fever","Long-lasting ear drainage
+
+You have a hole in your eardrum that keeps draining. This is a long-lasting middle ear infection. Ear drops and keeping the ear dry help it settle down.
+
+Your ear drops:
+
+- Put *** drops in the *** ear, twice a day, for *** days.
+- Hold the bottle in your hand for 1 to 2 minutes first. Cold drops can make you dizzy.
+- Lie down with the draining ear facing up.
+- Put in the drops, then push on the small flap in front of the ear 4 times.
+- Stay lying down for 5 minutes.
+- Do not use any other ear drops unless we tell you to.
+
+Keep your ear dry:
+
+- Put a cotton ball coated with petroleum jelly in your ear when you shower.
+- Do not swim until an ear doctor says it is OK.
+- Do not put cotton swabs or anything else in your ear.
+- Wipe drainage from the outer ear with a clean tissue.
+
+Next steps:
+
+- We will check your ear again in *** weeks.
+- A hearing test is planned ***.
+- An ear doctor may fix the hole with surgery.
+
+Call the clinic if:
+
+- Drainage is not better after you finish the drops
+- Drainage comes back
+- Your hearing gets worse
+
+Go to the ER if:
+
+- You feel dizzy or the room spins
+- Your face feels weak or droops
+- You have a bad headache, stiff neck, or fever",2026-11-02,2026-11-02
 $lrnlall,All other results normal,$,Lab result sentences,Use as a one-line result sentence that all remaining results were normal.,All of your other results were normal.,All of your other results were normal.,2026-10-29,
 $lrrepeat,"Slightly abnormal, recheck",$,Lab result sentences,Use for any result slightly outside the normal range that only needs a recheck.,Your _ was slightly outside the normal range at _. Small changes like this are common and often not a concern. We will recheck it in _.,Your *** was slightly outside the normal range at ***. Small changes like this are common and often not a concern. We will recheck it in ***.,2026-10-29,
 $lrpending,Results still pending,$,Lab result sentences,Use when some results are not back yet.,Your _ result is not back yet. We will let you know when it is.,Your *** result is not back yet. We will let you know when it is.,2026-10-29,
@@ -56827,6 +56975,154 @@ If sulfa allergy and PJP ppx needed:
 If also taking an NSAID:
 
 - START esomeprazole 20 mg PO daily while on both, up to 6 mo",2026-11-01,2026-11-01
+#otomycosis,Otomycosis,#,Problem blocks: clinic and chronic,"Use for the A&P of fungal otitis externa, with branches for perforation, children, and high-risk patients.","#Otomycosis
+Likely otomycosis, _ ear, given _itching and fullness, thick debris w/ fungal elements / black or white spores on canal debris, little canal edema / persistent sxs after a course of antibiotic drops.
+TM _. Debris _. Canal edema _. Recent antibiotic drops _. Hearing aid _.
+
+DDx:
+>Otomycosis; most likely given _, debridement and topical antifungal
+>Bacterial otitis externa; considered but unlikely given itching over pain and little edema, may coexist
+>Necrotizing otitis externa; considered but unlikely given no granulation tissue, cranial nerve palsy, or severe pain _
+
+- Canal debrided and dried _, suction preferred, no irrigation
+- STOP antibiotic ear drops
+- START clotrimazole 1% otic solution, 1 vial in affected ear BID x 14 days, if 18 yr or older and TM intact
+- START acetic acid 2% otic, 5 drops in affected ear TID-QID, if TM intact, as an alternative
+- Drop technique: warm vial in hand 1-2 min, ear up, pull pinna up and out, stay 1 min
+- Keep ear dry, no cotton swabs
+- Recheck in 2 wk, repeat debridement if debris persists
+- Handout given
+
+If TM perforated or tubes present:
+
+- ENT referral for microscopic debridement and antifungal choice
+- No acetic acid, alcohol, or aminoglycoside drops
+- Keep water out: petroleum jelly cotton ball for showers
+
+If under 18 yr:
+
+- ENT referral, or topical azole off-label _
+
+If no response after 2 wk or recurrent:
+
+- Fungal cx of canal debris
+- ENT referral for debridement and further therapy
+
+If diabetes or immunocompromise:
+
+- Fungal cx at dx, optimize glucose control
+- Red flags for invasive disease: severe pain, granulation tissue in canal, cranial nerve palsy, fever
+- If suspected: ESR, CT temporal bone, emergent ENT","#Otomycosis
+Likely otomycosis, *** ear, given ***itching and fullness, thick debris w/ fungal elements / black or white spores on canal debris, little canal edema / persistent sxs after a course of antibiotic drops.
+TM ***. Debris ***. Canal edema ***. Recent antibiotic drops ***. Hearing aid ***.
+
+DDx:
+>Otomycosis; most likely given ***, debridement and topical antifungal
+>Bacterial otitis externa; considered but unlikely given itching over pain and little edema, may coexist
+>Necrotizing otitis externa; considered but unlikely given no granulation tissue, cranial nerve palsy, or severe pain ***
+
+- Canal debrided and dried ***, suction preferred, no irrigation
+- STOP antibiotic ear drops
+- START clotrimazole 1% otic solution, 1 vial in affected ear BID x 14 days, if 18 yr or older and TM intact
+- START acetic acid 2% otic, 5 drops in affected ear TID-QID, if TM intact, as an alternative
+- Drop technique: warm vial in hand 1-2 min, ear up, pull pinna up and out, stay 1 min
+- Keep ear dry, no cotton swabs
+- Recheck in 2 wk, repeat debridement if debris persists
+- Handout given
+
+If TM perforated or tubes present:
+
+- ENT referral for microscopic debridement and antifungal choice
+- No acetic acid, alcohol, or aminoglycoside drops
+- Keep water out: petroleum jelly cotton ball for showers
+
+If under 18 yr:
+
+- ENT referral, or topical azole off-label ***
+
+If no response after 2 wk or recurrent:
+
+- Fungal cx of canal debris
+- ENT referral for debridement and further therapy
+
+If diabetes or immunocompromise:
+
+- Fungal cx at dx, optimize glucose control
+- Red flags for invasive disease: severe pain, granulation tissue in canal, cranial nerve palsy, fever
+- If suspected: ESR, CT temporal bone, emergent ENT",2026-11-02,2026-11-02
+#csom,Chronic suppurative otitis media,#,Problem blocks: clinic and chronic,Use for the A&P of chronic drainage through a perforated TM.,"#Chronic suppurative otitis media
+Likely CSOM, _ ear, given _painless otorrhea >6 wk through a TM perforation / recurrent drainage, conductive hearing loss, central perforation / otorrhea after AOM that never resolved.
+Drainage x _. Perforation _. Aural polyp or granulation tissue _. Weber _. Facial weakness _. Vertigo _.
+
+DDx:
+>CSOM; most likely given chronic otorrhea and perforation, aural toilet and topical quinolone
+>Cholesteatoma; considered but unlikely given no aural polyp, attic or marginal perforation, or white mass, CT and ENT if present
+>Otitis externa or otomycosis; considered but unlikely given canal _, perforation seen
+>Tumor; considered but unlikely given _, biopsy if granulation persists or recurs
+
+- Aural toilet performed _, suction or dry mopping, no irrigation
+- START ofloxacin 0.3% otic, 10 drops in affected ear BID x 14 days, if 12 yr or older
+- Quinolone drops only, no aminoglycoside or polymyxin drops with a perforation
+- Drop technique: warm bottle in hand 1-2 min, ear up, pump tragus 4x, stay 5 min
+- Cx drainage if not improving after 1 wk, or recurrent
+- Dry ear: petroleum jelly cotton ball for showers, no swimming
+- Audiogram _
+- ENT referral for tympanoplasty evaluation
+- Recheck in 2 wk
+- Handout given
+
+If under 12 yr:
+
+- ENT for aural toilet and quinolone drop dosing _
+
+If severe exacerbation:
+
+- START amoxicillin 250-500 mg PO q8h x 10 days, adjust to cx
+- START third-generation cephalosporin as an alternative _
+
+If aural polyp, attic or marginal perforation, or white mass behind TM:
+
+- CT temporal bone, ENT referral for possible cholesteatoma
+
+If vertigo, facial weakness, severe headache, or fever:
+
+- Emergent ENT and imaging for labyrinthitis, facial nerve palsy, or intracranial spread","#Chronic suppurative otitis media
+Likely CSOM, *** ear, given {painless otorrhea >6 wk through a TM perforation/recurrent drainage}, conductive hearing loss, central perforation / otorrhea after AOM that never resolved.
+Drainage x ***. Perforation ***. Aural polyp or granulation tissue ***. Weber ***. Facial weakness ***. Vertigo ***.
+
+DDx:
+>CSOM; most likely given chronic otorrhea and perforation, aural toilet and topical quinolone
+>Cholesteatoma; considered but unlikely given no aural polyp, attic or marginal perforation, or white mass, CT and ENT if present
+>Otitis externa or otomycosis; considered but unlikely given canal ***, perforation seen
+>Tumor; considered but unlikely given ***, biopsy if granulation persists or recurs
+
+- Aural toilet performed ***, suction or dry mopping, no irrigation
+- START ofloxacin 0.3% otic, 10 drops in affected ear BID x 14 days, if 12 yr or older
+- Quinolone drops only, no aminoglycoside or polymyxin drops with a perforation
+- Drop technique: warm bottle in hand 1-2 min, ear up, pump tragus 4x, stay 5 min
+- Cx drainage if not improving after 1 wk, or recurrent
+- Dry ear: petroleum jelly cotton ball for showers, no swimming
+- Audiogram ***
+- ENT referral for tympanoplasty evaluation
+- Recheck in 2 wk
+- Handout given
+
+If under 12 yr:
+
+- ENT for aural toilet and quinolone drop dosing ***
+
+If severe exacerbation:
+
+- START amoxicillin 250-500 mg PO q8h x 10 days, adjust to cx
+- START third-generation cephalosporin as an alternative ***
+
+If aural polyp, attic or marginal perforation, or white mass behind TM:
+
+- CT temporal bone, ENT referral for possible cholesteatoma
+
+If vertigo, facial weakness, severe headache, or fever:
+
+- Emergent ENT and imaging for labyrinthitis, facial nerve palsy, or intracranial spread",2026-11-02,2026-11-02
 #wuhtn,New hypertension workup,#,Workups,Use for the initial workup of newly diagnosed hypertension.,"#Hypertension, new diagnosis
 Likely _primary / secondary hypertension given _obesity or family h/o HTN, no secondary features / onset <30 or abrupt rise, resistant BP / hypokalemia or snoring w/ daytime sleepiness.
 Office BP _ and _, home or ambulatory average _. Secondary cause features _.
@@ -62624,6 +62920,12 @@ If mild disease:
 Likely acute otitis externa, _ ear, given _canal edema and debris, otalgia, tragal tenderness / canal edema, itching, fullness after swimming / canal edema, otorrhea, pain w/ pinna movement.
 TM _.
 
+DDx:
+>Bacterial AOE; _most likely given canal edema, tenderness, purulent discharge / considered but unlikely given itching over pain, little edema
+>Candidal otomycosis; _considered but unlikely given no white cheesy debris / most likely given white cheesy debris, itching / possible coinfection given some cheesy debris
+>Aspergillus otomycosis; _considered but unlikely given no fluffy debris or spores / most likely given fluffy debris w/ black spores / possible coinfection given some fluffy debris
+>Necrotizing otitis externa; _considered but unlikely given no granulation tissue, cranial nerve palsy, or severe pain / concern given granulation tissue, severe pain, diabetes, CT and emergent ENT
+
 - Aural toilet performed _, wick placed _
 - START ciprofloxacin 0.2%-hydrocortisone 1% otic, 3 drops in affected ear BID x 7 days
 - START acetic acid 2% otic, 5 drops in affected ear TID-QID, intact TM only, as an alternative
@@ -62650,7 +62952,8 @@ If TM perforated or tubes present:
 If otomycosis:
 
 - Debride canal, STOP antibiotic drops
-- START acetic acid 2% otic, 5 drops in affected ear TID-QID, if TM intact
+- START clotrimazole 1% otic solution, 1 vial in affected ear BID x 14 days, if 18 yr or older and TM intact
+- START acetic acid 2% otic, 5 drops in affected ear TID-QID, if TM intact, as an alternative
 - ENT for debridement and antifungal if TM not intact or no response
 
 If diabetes, immunocompromise, or prior radiation:
@@ -62659,6 +62962,12 @@ If diabetes, immunocompromise, or prior radiation:
 - If suspected: ESR, CT temporal bone, emergent ENT, admit for IV abx and debridement","#Acute otitis externa
 Likely acute otitis externa, *** ear, given ***canal edema and debris, otalgia, tragal tenderness / canal edema, itching, fullness after swimming / canal edema, otorrhea, pain w/ pinna movement.
 TM ***.
+
+DDx:
+>Bacterial AOE; ***most likely given canal edema, tenderness, purulent discharge / considered but unlikely given itching over pain, little edema
+>Candidal otomycosis; {considered but unlikely given no white cheesy debris/most likely given white cheesy debris}, itching / possible coinfection given some cheesy debris
+>Aspergillus otomycosis; ***considered but unlikely given no fluffy debris or spores / most likely given fluffy debris w/ black spores / possible coinfection given some fluffy debris
+>Necrotizing otitis externa; ***considered but unlikely given no granulation tissue, cranial nerve palsy, or severe pain / concern given granulation tissue, severe pain, diabetes, CT and emergent ENT
 
 - Aural toilet performed ***, wick placed ***
 - START ciprofloxacin 0.2%-hydrocortisone 1% otic, 3 drops in affected ear BID x 7 days
@@ -62686,13 +62995,14 @@ If TM perforated or tubes present:
 If otomycosis:
 
 - Debride canal, STOP antibiotic drops
-- START acetic acid 2% otic, 5 drops in affected ear TID-QID, if TM intact
+- START clotrimazole 1% otic solution, 1 vial in affected ear BID x 14 days, if 18 yr or older and TM intact
+- START acetic acid 2% otic, 5 drops in affected ear TID-QID, if TM intact, as an alternative
 - ENT for debridement and antifungal if TM not intact or no response
 
 If diabetes, immunocompromise, or prior radiation:
 
 - Red flags for necrotizing otitis externa: fever, granulation or necrotic tissue in canal, cranial nerve palsy
-- If suspected: ESR, CT temporal bone, emergent ENT, admit for IV abx and debridement",2026-10-29,
+- If suspected: ESR, CT temporal bone, emergent ENT, admit for IV abx and debridement",2026-11-02,2026-11-02
 #pad,Peripheral artery disease,#,More problem blocks,Use for the A&P of peripheral artery disease.,"#Peripheral artery disease
 Symptoms _ on current regimen, _.
 ABI _ right, _ left. Risk factors _.
@@ -64247,27 +64557,41 @@ Total: ***",2026-10-30,2026-10-30
 - MoCA: ***/30, education adjustment ***
 - Domains impaired: ***
 - Informant concerns: ***",2026-10-30,2026-10-30
-.eear,Ear exam,.,Exams: focused,Use for ear complaints.,"Ear exam
+.eear,Ear exam,.,Exams: focused,"Use for ear complaints, with drop-downs for canal debris, TM findings, and laterality.","Ear exam, _bilateral / right ear / left ear
 
-- Pinna: no tenderness or swelling, no mastoid tenderness, erythema, or auricle protrusion
-- Canal: no erythema, edema, or discharge
-- TM color: pearly gray bilaterally
-- TM position: _neutral, landmarks visible / mild bulging _ / moderate to severe bulging _ / retracted _
-- Middle ear: _no effusion / air-fluid level or bubbles _ / purulent effusion _
-- TM integrity: _intact / perforation _ / tube in place, patent _
-- TM mobility: normal on pneumatic otoscopy
-- Hearing: grossly intact to voice
-- Tuning fork: Weber midline, Rinne air louder than bone bilaterally _","Ear exam
+- Pinna: _no tenderness or swelling / tragal tenderness, pain w/ pinna movement / auricle erythema and swelling _
+- Postauricular: _no mastoid tenderness or erythema / mastoid tenderness and erythema / postauricular swelling, auricle pushed forward
+- Canal: _patent, no erythema or edema / mild erythema and edema / edema, TM not seen / granulation or polyp _
+- Cerumen: _none to minimal / partly occluding, TM seen / fully occluding, TM not seen / removed, TM now seen
+- Debris: _none / white fluffy debris w/ black spores / gray or yellow-white fluffy debris / white cheesy debris / dry flaky skin _
+- Discharge: _none / thick purulent discharge / scant watery discharge / bloody discharge _
+- TM color: _pearly gray, translucent / erythematous / amber or yellow / opaque, cloudy
+- TM position: _neutral, landmarks visible / mild bulging / moderate to severe bulging / retracted
+- Middle ear: _no effusion / air-fluid level or bubbles / purulent effusion / white mass behind TM _
+- TM integrity: _intact / central perforation, _ of TM / marginal or attic perforation
+- Tube: _none / in place, patent / in place, occluded / extruded into canal
+- TM mobility: _normal on pneumatic otoscopy / decreased / absent / not tested
+- Hearing: _grossly intact to voice / decreased to voice _
+- Weber: _midline / lateralizes to right / lateralizes to left
+- Rinne: _air louder than bone bilaterally / bone louder than air on right / bone louder than air on left
+- Other ear: _normal exam / not examined / _","Ear exam, {bilateral/right ear/left ear}
 
-- Pinna: no tenderness or swelling, no mastoid tenderness, erythema, or auricle protrusion
-- Canal: no erythema, edema, or discharge
-- TM color: pearly gray bilaterally
-- TM position: ***neutral, landmarks visible / mild bulging *** / moderate to severe bulging *** / retracted ***
-- Middle ear: {no effusion/air-fluid level} or bubbles *** / purulent effusion ***
-- TM integrity: {intact/perforation} *** / tube in place, patent ***
-- TM mobility: normal on pneumatic otoscopy
-- Hearing: grossly intact to voice
-- Tuning fork: Weber midline, Rinne air louder than bone bilaterally ***",2026-10-29,
+- Pinna: {no tenderness or swelling/tragal tenderness}, pain w/ pinna movement / auricle erythema and swelling ***
+- Postauricular: {no mastoid tenderness or erythema/mastoid tenderness and erythema/postauricular swelling}, auricle pushed forward
+- Canal: ***patent, no erythema or edema / mild erythema and edema / edema, TM not seen / granulation or polyp ***
+- Cerumen: {none to minimal/partly occluding}, TM seen / fully occluding, TM not seen / removed, TM now seen
+- Debris: ***none / white fluffy debris w/ black spores / gray or yellow-white fluffy debris / white cheesy debris / dry flaky skin ***
+- Discharge: {none/thick purulent discharge/scant watery discharge/bloody discharge} ***
+- TM color: ***pearly gray, translucent / erythematous / amber or yellow / opaque, cloudy
+- TM position: ***neutral, landmarks visible / mild bulging / moderate to severe bulging / retracted
+- Middle ear: {no effusion/air-fluid level or bubbles/purulent effusion/white mass behind TM} ***
+- TM integrity: {intact/central perforation}, {of TM/marginal} or attic perforation
+- Tube: {none/in place}, patent / in place, occluded / extruded into canal
+- TM mobility: {normal on pneumatic otoscopy/decreased/absent/not tested}
+- Hearing: {grossly intact to voice/decreased to voice} ***
+- Weber: {midline/lateralizes to right/lateralizes to left}
+- Rinne: {air louder than bone bilaterally/bone louder than air on right/bone louder than air on left}
+- Other ear: ***normal exam / not examined / ***",2026-11-02,2026-11-02
 .ethroat,Throat exam,.,Exams: focused,Use for sore throat.,"Throat exam
 
 - Tonsils: size _, no swelling or asymmetry
@@ -64529,73 +64853,119 @@ Unable to obtain a full medication list due to ***. Contacted *** and pharmacy, 
 .predtaperlong,Prednisone slow taper from 20 mg,.,Fragments,Use for a prescription sig to taper prednisone from 20 mg/day to off after more than 3-4 wk of therapy.,"Prednisone 5 mg, 2.5 mg, and 1 mg tablets: take 20 mg PO daily x _ wk, then 17.5 mg, 15 mg, 12.5 mg, then 10 mg PO daily x _ wk each. Then 9 mg, 8 mg, 7 mg, then 6 mg PO daily x _ wk each. Then 5 mg, 4 mg, 3 mg, 2 mg, then 1 mg PO daily x 4 wk each, then stop.","Prednisone 5 mg, 2.5 mg, and 1 mg tablets: take 20 mg PO daily x *** wk, then 17.5 mg, 15 mg, 12.5 mg, then 10 mg PO daily x *** wk each. Then 9 mg, 8 mg, 7 mg, then 6 mg PO daily x *** wk each. Then 5 mg, 4 mg, 3 mg, 2 mg, then 1 mg PO daily x 4 wk each, then stop.",2026-11-01,2026-11-01
 .edbuplow,Low-dose buprenorphine initiation evidence,.,Physician education: buprenorphine,"Use as a physician reference on low-dose, or micro, buprenorphine initiation. Not for the chart.","Physician reference, not for the chart. Delete before signing.
 
-Low-dose buprenorphine initiation
+Low-dose buprenorphine initiation (microdosing)
 
-Small buprenorphine doses are started while the patient continues the full agonist, so withdrawal is not required. Also called microdosing or micro-induction.
+Small buprenorphine doses overlap with the patient's full agonist, so no withdrawal period is needed.
+
+Why go carefully:
+
+- Precipitated withdrawal is very distressing, and patients may avoid buprenorphine or OUD care afterward
+- One bad start can turn a patient away from this medication
+- If a patient reports a buprenorphine allergy, ask what happened
+- Withdrawal: sweating, vomiting, diarrhea, restlessness soon after a dose
+- Hypersensitivity: rash, hives, itching, angioedema, bronchospasm, anaphylaxis; this is a contraindication
+- A prior precipitated withdrawal is a reason to use low-dose initiation, not to avoid buprenorphine
 
 When to consider:
 
-- High risk of precipitated withdrawal, such as regular fentanyl use
+- Regular fentanyl use
 - Prior precipitated withdrawal
-- Patient cannot tolerate withdrawal, or has pain that needs ongoing full agonist
-- Transition from methadone or high-dose full agonist
+- Cannot tolerate withdrawal, or pain that needs ongoing full agonist
+- Switching from methadone or a high-dose full agonist
 
-Evidence:
+How to do it:
 
-- Bernese method, 2 cases: start 0.2 mg with overlapping heroin use and small daily increases. Stop the full agonist abruptly once at a sufficient dose. In case 2: day 1 0.2 mg, day 2 0.4 mg BID, then up 0.4 mg/day to 3.4 mg. Then up 20 to 30 percent per day, reaching 24 mg. The full agonist stopped on day 29.
-- Review of 18 papers, 63 patients: start doses mostly 0.2 to 0.5 mg. Most transitions took 4 to 8 days and ended at 8 to 16 mg.
-- Updated systematic review, 59 studies, 682 patients: 81 percent completed the transition, clinically significant withdrawal in 7 percent.
-- Systematic review, 47 studies, 924 patients: successful rotation 96 percent with microdosing vs 95.6 percent with traditional initiation.
-- Low-dose initiation in pregnancy, review of 25 patients: precipitated withdrawal in 8 percent.
-- Evidence is mostly case series and observational. No schedule is proven best.
+- Start 0.2 to 0.5 mg
+- Increase gradually over 4 to 8 days to 8 to 16 mg
+- Continue the full agonist until the target dose, then stop it
+- Pause increases if withdrawal appears
+- Warn patients that mild withdrawal symptoms are common during the switch
+- Communicate clearly and check in often, by phone if needed
+- No schedule is proven best. $bupmicro is a 7-day example; patient schedule $pibupmicro
 
-Principles: start low, titrate gradually, continue the full agonist until the target dose, and pause increases if withdrawal appears.
+Evidence, mostly case series and observational:
 
-$bupmicro: a 7-day example schedule within these ranges, not a validated protocol. Patient schedule: $pibupmicro.
+- Adams 2025, 59 studies, 682 patients: 81 percent transitioned; any withdrawal in 41 percent of attempts, clinically significant in 7 percent
+- Spreen 2022, 47 studies, 924 patients: rotation success 96 percent low-dose vs 95.6 percent traditional
+- Ahmed 2021, 18 papers, 63 patients: start 0.2 to 0.5 mg, 4 to 8 days, end at 8 to 16 mg
+- Grenier 2025, pregnancy, 25 patients: precipitated withdrawal in 8 percent
+
+Original Bernese case, Hammig 2016:
+
+- Day 1: 0.2 mg
+- Day 2: 0.4 mg BID
+- Then up 0.4 mg/day to 3.4 mg
+- Then up 20 to 30 percent/day to 24 mg
+- Full agonist stopped on day 29
 
 Sources:
 
-- Hammig R et al. Subst Abuse Rehabil 2016;7:99-105. https://pubmed.ncbi.nlm.nih.gov/27499655/
-- Ahmed S et al. Am J Addict 2021;30(4):305-315. https://pubmed.ncbi.nlm.nih.gov/33378137/
 - Cohen SM et al. J Addict Med 2022;16(4):399-406. https://pubmed.ncbi.nlm.nih.gov/34954746/
 - Adams KK et al. Addict Sci Clin Pract 2025;20:19. https://pubmed.ncbi.nlm.nih.gov/39980050/
+- Ahmed S et al. Am J Addict 2021;30(4):305-315. https://pubmed.ncbi.nlm.nih.gov/33378137/
 - Spreen LA et al. Pharmacotherapy 2022;42(5):411-427. https://pubmed.ncbi.nlm.nih.gov/35302671/
 - Grenier 2025, pregnancy review. https://pubmed.ncbi.nlm.nih.gov/40673576/
+- Hammig R et al. Subst Abuse Rehabil 2016;7:99-105. https://pubmed.ncbi.nlm.nih.gov/27499655/
+- Spadaro A et al. Am J Emerg Med 2022;58:22-26. https://pubmed.ncbi.nlm.nih.gov/35623179/
+- Suboxone label, hypersensitivity: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a5edcf9-828c-4f97-b671-268ab13a8ecd
 - CA Bridge, low-dose initiation with opioid continuation: https://bridgetotreatment.org/resource/low-dose-buprenorphine-initiation-with-opioid-continuation/","Physician reference, not for the chart. Delete before signing.
 
-Low-dose buprenorphine initiation
+Low-dose buprenorphine initiation (microdosing)
 
-Small buprenorphine doses are started while the patient continues the full agonist, so withdrawal is not required. Also called microdosing or micro-induction.
+Small buprenorphine doses overlap with the patient's full agonist, so no withdrawal period is needed.
+
+Why go carefully:
+
+- Precipitated withdrawal is very distressing, and patients may avoid buprenorphine or OUD care afterward
+- One bad start can turn a patient away from this medication
+- If a patient reports a buprenorphine allergy, ask what happened
+- Withdrawal: sweating, vomiting, diarrhea, restlessness soon after a dose
+- Hypersensitivity: rash, hives, itching, angioedema, bronchospasm, anaphylaxis; this is a contraindication
+- A prior precipitated withdrawal is a reason to use low-dose initiation, not to avoid buprenorphine
 
 When to consider:
 
-- High risk of precipitated withdrawal, such as regular fentanyl use
+- Regular fentanyl use
 - Prior precipitated withdrawal
-- Patient cannot tolerate withdrawal, or has pain that needs ongoing full agonist
-- Transition from methadone or high-dose full agonist
+- Cannot tolerate withdrawal, or pain that needs ongoing full agonist
+- Switching from methadone or a high-dose full agonist
 
-Evidence:
+How to do it:
 
-- Bernese method, 2 cases: start 0.2 mg with overlapping heroin use and small daily increases. Stop the full agonist abruptly once at a sufficient dose. In case 2: day 1 0.2 mg, day 2 0.4 mg BID, then up 0.4 mg/day to 3.4 mg. Then up 20 to 30 percent per day, reaching 24 mg. The full agonist stopped on day 29.
-- Review of 18 papers, 63 patients: start doses mostly 0.2 to 0.5 mg. Most transitions took 4 to 8 days and ended at 8 to 16 mg.
-- Updated systematic review, 59 studies, 682 patients: 81 percent completed the transition, clinically significant withdrawal in 7 percent.
-- Systematic review, 47 studies, 924 patients: successful rotation 96 percent with microdosing vs 95.6 percent with traditional initiation.
-- Low-dose initiation in pregnancy, review of 25 patients: precipitated withdrawal in 8 percent.
-- Evidence is mostly case series and observational. No schedule is proven best.
+- Start 0.2 to 0.5 mg
+- Increase gradually over 4 to 8 days to 8 to 16 mg
+- Continue the full agonist until the target dose, then stop it
+- Pause increases if withdrawal appears
+- Warn patients that mild withdrawal symptoms are common during the switch
+- Communicate clearly and check in often, by phone if needed
+- No schedule is proven best. $bupmicro is a 7-day example; patient schedule $pibupmicro
 
-Principles: start low, titrate gradually, continue the full agonist until the target dose, and pause increases if withdrawal appears.
+Evidence, mostly case series and observational:
 
-$bupmicro: a 7-day example schedule within these ranges, not a validated protocol. Patient schedule: $pibupmicro.
+- Adams 2025, 59 studies, 682 patients: 81 percent transitioned; any withdrawal in 41 percent of attempts, clinically significant in 7 percent
+- Spreen 2022, 47 studies, 924 patients: rotation success 96 percent low-dose vs 95.6 percent traditional
+- Ahmed 2021, 18 papers, 63 patients: start 0.2 to 0.5 mg, 4 to 8 days, end at 8 to 16 mg
+- Grenier 2025, pregnancy, 25 patients: precipitated withdrawal in 8 percent
+
+Original Bernese case, Hammig 2016:
+
+- Day 1: 0.2 mg
+- Day 2: 0.4 mg BID
+- Then up 0.4 mg/day to 3.4 mg
+- Then up 20 to 30 percent/day to 24 mg
+- Full agonist stopped on day 29
 
 Sources:
 
-- Hammig R et al. Subst Abuse Rehabil 2016;7:99-105. https://pubmed.ncbi.nlm.nih.gov/27499655/
-- Ahmed S et al. Am J Addict 2021;30(4):305-315. https://pubmed.ncbi.nlm.nih.gov/33378137/
 - Cohen SM et al. J Addict Med 2022;16(4):399-406. https://pubmed.ncbi.nlm.nih.gov/34954746/
 - Adams KK et al. Addict Sci Clin Pract 2025;20:19. https://pubmed.ncbi.nlm.nih.gov/39980050/
+- Ahmed S et al. Am J Addict 2021;30(4):305-315. https://pubmed.ncbi.nlm.nih.gov/33378137/
 - Spreen LA et al. Pharmacotherapy 2022;42(5):411-427. https://pubmed.ncbi.nlm.nih.gov/35302671/
 - Grenier 2025, pregnancy review. https://pubmed.ncbi.nlm.nih.gov/40673576/
-- CA Bridge, low-dose initiation with opioid continuation: https://bridgetotreatment.org/resource/low-dose-buprenorphine-initiation-with-opioid-continuation/",2026-11-01,2026-11-01
+- Hammig R et al. Subst Abuse Rehabil 2016;7:99-105. https://pubmed.ncbi.nlm.nih.gov/27499655/
+- Spadaro A et al. Am J Emerg Med 2022;58:22-26. https://pubmed.ncbi.nlm.nih.gov/35623179/
+- Suboxone label, hypersensitivity: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a5edcf9-828c-4f97-b671-268ab13a8ecd
+- CA Bridge, low-dose initiation with opioid continuation: https://bridgetotreatment.org/resource/low-dose-buprenorphine-initiation-with-opioid-continuation/",2026-11-02,2026-11-02
 .edbupfent,Fentanyl and precipitated withdrawal,.,Physician education: buprenorphine,Use as a physician reference on precipitated withdrawal risk and management. Not for the chart.,"Physician reference, not for the chart. Delete before signing.
 
 Fentanyl and precipitated withdrawal
