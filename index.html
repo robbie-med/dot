@@ -12,6 +12,7 @@
 <style>
   :root {
     --bg: #fff; --side: #f6f7f9; --ink: #16191d; --muted: #646b75; --line: #e3e6ea; --sel: #e9f1fb; --accent: #1764b0; --on-accent: #fff;
+    --cols: 230px minmax(340px, 28vw) minmax(0, 1fr);
     --sans: "IBM Plex Sans", system-ui, sans-serif; --mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
   }
   :root[data-theme=dark] { --bg: #15171a; --side: #1b1e22; --ink: #e4e7eb; --muted: #959ca6; --line: #2b2f35; --sel: #1d2a3a; --accent: #6aa8ec; --on-accent: #0b1622; color-scheme: dark; }
@@ -24,17 +25,22 @@
   body { margin: 0; display: flex; flex-direction: column; background: var(--bg); color: var(--ink); font: 15px/1.45 var(--sans); }
   button, input { font: inherit; color: inherit; }
 
-  .top { display: flex; align-items: center; gap: 12px 20px; padding: 10px 20px; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
-  .brand { font-weight: 600; text-decoration: none; color: inherit; white-space: nowrap; }
-  #q { flex: 1 1 300px; max-width: 560px; padding: 7px 12px; border: 1px solid var(--line); border-radius: 6px; background: var(--side); outline: none; }
-  #q:focus { border-color: var(--accent); background: var(--bg); }
+  .top { display: grid; grid-template-columns: var(--cols); align-items: stretch; border-bottom: 1px solid var(--line); }
+  .top > * { align-self: center; }
+  .brand { align-self: stretch; display: flex; align-items: center; gap: 8px; padding: 0 16px; background: var(--side); border-right: 1px solid var(--line);
+    font-weight: 600; text-decoration: none; color: inherit; white-space: nowrap; }
+  .brand::before { content: "."; display: grid; place-items: center; width: 24px; height: 24px; border-radius: 6px; background: var(--accent); color: var(--on-accent); font: 600 18px/1 var(--mono); padding-bottom: 6px; }
+  #q { width: calc(100% - 32px); margin: 12px 16px; padding: 7px 12px 7px 32px; border: 1px solid var(--line); border-radius: 6px; outline: none;
+    background: var(--side) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='none' stroke='%23888' stroke-width='2'%3E%3Ccircle cx='7' cy='7' r='5'/%3E%3Cpath d='m11 11 4 4'/%3E%3C/svg%3E") no-repeat 10px center; }
+  #q:focus { border-color: var(--accent); background-color: var(--bg); box-shadow: 0 0 0 3px var(--sel); }
+  .tools { align-self: stretch; display: flex; align-items: center; gap: 12px; padding: 8px 20px 8px 32px; flex-wrap: wrap; border-left: 1px solid var(--line); margin-left: -1px; }
   .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
   .seg button { border: 0; background: none; padding: 6px 14px; cursor: pointer; color: var(--muted); }
   .seg button[aria-pressed=true] { background: var(--accent); color: var(--on-accent); }
   .csv { margin-left: auto; color: var(--muted); font-size: 14px; }
   .chips { display: none; }
 
-  .app { flex: 1; min-height: 0; display: grid; grid-template-columns: 230px minmax(340px, 28vw) minmax(0, 1fr); }
+  .app { flex: 1; min-height: 0; display: grid; grid-template-columns: var(--cols); }
   #toc, #list, #view { overflow: auto; min-height: 0; }
 
   #toc { background: var(--side); border-right: 1px solid var(--line); padding: 12px 0 24px; font-size: 14px; }
@@ -75,8 +81,10 @@
   .key td.m { color: var(--muted); }
   .hint code { font-family: var(--mono); color: var(--ink); }
 
-  @media (max-width: 1200px) { .app { grid-template-columns: 200px minmax(300px, 32vw) minmax(0, 1fr); } .row .ab { flex-basis: 8rem; } }
-  @media (max-width: 960px) { .app { grid-template-columns: minmax(280px, 40vw) minmax(0, 1fr); } #toc { display: none; } .chips { display: flex; gap: 4px; } }
+  @media (max-width: 1200px) { :root { --cols: 200px minmax(300px, 32vw) minmax(0, 1fr); } .row .ab { flex-basis: 8rem; } }
+  @media (max-width: 960px) { :root { --cols: minmax(280px, 40vw) minmax(0, 1fr); } #toc { display: none; } .chips { display: flex; gap: 4px; }
+    .top { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; padding: 10px 16px; } .tools { display: contents; } .brand { background: none; border: 0; padding: 0; } .brand::before { display: none; }
+    #q { flex: 1 1 180px; width: auto; margin: 0; } .csv { margin-left: auto; } }
 
   @media (max-width: 700px) {
     .top { padding: 8px 12px; gap: 8px; }
@@ -102,6 +110,7 @@
 <header class="top">
   <a class="brand" href="./">Dot phrases</a>
   <input type="search" id="q" placeholder="Search" aria-label="Search phrases" autocomplete="off">
+  <div class="tools">
   <div class="seg" role="group" aria-label="Format">
     <button type="button" data-fmt="cerner" aria-pressed="true">Cerner</button><button type="button" data-fmt="epic" aria-pressed="false">Epic</button>
   </div>
@@ -109,6 +118,7 @@
   <a class="csv" href="phrases.csv" download>Download CSV</a>
   <button type="button" class="theme keybtn" aria-label="Show the abbreviation key">Key</button>
   <button type="button" class="theme" id="themebtn" aria-label="Toggle dark mode"></button>
+  </div>
 </header>
 <div class="app">
   <nav id="toc" aria-label="Sections"></nav>
