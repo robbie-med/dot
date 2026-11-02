@@ -64876,12 +64876,77 @@ When to consider:
 How to do it:
 
 - Start 0.2 to 0.5 mg
-- Increase gradually over 4 to 8 days to 8 to 16 mg
+- Increase gradually over 3 to 8 days to 8 to 16 mg or more
 - Continue the full agonist until the target dose, then stop it
 - Pause increases if withdrawal appears
 - Warn patients that mild withdrawal symptoms are common during the switch
 - Communicate clearly and check in often, by phone if needed
 - No schedule is proven best. $bupmicro is a 7-day example; patient schedule $pibupmicro
+
+Forms and strengths:
+
+- Bup-nal SL film: 2/0.5, 4/1, 8/2, 12/3 mg
+- Bup-nal SL tablet: 2/0.5, 8/2 mg
+- Buprenorphine mono SL tablet: 2, 8 mg. Fine if bup-nal unavailable; naloxone is poorly absorbed SL
+- Zubsolv bup-nal SL tablet: 0.7, 1.4, 2.9, 5.7, 8.6, 11.4 mg. 1.4 mg equals 2 mg standard SL; 5.7 mg equals 8 mg
+- Buccal film (Belbuca): 75, 150, 300, 450, 600, 750, 900 mcg. FDA-approved for pain only
+- Transdermal patch (Butrans): 5, 7.5, 10, 15, 20 mcg/hr. FDA-approved for pain only; strategies in .edbuppatch
+- IV buprenorphine: hospital only
+- XR injection: Sublocade 100 or 300 mg monthly; Brixadi 8 to 32 mg weekly or 64 to 128 mg monthly
+
+Ways to give about 0.5 mg SL:
+
+- One quarter of a 2 mg SL film
+- Buccal film 300 mcg
+- IV 0.15 mg
+- Patch 20 mcg/hr, about 0.5 mg SL spread over 24 hr
+- Swallowed 2 mg SL tablet; absorption varies, about 0.5 to 0.8 mg SL
+- If quartering films is a pharmacy barrier, most patients tolerate 1 mg (half a 2 mg film) to start
+
+Schedules, in SL film doses:
+
+Rapid 3-day, hospital:
+
+- Day 1: 0.5 mg SL q3h x 8 doses, or q4h x 6
+- Day 2: 1 mg SL q3h x 8 doses, or q4h x 6
+- Day 3: 8 mg SL TID, or XR injection
+
+5-day:
+
+- Days 1-2: 0.5 mg SL q6h x 8 doses
+- Days 3-4: 1 mg SL q6h x 8 doses
+- Day 5: 8 mg SL TID, or XR injection
+
+8-day, outpatient or high-dose methadone:
+
+- Day 1: 0.5 mg (1/4 of a 2 mg film) once
+- Day 2: 0.5 mg BID
+- Day 3: 1 mg (1/2 film) BID
+- Day 4: 2 mg BID
+- Day 5: 3 mg (1 1/2 films) BID
+- Day 6: 4 mg (2 films) BID
+- Day 7: 6 mg (3 films) BID
+- Day 8: 8 mg SL TID, or XR injection
+- Methadone: continue the full dose through day 7, then stop
+
+IV start, 5-day hospital:
+
+- Day 1: IV 0.15 mg q6h x 4 doses
+- Day 2: IV 0.3 mg q6h x 4 doses
+- Day 3: IV 0.6 mg q6h x 4 doses
+- Day 4: Bup-nal 4/1 mg SL q6h x 4 doses
+- Day 5: Bup-nal 8/2 mg SL BID
+- After that: bup-nal 2/0.5 mg SL PRN cravings or withdrawal; add PRN doses to the next day's scheduled dose
+
+Timing the doses:
+
+- Doses can be held for sleep. Resume when awake
+- q3h can stretch to q4h or q6h if staffing or the patient needs it
+- Most patients tolerate 1 or 2 missed doses per step
+- To go slower: pause buprenorphine 2 to 4 hr, add doses at each step, or lengthen the interval
+- Worse pain or withdrawal: give more full agonist first
+- Full agonist during titration: do not wean it (CA Bridge), or taper 25 percent/day from IV day 3 (ACLP)
+- Severe or precipitated withdrawal: consider switching to high-dose buprenorphine
 
 Evidence, mostly case series and observational:
 
@@ -64908,7 +64973,9 @@ Sources:
 - Hammig R et al. Subst Abuse Rehabil 2016;7:99-105. https://pubmed.ncbi.nlm.nih.gov/27499655/
 - Spadaro A et al. Am J Emerg Med 2022;58:22-26. https://pubmed.ncbi.nlm.nih.gov/35623179/
 - Suboxone label, hypersensitivity: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a5edcf9-828c-4f97-b671-268ab13a8ecd
-- CA Bridge, low-dose initiation with opioid continuation: https://bridgetotreatment.org/resource/low-dose-buprenorphine-initiation-with-opioid-continuation/","Physician reference, not for the chart. Delete before signing.
+- CA Bridge, low-dose initiation with opioid continuation, January 2026: https://bridgetotreatment.org/resource/low-dose-buprenorphine-initiation-with-opioid-continuation/
+- ACLP How-To Guide, buprenorphine microinduction, 2024: http://clpsychiatry.org/wp-content/uploads/ACLP-How-To-Guide-Buprenorphine-Microinduction-2024.pdf
+- FDA labels via DailyMed: Suboxone, Zubsolv, Belbuca, Butrans, Sublocade, Brixadi, generic buprenorphine SL tablets","Physician reference, not for the chart. Delete before signing.
 
 Low-dose buprenorphine initiation (microdosing)
 
@@ -64933,12 +65000,77 @@ When to consider:
 How to do it:
 
 - Start 0.2 to 0.5 mg
-- Increase gradually over 4 to 8 days to 8 to 16 mg
+- Increase gradually over 3 to 8 days to 8 to 16 mg or more
 - Continue the full agonist until the target dose, then stop it
 - Pause increases if withdrawal appears
 - Warn patients that mild withdrawal symptoms are common during the switch
 - Communicate clearly and check in often, by phone if needed
 - No schedule is proven best. $bupmicro is a 7-day example; patient schedule $pibupmicro
+
+Forms and strengths:
+
+- Bup-nal SL film: 2/0.5, 4/1, 8/2, 12/3 mg
+- Bup-nal SL tablet: 2/0.5, 8/2 mg
+- Buprenorphine mono SL tablet: 2, 8 mg. Fine if bup-nal unavailable; naloxone is poorly absorbed SL
+- Zubsolv bup-nal SL tablet: 0.7, 1.4, 2.9, 5.7, 8.6, 11.4 mg. 1.4 mg equals 2 mg standard SL; 5.7 mg equals 8 mg
+- Buccal film (Belbuca): 75, 150, 300, 450, 600, 750, 900 mcg. FDA-approved for pain only
+- Transdermal patch (Butrans): 5, 7.5, 10, 15, 20 mcg/hr. FDA-approved for pain only; strategies in .edbuppatch
+- IV buprenorphine: hospital only
+- XR injection: Sublocade 100 or 300 mg monthly; Brixadi 8 to 32 mg weekly or 64 to 128 mg monthly
+
+Ways to give about 0.5 mg SL:
+
+- One quarter of a 2 mg SL film
+- Buccal film 300 mcg
+- IV 0.15 mg
+- Patch 20 mcg/hr, about 0.5 mg SL spread over 24 hr
+- Swallowed 2 mg SL tablet; absorption varies, about 0.5 to 0.8 mg SL
+- If quartering films is a pharmacy barrier, most patients tolerate 1 mg (half a 2 mg film) to start
+
+Schedules, in SL film doses:
+
+Rapid 3-day, hospital:
+
+- Day 1: 0.5 mg SL q3h x 8 doses, or q4h x 6
+- Day 2: 1 mg SL q3h x 8 doses, or q4h x 6
+- Day 3: 8 mg SL TID, or XR injection
+
+5-day:
+
+- Days 1-2: 0.5 mg SL q6h x 8 doses
+- Days 3-4: 1 mg SL q6h x 8 doses
+- Day 5: 8 mg SL TID, or XR injection
+
+8-day, outpatient or high-dose methadone:
+
+- Day 1: 0.5 mg (1/4 of a 2 mg film) once
+- Day 2: 0.5 mg BID
+- Day 3: 1 mg (1/2 film) BID
+- Day 4: 2 mg BID
+- Day 5: 3 mg (1 1/2 films) BID
+- Day 6: 4 mg (2 films) BID
+- Day 7: 6 mg (3 films) BID
+- Day 8: 8 mg SL TID, or XR injection
+- Methadone: continue the full dose through day 7, then stop
+
+IV start, 5-day hospital:
+
+- Day 1: IV 0.15 mg q6h x 4 doses
+- Day 2: IV 0.3 mg q6h x 4 doses
+- Day 3: IV 0.6 mg q6h x 4 doses
+- Day 4: Bup-nal 4/1 mg SL q6h x 4 doses
+- Day 5: Bup-nal 8/2 mg SL BID
+- After that: bup-nal 2/0.5 mg SL PRN cravings or withdrawal; add PRN doses to the next day's scheduled dose
+
+Timing the doses:
+
+- Doses can be held for sleep. Resume when awake
+- q3h can stretch to q4h or q6h if staffing or the patient needs it
+- Most patients tolerate 1 or 2 missed doses per step
+- To go slower: pause buprenorphine 2 to 4 hr, add doses at each step, or lengthen the interval
+- Worse pain or withdrawal: give more full agonist first
+- Full agonist during titration: do not wean it (CA Bridge), or taper 25 percent/day from IV day 3 (ACLP)
+- Severe or precipitated withdrawal: consider switching to high-dose buprenorphine
 
 Evidence, mostly case series and observational:
 
@@ -64965,7 +65097,9 @@ Sources:
 - Hammig R et al. Subst Abuse Rehabil 2016;7:99-105. https://pubmed.ncbi.nlm.nih.gov/27499655/
 - Spadaro A et al. Am J Emerg Med 2022;58:22-26. https://pubmed.ncbi.nlm.nih.gov/35623179/
 - Suboxone label, hypersensitivity: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a5edcf9-828c-4f97-b671-268ab13a8ecd
-- CA Bridge, low-dose initiation with opioid continuation: https://bridgetotreatment.org/resource/low-dose-buprenorphine-initiation-with-opioid-continuation/",2026-11-02,2026-11-02
+- CA Bridge, low-dose initiation with opioid continuation, January 2026: https://bridgetotreatment.org/resource/low-dose-buprenorphine-initiation-with-opioid-continuation/
+- ACLP How-To Guide, buprenorphine microinduction, 2024: http://clpsychiatry.org/wp-content/uploads/ACLP-How-To-Guide-Buprenorphine-Microinduction-2024.pdf
+- FDA labels via DailyMed: Suboxone, Zubsolv, Belbuca, Butrans, Sublocade, Brixadi, generic buprenorphine SL tablets",2026-11-02,2026-11-02
 .edbupfent,Fentanyl and precipitated withdrawal,.,Physician education: buprenorphine,Use as a physician reference on precipitated withdrawal risk and management. Not for the chart.,"Physician reference, not for the chart. Delete before signing.
 
 Fentanyl and precipitated withdrawal
