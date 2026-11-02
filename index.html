@@ -57,12 +57,9 @@
   .hidden { display: none !important; }
 
   #view { padding: 20px 32px 40px; }
-  #view .crumb { font-size: 13px; color: var(--muted); margin-bottom: 6px; }
   #view h1 { margin: 0 0 4px; font-size: 22px; font-weight: 600; display: flex; gap: 14px; align-items: baseline; flex-wrap: wrap; }
   #view h1 code { font: 500 20px var(--mono); color: var(--accent); }
-  .stamp { margin: 2px 0 0; font-size: 13px; color: var(--muted); }
-  .stamp.ok { color: #2e7d4f; }
-  #view .use { color: var(--muted); margin: 4px 0 14px; max-width: 80ch; }
+  .stamp { margin: 2px 0 14px; font-size: 13px; color: var(--muted); }
   .acts { display: flex; gap: 8px; margin: 0 0 14px; flex-wrap: wrap; }
   .acts button { border: 1px solid var(--line); background: var(--bg); padding: 5px 14px; border-radius: 6px; cursor: pointer; }
   .acts button.primary { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
@@ -184,16 +181,13 @@ function render() {
   const r = sel, v = $('#view'); if (!r) return;  // key showing: nothing to re-render
   const text = fmt === 'epic' ? r.epic : r.body;
   v.innerHTML = `<div class="acts nav"><button class="back" type="button">&larr; Back</button></div>
-    <div class="crumb"></div><h1><code></code><span></span></h1><p class="stamp"></p><p class="use"></p>
+    <h1><code></code><span></span></h1><p class="stamp"></p>
     <div class="acts"><button class="primary copy" type="button"></button><button class="link" type="button">Copy link</button></div>
     <pre></pre>` + (fmt === 'epic' ? `<p class="hint"><code>***</code> blank &middot; <code>{a/b}</code> build as a SmartList &middot; <code>@NAME@</code> your SmartLink &middot; <code>[ ]</code> Cerner template, swap in yours</p>` : '');
-  v.querySelector('.crumb').textContent = r.family + '  ' + FAM[r.family] + '  /  ' + r.section;
   v.querySelector('h1 code').textContent = r.abbr;
   v.querySelector('h1 span').textContent = r.desc;
   const st = v.querySelector('.stamp');
-  st.textContent = 'Updated ' + day(r.updated) + '  ·  ' + (r.verified ? 'Verified against sources ' + day(r.verified) + (r.verified_source ? ' (' + r.verified_source + ')' : '') : 'Not yet verified against current guidelines');
-  st.classList.toggle('ok', !!r.verified);
-  const use = v.querySelector('.use'); r.use ? use.textContent = r.use : use.remove();
+  st.textContent = r.verified ? 'Sources checked ' + day(r.verified) : '';
   v.querySelector('pre').textContent = text;
   const copy = v.querySelector('.copy'); copy.textContent = 'Copy ' + (fmt === 'epic' ? 'Epic' : 'Cerner');
   copy.onclick = () => navigator.clipboard.writeText(text).then(() => flash(copy, 'Copied'));
