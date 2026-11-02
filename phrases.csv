@@ -2274,6 +2274,8 @@ What helps:
 
 Your plan: _
 
+I have referred you to _a counselor / a psychiatrist / a counselor and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at _.
+
 Call or text the National Maternal Mental Health Hotline any time: 1-833-TLC-MAMA, which is 1-833-852-6262.
 
 If you have thoughts of hurting yourself, call or text 988. Call 911 if you are in danger right now.","Mood in pregnancy
@@ -2298,9 +2300,11 @@ What helps:
 
 Your plan: ***
 
+I have referred you to {a counselor/a psychiatrist/a counselor} and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at ***.
+
 Call or text the National Maternal Mental Health Hotline any time: 1-833-TLC-MAMA, which is 1-833-852-6262.
 
-If you have thoughts of hurting yourself, call or text 988. Call 911 if you are in danger right now.",2026-10-30,2026-10-30
+If you have thoughts of hurting yourself, call or text 988. Call 911 if you are in danger right now.",2026-11-02,2026-11-02
 %pipec,Preeclampsia warning signs,%,Patient instructions: prenatal,"Use as after-visit instructions about preeclampsia, blood pressure, and aspirin.","Preeclampsia warning signs
 
 Preeclampsia is high blood pressure in pregnancy that can affect your organs and your baby. It usually starts after 20 weeks. It can also start in the first weeks after birth. Finding it early helps.
@@ -5210,6 +5214,8 @@ Postpartum anxiety:
 - Constant worry about your baby, checking over and over, and a racing heart.
 - This is common and treatable too.
 
+I have referred you to _a counselor / a psychiatrist / a counselor and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at _.
+
 Call or text the National Maternal Mental Health Hotline any time: 1-833-TLC-MAMA, which is 1-833-852-6262.
 
 Call the clinic if signs last more than 2 weeks or are getting worse.
@@ -5241,6 +5247,8 @@ Postpartum anxiety:
 - Constant worry about your baby, checking over and over, and a racing heart.
 - This is common and treatable too.
 
+I have referred you to {a counselor/a psychiatrist/a counselor} and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at ***.
+
 Call or text the National Maternal Mental Health Hotline any time: 1-833-TLC-MAMA, which is 1-833-852-6262.
 
 Call the clinic if signs last more than 2 weeks or are getting worse.
@@ -5251,7 +5259,7 @@ Call 911 or go to the ER right away if you:
 - Feel very confused or out of control
 - Have thoughts of hurting yourself or your baby
 
-You can also call or text 988.",2026-10-30,2026-10-30
+You can also call or text 988.",2026-11-02,2026-11-02
 %pippbp,Blood pressure after birth,%,Patient instructions: postpartum,Use as postpartum instructions after gestational hypertension or preeclampsia.,"Blood pressure after birth
 
 You had high blood pressure in pregnancy. It can stay high, or even start, in the first weeks after birth.
@@ -5368,6 +5376,10 @@ Pelvic floor physical therapy can help:
 
 Ask us for a referral.
 
+Exercise help online:
+
+- Rx3: free step-by-step postpartum exercise program with videos and a progress log: https://rx3.usuhs.edu/
+
 Call the clinic if you leak urine or stool, or feel heaviness or a bulge in your vagina.","Exercise after birth
 
 First days:
@@ -5395,6 +5407,10 @@ Pelvic floor physical therapy can help:
 - A gap in the belly muscles
 
 Ask us for a referral.
+
+Exercise help online:
+
+- Rx3: free step-by-step postpartum exercise program with videos and a progress log: https://rx3.usuhs.edu/
 
 Call the clinic if you leak urine or stool, or feel heaviness or a bulge in your vagina.",2026-10-29,
 %pippcontra,Birth control after birth,%,Patient instructions: postpartum,Use as postpartum instructions about contraception after delivery.,"Birth control after birth
@@ -20056,6 +20072,11 @@ What helps:
 - Take your pain medicine as directed.
 - Do the stretches you were shown.
 
+Exercise help online:
+
+- E3 Rehab, Low back pain: https://e3rehab.com/low-back-pain-rehab/
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
+
 Go to the ER right away if you have:
 
 - New weakness or numbness in your legs
@@ -20076,6 +20097,11 @@ What helps:
 - Take your pain medicine as directed.
 - Do the stretches you were shown.
 
+Exercise help online:
+
+- E3 Rehab, Low back pain: https://e3rehab.com/low-back-pain-rehab/
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
+
 Go to the ER right away if you have:
 
 - New weakness or numbness in your legs
@@ -20084,7 +20110,7 @@ Go to the ER right away if you have:
 - Fever with back pain
 - Back pain after a bad fall or accident
 
-Call the clinic if your pain is not better in 4 weeks or gets worse.",2026-10-30,2026-10-30
+Call the clinic if your pain is not better in 4 weeks or gets worse.",2026-11-02,2026-11-02
 $piuri,Cold and upper respiratory infection,$,Patient instructions,Use as after-visit instructions for a viral upper respiratory infection.,"Colds and upper respiratory infections
 
 Colds are caused by viruses. Antibiotics do not help.
@@ -20307,6 +20333,8 @@ Your plan:
 - Counseling: _
 - Next visit: _
 
+I have referred you to _a counselor / a psychiatrist / a counselor and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at _.
+
 About your medicine:
 
 - Take it every day.
@@ -20337,6 +20365,8 @@ Your plan:
 - Counseling: ***
 - Next visit: ***
 
+I have referred you to {a counselor/a psychiatrist/a counselor} and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at ***.
+
 About your medicine:
 
 - Take it every day.
@@ -20357,30 +20387,86 @@ Call the clinic if you feel worse or side effects bother you.
 
 If you have thoughts of hurting yourself, call or text 988 any time, day or night.
 
-Call 911 if you are in danger right now.",2026-10-30,2026-10-30
+Call 911 if you are in danger right now.",2026-11-02,2026-11-02
 $pianx,Anxiety,$,Patient instructions: chronic conditions,Use as after-visit instructions for anxiety.,"Anxiety
 
-Anxiety is a common illness. It can be treated, and most people get better.
+Anxiety is your body's alarm system. With an anxiety disorder, the alarm goes off too often or too strongly, even when you are safe. It is common, it is not your fault, and it can be treated.
+
+Anxiety can feel like:
+
+- Worry that is hard to turn off
+- Feeling tense, restless, or on edge
+- Trouble sleeping or focusing
+- A fast heartbeat, tight chest, upset stomach, or headaches
+- Wanting to avoid places, people, or tasks
 
 Your plan:
 
-- Medicine: _
 - Counseling: _
+- Medicine: _
 - Next visit: _
 
-Things that help:
+I have referred you to _a counselor / a psychiatrist / a counselor and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at _.
+
+About counseling:
+
+- Counseling works about as well as medicine. Many people use both.
+- The best type is cognitive behavioral therapy, or CBT.
+- CBT teaches you to spot anxious thoughts, test them, and slowly face what you avoid.
+- Most people need about 12 to 15 weekly sessions.
+
+Avoiding things makes anxiety grow. Each time you avoid something, your brain learns it was dangerous. Facing it in small steps teaches your brain it is safe.
+
+When anxiety hits:
 
 - Slow breathing. Breathe in for 4 seconds, hold for 4, and breathe out for 6. Repeat for 2 minutes.
-- Move your body for 30 minutes on most days.
+- Ground yourself. Name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, and 1 you taste.
+- Tell yourself: this feels bad, but it is not dangerous. It will pass.
+
+For worry:
+
+- Set a 15-minute worry time each day. Write your worries down.
+- When a worry comes at other times, save it for worry time.
+- For each worry, ask: can I do something about this now?
+- If yes, write down one small next step. If no, let it go until worry time.
+
+Exercise:
+
+- Exercise lowers anxiety. Any kind helps: walking, biking, dancing, swimming, yoga, or lifting weights.
+- Start small. Even a 10-minute walk can ease anxiety that day.
+- Build up to 150 minutes a week, like 30 minutes on 5 days.
+- Add strength exercises 2 days a week.
+- Pick something you enjoy so you keep doing it.
+
+If faith is part of your life:
+
+- Prayer, scripture, or quiet meditation can calm your body and mind.
+- A verse or passage to hold on to: _
+- Tell someone in your faith community that you are struggling. Let them support you.
+- Your pastor, priest, imam, rabbi, or chaplain can talk with you or help you find a counselor.
+- Some counselors can include your faith in CBT. Ask us if you want one.
+- Getting treatment for anxiety is not a lack of faith.
+
+Every day:
+
 - Cut back on coffee, energy drinks, and soda.
-- Avoid alcohol and marijuana. They make anxiety worse over time.
+- Alcohol and marijuana may calm you for a moment, but they make anxiety worse over time.
 - Keep a regular sleep time.
+- Stay in touch with people you trust.
 
-About your medicine:
+If you take medicine:
 
-- Take it every day.
+- Take it every day, even on good days.
+- Some people feel a little more jittery in the first 1 to 2 weeks. This usually passes.
 - It takes 4 to 8 weeks to work fully.
+- If it helps, keep taking it for at least a year. Then we lower it slowly together.
 - Do not stop it suddenly. Talk to us first.
+- Calming pills like alprazolam or lorazepam can lead to dependence. They are only for short-term use.
+
+Free help:
+
+- ""What? Me Worry!?!"" is a free self-help workbook for worry: https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Worry-and-Rumination
+- Mindfulness Coach is a free app from the VA. Anyone can use it: https://mobile.va.gov/app/mindfulness-coach
 
 Call the clinic if you feel worse, have panic attacks often, or side effects bother you.
 
@@ -20388,33 +20474,89 @@ If you have thoughts of hurting yourself, call or text 988 any time, day or nigh
 
 Call 911 if you have chest pain or trouble breathing, or if you are in danger right now.","Anxiety
 
-Anxiety is a common illness. It can be treated, and most people get better.
+Anxiety is your body's alarm system. With an anxiety disorder, the alarm goes off too often or too strongly, even when you are safe. It is common, it is not your fault, and it can be treated.
+
+Anxiety can feel like:
+
+- Worry that is hard to turn off
+- Feeling tense, restless, or on edge
+- Trouble sleeping or focusing
+- A fast heartbeat, tight chest, upset stomach, or headaches
+- Wanting to avoid places, people, or tasks
 
 Your plan:
 
-- Medicine: ***
 - Counseling: ***
+- Medicine: ***
 - Next visit: ***
 
-Things that help:
+I have referred you to {a counselor/a psychiatrist/a counselor} and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at ***.
+
+About counseling:
+
+- Counseling works about as well as medicine. Many people use both.
+- The best type is cognitive behavioral therapy, or CBT.
+- CBT teaches you to spot anxious thoughts, test them, and slowly face what you avoid.
+- Most people need about 12 to 15 weekly sessions.
+
+Avoiding things makes anxiety grow. Each time you avoid something, your brain learns it was dangerous. Facing it in small steps teaches your brain it is safe.
+
+When anxiety hits:
 
 - Slow breathing. Breathe in for 4 seconds, hold for 4, and breathe out for 6. Repeat for 2 minutes.
-- Move your body for 30 minutes on most days.
+- Ground yourself. Name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, and 1 you taste.
+- Tell yourself: this feels bad, but it is not dangerous. It will pass.
+
+For worry:
+
+- Set a 15-minute worry time each day. Write your worries down.
+- When a worry comes at other times, save it for worry time.
+- For each worry, ask: can I do something about this now?
+- If yes, write down one small next step. If no, let it go until worry time.
+
+Exercise:
+
+- Exercise lowers anxiety. Any kind helps: walking, biking, dancing, swimming, yoga, or lifting weights.
+- Start small. Even a 10-minute walk can ease anxiety that day.
+- Build up to 150 minutes a week, like 30 minutes on 5 days.
+- Add strength exercises 2 days a week.
+- Pick something you enjoy so you keep doing it.
+
+If faith is part of your life:
+
+- Prayer, scripture, or quiet meditation can calm your body and mind.
+- A verse or passage to hold on to: ***
+- Tell someone in your faith community that you are struggling. Let them support you.
+- Your pastor, priest, imam, rabbi, or chaplain can talk with you or help you find a counselor.
+- Some counselors can include your faith in CBT. Ask us if you want one.
+- Getting treatment for anxiety is not a lack of faith.
+
+Every day:
+
 - Cut back on coffee, energy drinks, and soda.
-- Avoid alcohol and marijuana. They make anxiety worse over time.
+- Alcohol and marijuana may calm you for a moment, but they make anxiety worse over time.
 - Keep a regular sleep time.
+- Stay in touch with people you trust.
 
-About your medicine:
+If you take medicine:
 
-- Take it every day.
+- Take it every day, even on good days.
+- Some people feel a little more jittery in the first 1 to 2 weeks. This usually passes.
 - It takes 4 to 8 weeks to work fully.
+- If it helps, keep taking it for at least a year. Then we lower it slowly together.
 - Do not stop it suddenly. Talk to us first.
+- Calming pills like alprazolam or lorazepam can lead to dependence. They are only for short-term use.
+
+Free help:
+
+- ""What? Me Worry!?!"" is a free self-help workbook for worry: https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Worry-and-Rumination
+- Mindfulness Coach is a free app from the VA. Anyone can use it: https://mobile.va.gov/app/mindfulness-coach
 
 Call the clinic if you feel worse, have panic attacks often, or side effects bother you.
 
 If you have thoughts of hurting yourself, call or text 988 any time, day or night.
 
-Call 911 if you have chest pain or trouble breathing, or if you are in danger right now.",2026-10-30,2026-10-30
+Call 911 if you have chest pain or trouble breathing, or if you are in danger right now.",2026-10-29,
 $pihypothy,Thyroid medicine,$,Patient instructions: chronic conditions,Use as after-visit instructions for levothyroxine.,"Thyroid medicine
 
 Your thyroid gland does not make enough hormone. Your medicine replaces it.
@@ -20776,6 +20918,12 @@ What you can do:
 - If you take pain pills like _, take them with food.
 - A cane or brace may help: _
 
+Exercise help online:
+
+- E3 Rehab, Knee arthritis: https://e3rehab.com/knee-osteoarthritis/
+- E3 Rehab, Hip arthritis: https://e3rehab.com/hip-osteoarthritis/
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
+
 Call the clinic if:
 
 - Pain keeps you from sleeping or doing daily tasks
@@ -20799,6 +20947,12 @@ What you can do:
 - If you take pain pills like ***, take them with food.
 - A cane or brace may help: ***
 
+Exercise help online:
+
+- E3 Rehab, Knee arthritis: https://e3rehab.com/knee-osteoarthritis/
+- E3 Rehab, Hip arthritis: https://e3rehab.com/hip-osteoarthritis/
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
+
 Call the clinic if:
 
 - Pain keeps you from sleeping or doing daily tasks
@@ -20808,7 +20962,7 @@ Go to the ER or come in the same day if:
 
 - A joint becomes red, hot, and swollen
 - You have a fever
-- You have black stools",2026-10-30,2026-10-30
+- You have black stools",2026-11-02,2026-11-02
 $piinsom,Sleep,$,Patient instructions: chronic conditions,Use as after-visit instructions for insomnia.,"Better sleep
 
 This plan is called CBT-I. It retrains your body and brain to sleep. Over time it works better than sleeping pills.
@@ -21511,6 +21665,11 @@ After 2 to 3 days:
 
 Use acetaminophen or ibuprofen as directed on the label.
 
+Exercise help online:
+
+- E3 Rehab, Ankle sprain: https://e3rehab.com/lateral-ankle-sprain-rehab/
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
+
 Call the clinic if you cannot put weight on it after 1 week or it is not getting better.
 
 Go to the ER if:
@@ -21534,6 +21693,11 @@ After 2 to 3 days:
 - Brace or crutches: ***
 
 Use acetaminophen or ibuprofen as directed on the label.
+
+Exercise help online:
+
+- E3 Rehab, Ankle sprain: https://e3rehab.com/lateral-ankle-sprain-rehab/
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
 
 Call the clinic if you cannot put weight on it after 1 week or it is not getting better.
 
@@ -22648,6 +22812,10 @@ If you take alendronate:
 
 Bone scan again in _.
 
+Exercise help online:
+
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
+
 Call the clinic if you have heartburn or pain when swallowing on alendronate, or new thigh or groin pain.
 
 Go to the ER if you fall and cannot stand, or have severe pain after a fall.","Bone health
@@ -22672,9 +22840,13 @@ If you take alendronate:
 
 Bone scan again in ***.
 
+Exercise help online:
+
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
+
 Call the clinic if you have heartburn or pain when swallowing on alendronate, or new thigh or groin pain.
 
-Go to the ER if you fall and cannot stand, or have severe pain after a fall.",2026-10-31,2026-10-31
+Go to the ER if you fall and cannot stand, or have severe pain after a fall.",2026-11-02,2026-11-02
 $pirhinitis,Allergies,$,Patient instructions: more clinic topics,Use as after-visit instructions for allergic rhinitis.,"Nose allergies
 
 Allergies cause a runny or stuffy nose, sneezing, and itchy eyes.
@@ -22822,6 +22994,7 @@ Your body:
 
 - Do your strength and balance exercises 3 or more days a week, for at least 12 weeks.
 - Good programs are physical therapy, the Otago program, or Vivifrail, free at vivifrail.com: _
+- Rx3 has a free balance program with videos and a progress log: https://rx3.usuhs.edu/
 - Stand up slowly. Sit on the edge of the bed for a minute first.
 - Wear shoes with thin, non-slip soles inside and outside.
 - Use your cane or walker every time: _
@@ -22851,6 +23024,7 @@ Your body:
 
 - Do your strength and balance exercises 3 or more days a week, for at least 12 weeks.
 - Good programs are physical therapy, the Otago program, or Vivifrail, free at vivifrail.com: ***
+- Rx3 has a free balance program with videos and a progress log: https://rx3.usuhs.edu/
 - Stand up slowly. Sit on the edge of the bed for a minute first.
 - Wear shoes with thin, non-slip soles inside and outside.
 - Use your cane or walker every time: ***
@@ -22864,7 +23038,7 @@ Call 911 if you:
 
 - Fall and cannot get up
 - Hit your head while on a blood thinner
-- Have new weakness or confusion",2026-10-31,2026-10-31
+- Have new weakness or confusion",2026-11-02,2026-11-02
 $pisti,STI treatment,$,Patient instructions: more clinic topics,Use as after-visit instructions after STI testing or treatment.,"Sexually transmitted infections
 
 You were tested or treated for _.
@@ -25702,6 +25876,8 @@ Your plan:
 - Counseling: _
 - Next visit: _
 
+I have referred you to _a counselor / a psychiatrist / a counselor and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at _.
+
 Daily habits that help:
 
 - Take your medicine every day, even when you feel well.
@@ -25770,6 +25946,8 @@ Your plan:
 - Counseling: ***
 - Next visit: ***
 
+I have referred you to {a counselor/a psychiatrist/a counselor} and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at ***.
+
 Daily habits that help:
 
 - Take your medicine every day, even when you feel well.
@@ -25827,7 +26005,7 @@ Call the clinic if you notice signs of a high or a low, or side effects bother y
 
 If you have thoughts of hurting yourself, call or text 988 any time. In Tulsa County, COPES is 918-744-4800, 24/7.
 
-Call 911 or go to the ER if you are confused, have a seizure, or are in danger right now.",2026-10-30,2026-10-30
+Call 911 or go to the ER if you are confused, have a seizure, or are in danger right now.",2026-11-02,2026-11-02
 $piptsd,PTSD,$,Patient instructions: more clinic topics,Use as after-visit instructions for adults with posttraumatic stress disorder.,"PTSD
 
 PTSD can happen after a scary or harmful event. It is not a weakness. It can be treated, and most people get better.
@@ -25845,6 +26023,8 @@ Your plan:
 - Counseling: _
 - Medicine: _
 - Next visit: _
+
+I have referred you to _a counselor / a psychiatrist / a counselor and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at _.
 
 Counseling works best:
 
@@ -25898,6 +26078,8 @@ Your plan:
 - Medicine: ***
 - Next visit: ***
 
+I have referred you to {a counselor/a psychiatrist/a counselor} and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at ***.
+
 Counseling works best:
 
 - The best treatments are talk therapies that help you work through the trauma.
@@ -25932,7 +26114,7 @@ If you have thoughts of hurting yourself, call or text 988 any time. Veterans ca
 
 In Tulsa County, COPES is 918-744-4800, 24/7.
 
-Call 911 if you are in danger right now.",2026-10-30,2026-10-30
+Call 911 if you are in danger right now.",2026-11-02,2026-11-02
 $pipanic,Panic attacks,$,Patient instructions: more clinic topics,Use as after-visit instructions for adults with panic disorder.,"Panic attacks
 
 A panic attack is a sudden wave of strong fear. It can feel like a heart attack. Panic disorder can be treated, and most people get better.
@@ -25953,6 +26135,8 @@ Your plan:
 - Counseling: _
 - Medicine: _
 - Next visit: _
+
+I have referred you to _a counselor / a psychiatrist / a counselor and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at _.
 
 What to do during an attack:
 
@@ -26000,6 +26184,8 @@ Your plan:
 - Medicine: ***
 - Next visit: ***
 
+I have referred you to {a counselor/a psychiatrist/a counselor} and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at ***.
+
 What to do during an attack:
 
 - Slow your breathing. Breathe in for 4 seconds, hold for 4, and breathe out for 6.
@@ -26025,7 +26211,7 @@ Call the clinic if attacks happen more often, you avoid places, or side effects 
 
 If you have thoughts of hurting yourself, call or text 988 any time.
 
-Call 911 if you have chest pain you are not sure is panic, trouble breathing, or fainting.",2026-10-30,2026-10-30
+Call 911 if you have chest pain you are not sure is panic, trouble breathing, or fainting.",2026-11-02,2026-11-02
 $pigrief,Grief,$,Patient instructions: more clinic topics,Use as after-visit instructions for adults coping with the death of a loved one.,"Grief
 
 Grief is the normal pain we feel after a loss. There is no right way to grieve.
@@ -26051,6 +26237,8 @@ Your plan:
 - Support: _
 - Counseling: _
 - Next visit: _
+
+I have referred you to _a counselor / a psychiatrist / a counselor and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at _.
 
 When grief needs more help:
 
@@ -26094,6 +26282,8 @@ Your plan:
 - Counseling: ***
 - Next visit: ***
 
+I have referred you to {a counselor/a psychiatrist/a counselor} and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at ***.
+
 When grief needs more help:
 
 - Sometimes grief stays very strong for a year or more. This is called prolonged grief disorder.
@@ -26110,7 +26300,7 @@ Call the clinic if:
 
 If you have thoughts of hurting yourself, call or text 988 any time. In Tulsa County, COPES is 918-744-4800, 24/7.
 
-Call 911 if you are in danger right now.",2026-10-30,2026-10-30
+Call 911 if you are in danger right now.",2026-11-02,2026-11-02
 $pieatdis,Eating disorders: a guide for families,$,Patient instructions: more clinic topics,Use as after-visit instructions for parents and families of a child or teen with an eating disorder.,"Eating disorders: a guide for families
 
 Eating disorders are serious illnesses. They can harm the heart, bones, and brain. With early treatment, people can fully recover.
@@ -26840,6 +27030,11 @@ Getting back to activity:
 - Wear shoes that fit well and have good cushioning.
 - If you are overweight, losing weight takes pressure off your knees.
 
+Exercise help online:
+
+- E3 Rehab, Exercises for knee pain: https://e3rehab.com/exercises-for-knee-pain/
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
+
 Call the clinic if:
 
 - You still have pain after 3 days of home care
@@ -26880,6 +27075,11 @@ Getting back to activity:
 - Wear shoes that fit well and have good cushioning.
 - If you are overweight, losing weight takes pressure off your knees.
 
+Exercise help online:
+
+- E3 Rehab, Exercises for knee pain: https://e3rehab.com/exercises-for-knee-pain/
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
+
 Call the clinic if:
 
 - You still have pain after 3 days of home care
@@ -26891,7 +27091,7 @@ Go to the ER or come in the same day if:
 
 - Your knee is red, hot, or very swollen, or you have a fever
 - Your knee looks bent out of shape
-- Your calf is swollen, painful, numb, or turning blue",2026-10-30,2026-10-30
+- Your calf is swollen, painful, numb, or turning blue",2026-11-02,2026-11-02
 $pineck,Neck pain,$,Patient instructions: more clinic topics,Use as after-visit instructions for neck pain or neck strain managed at home.,"Neck pain
 
 Neck pain is often caused by strained or tight muscles. Sitting bent over a desk for a long time is a common cause.
@@ -26924,6 +27124,11 @@ At work and at home:
 - Keep your screen and papers at eye level.
 - Use a headset if you talk on the phone a lot.
 - On long drives, stop and walk about every hour.
+
+Exercise help online:
+
+- E3 Rehab, Neck and shoulder pain exercises: https://e3rehab.com/neck-and-shoulder-pain-exercises/
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
 
 Call the clinic if:
 
@@ -26974,6 +27179,11 @@ At work and at home:
 - Use a headset if you talk on the phone a lot.
 - On long drives, stop and walk about every hour.
 
+Exercise help online:
+
+- E3 Rehab, Neck and shoulder pain exercises: https://e3rehab.com/neck-and-shoulder-pain-exercises/
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
+
 Call the clinic if:
 
 - Your pain is not better after 1 week of home care
@@ -26990,7 +27200,7 @@ Call 911 or go to the ER if:
 
 - You have a fever, a headache, and a neck so stiff you cannot touch your chin to your chest
 - You hurt your neck in a fall or injury and cannot move your arm or hand
-- You have neck pain with shortness of breath, sweating, nausea, or arm or jaw pain",2026-10-30,2026-10-30
+- You have neck pain with shortness of breath, sweating, nausea, or arm or jaw pain",2026-11-02,2026-11-02
 $piarth,Living with inflammatory arthritis,$,Patient instructions: more clinic topics,"Use as after-visit instructions for rheumatoid arthritis or other inflammatory arthritis, including methotrexate and hydroxychloroquine safety.","Living with inflammatory arthritis
 
 Your immune system is attacking the lining of your joints. This causes pain, swelling, and stiffness. Starting treatment early helps prevent lasting joint damage.
@@ -33485,6 +33695,15 @@ How long it takes:
 - Tendons heal slowly. Most people get better over weeks to months.
 - Full healing can take more than 6 months.
 
+Exercise help online:
+
+- E3 Rehab, Tendon pain, any site: https://e3rehab.com/how-to-rehab-tendon-injuries-and-pain/
+- E3 Rehab, Tennis elbow: https://e3rehab.com/tennis-elbow-rehab/
+- E3 Rehab, Achilles: https://e3rehab.com/achilles-tendinopathy/
+- E3 Rehab, Front of the knee: https://e3rehab.com/patellartendinopathy/
+- E3 Rehab, Outer hip: https://e3rehab.com/gluteal-tendinopathy/
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
+
 Call the clinic if:
 
 - Your pain is not better after _ weeks of your exercises
@@ -33576,6 +33795,15 @@ How long it takes:
 - Tendons heal slowly. Most people get better over weeks to months.
 - Full healing can take more than 6 months.
 
+Exercise help online:
+
+- E3 Rehab, Tendon pain, any site: https://e3rehab.com/how-to-rehab-tendon-injuries-and-pain/
+- E3 Rehab, Tennis elbow: https://e3rehab.com/tennis-elbow-rehab/
+- E3 Rehab, Achilles: https://e3rehab.com/achilles-tendinopathy/
+- E3 Rehab, Front of the knee: https://e3rehab.com/patellartendinopathy/
+- E3 Rehab, Outer hip: https://e3rehab.com/gluteal-tendinopathy/
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
+
 Call the clinic if:
 
 - Your pain is not better after *** weeks of your exercises
@@ -33587,7 +33815,7 @@ Go to the ER or come in the same day if:
 
 - You hear or feel a sudden pop, then have trouble walking or standing on your toes
 - A new bulge shows up in your upper arm after a pop
-- The area is red, hot, and swollen, and you have a fever",2026-10-31,2026-10-31
+- The area is red, hot, and swollen, and you have a fever",2026-11-02,2026-11-02
 $pisexf,Low sexual desire or arousal,$,Patient instructions: more clinic topics,Use as after-visit instructions for women with low sexual desire or arousal.,"Low sexual desire or arousal
 
 Many women have times when they are not interested in sex. Interest changes with age, health, stress and relationships. It is only a problem if it bothers you.
@@ -34813,6 +35041,7 @@ How to build up:
 - The program is 12 weeks. Keep going after that, or the gains fade.
 
 Free guides with pictures: vivifrail.com
+Free balance program with videos and a progress log: https://rx3.usuhs.edu/
 
 Stay safe:
 
@@ -34872,6 +35101,7 @@ How to build up:
 - The program is 12 weeks. Keep going after that, or the gains fade.
 
 Free guides with pictures: vivifrail.com
+Free balance program with videos and a progress log: https://rx3.usuhs.edu/
 
 Stay safe:
 
@@ -34880,7 +35110,7 @@ Stay safe:
 - Stop and call the clinic if you feel dizzy, short of breath, or have chest pain.
 - Call the clinic if muscle pain does not go away, or if you fall.
 
-Call 911 if chest pain does not go away with rest.",2026-10-31,2026-10-31
+Call 911 if chest pain does not go away with rest.",2026-11-02,2026-11-02
 $piprotein,Protein for older adults,$,Patient instructions: more clinic topics,"Use as after-visit instructions on protein intake for older adults with frailty, sarcopenia, or poor intake.","Protein for strong muscles
 
 As we age, muscles need more protein to stay strong. Eat protein at every meal, and keep doing your exercises.
@@ -36539,6 +36769,10 @@ Other treatment:
 - Special scoliosis exercises from a physical therapist may help a little.
 - Surgery is only for large curves, usually over 45 to 50 degrees.
 
+Exercise help online:
+
+- E3 Rehab, Scoliosis: https://e3rehab.com/scoliosis/
+
 Call the clinic if your child:
 
 - Has back pain that is bad or does not go away
@@ -36574,12 +36808,16 @@ Other treatment:
 - Special scoliosis exercises from a physical therapist may help a little.
 - Surgery is only for large curves, usually over 45 to 50 degrees.
 
+Exercise help online:
+
+- E3 Rehab, Scoliosis: https://e3rehab.com/scoliosis/
+
 Call the clinic if your child:
 
 - Has back pain that is bad or does not go away
 - Has numbness, weakness, or trouble walking
 - Has shoulders, waist, or ribs that look more uneven
-- Has brace rubbing that causes sores",2026-11-01,2026-11-01
+- Has brace rubbing that causes sores",2026-11-02,2026-11-02
 $piocd,OCD,$,Patient instructions: more clinic topics,Use as after-visit instructions for an adult starting treatment for obsessive-compulsive disorder.,"OCD
 
 OCD causes unwanted thoughts that keep coming back. These are called obsessions. It also causes urges to do things over and over. These are called compulsions. Treatment helps most people.
@@ -36617,6 +36855,8 @@ Every day:
 - Keep a regular sleep schedule.
 - Be active most days.
 - Spend time with people you trust.
+
+I have referred you to _a counselor / a psychiatrist / a counselor and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at _.
 
 Call the clinic if:
 
@@ -36661,12 +36901,14 @@ Every day:
 - Be active most days.
 - Spend time with people you trust.
 
+I have referred you to {a counselor/a psychiatrist/a counselor} and a psychiatrist. Expect a call to schedule within the next week. If you do not hear from us, call the Central Referral Center at ***.
+
 Call the clinic if:
 
 - Symptoms take up more of your day, or you cannot keep up at work or school.
 - Medicine side effects bother you.
 
-Call or text 988 any time if you have thoughts of hurting yourself. Call 911 if you are in danger now.",2026-11-01,2026-11-01
+Call or text 988 any time if you have thoughts of hurting yourself. Call 911 if you are in danger now.",2026-11-02,2026-11-02
 $piptx,Collapsed lung,$,Patient instructions: more clinic topics,Use when discharging a patient after a pneumothorax.,"Collapsed lung (pneumothorax)
 
 Air leaked out of your lung into your chest. This made part of your lung collapse. Most people heal fully.
@@ -37512,6 +37754,11 @@ Other tips:
 
 - If you have diabetes, keeping your blood sugar in range helps your shoulder recover.
 
+Exercise help online:
+
+- E3 Rehab, Frozen shoulder: https://e3rehab.com/frozenshoulder/
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
+
 Call the clinic if:
 
 - You are not getting better after 6 to 12 weeks of stretching
@@ -37557,6 +37804,11 @@ Other tips:
 
 - If you have diabetes, keeping your blood sugar in range helps your shoulder recover.
 
+Exercise help online:
+
+- E3 Rehab, Frozen shoulder: https://e3rehab.com/frozenshoulder/
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
+
 Call the clinic if:
 
 - You are not getting better after 6 to 12 weeks of stretching
@@ -37566,7 +37818,7 @@ Call the clinic if:
 Go to the ER or call 911 if:
 
 - Your shoulder is red, hot, and swollen, and you have a fever
-- Shoulder pain comes with chest pressure, shortness of breath, or sweating",2026-11-01,2026-11-01
+- Shoulder pain comes with chest pressure, shortness of breath, or sweating",2026-11-02,2026-11-02
 $pimorton,Morton neuroma,$,Patient instructions: more clinic topics,Use as after-visit instructions for Morton (interdigital) neuroma.,"Morton neuroma
 
 A Morton neuroma is a thick, irritated nerve between two toes. It is most often between the 3rd and 4th toes. It can feel like burning or like a pebble in your shoe.
@@ -38592,6 +38844,11 @@ Do this 2 to 3 times on each side, 1 to 2 times a day.
 
 Stop if the stretch causes sharp pain.
 
+Exercise help online:
+
+- E3 Rehab, Piriformis syndrome: https://e3rehab.com/piriformis-syndrome/
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
+
 Call us if the pain lasts more than 6 weeks or spreads down your leg.
 
 Go to the ER if you have new leg weakness, numbness between your legs, or trouble controlling urine or stool.","Piriformis stretch
@@ -38605,6 +38862,11 @@ Switch sides.
 Do this 2 to 3 times on each side, 1 to 2 times a day.
 
 Stop if the stretch causes sharp pain.
+
+Exercise help online:
+
+- E3 Rehab, Piriformis syndrome: https://e3rehab.com/piriformis-syndrome/
+- Rx3: free home exercise videos and progress log for back, neck, shoulder, hip, knee, ankle, arthritis, bone health: https://rx3.usuhs.edu/
 
 Call us if the pain lasts more than 6 weeks or spreads down your leg.
 
