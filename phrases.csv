@@ -2493,7 +2493,7 @@ Call the clinic if:
 
 Go to the ER right away if you have:
 
-- Bleeding that soaks 2 pads an hour for 2 hours
+- Bleeding that soaks more than 2 pads an hour for 2 hours
 - Bad pain, especially on one side of your belly
 - Pain in your shoulder tip
 - Dizziness or fainting
@@ -2517,7 +2517,7 @@ Call the clinic if:
 
 Go to the ER right away if you have:
 
-- Bleeding that soaks 2 pads an hour for 2 hours
+- Bleeding that soaks more than 2 pads an hour for 2 hours
 - Bad pain, especially on one side of your belly
 - Pain in your shoulder tip
 - Dizziness or fainting
@@ -4849,6 +4849,156 @@ Call the clinic if:
 - You have bad stomach cramps or pain
 
 Go to the ER or Labor and Delivery right away if you faint, have chest pain, or have heavy bleeding.",2026-11-01,2026-11-01
+%pimisc,Miscarriage,%,Patient instructions: prenatal,Use as after-visit instructions for a patient with an early pregnancy loss.,"Miscarriage
+
+An early pregnancy loss is a pregnancy that stops growing in the first 12 weeks. It is common. It is not caused by stress, exercise, food, or sex.
+
+Your plan:
+
+- Your choice: _wait for it to pass / medicine to help it pass / a suction procedure
+- Your next visit or test is on _.
+
+What to expect:
+
+- Cramps and bleeding with clots can be stronger than a normal period.
+- Bleeding often lasts 1 to 2 weeks. It may stop and start a few times.
+- Use pads, not tampons, so you can see how much you bleed.
+
+For pain:
+
+- Take ibuprofen, naproxen, or acetaminophen as the package says, with food.
+- A hot pack on your belly can help with cramps.
+
+If you use misoprostol:
+
+- Take ibuprofen 1 hour before the misoprostol.
+- Cramps often start 2 to 4 hours after the pills and last 3 to 5 hours.
+- Nausea, diarrhea, or chills can happen. They should go away within 24 hours.
+- No bleeding within 24 hours? Use the second dose if you have one, or call us.
+
+Call the clinic if:
+
+- You still have no bleeding after the medicine
+- You feel it is taking too long
+- You feel very sad or have trouble coping
+- You have questions about another pregnancy
+
+Go to the ER if you have:
+
+- Bleeding that soaks more than 2 maxi pads an hour for 2 hours in a row
+- Fever over 101 F, chills, or bad-smelling discharge
+- Bad cramps that pain medicine does not help
+- Dizziness or feeling like you may pass out
+
+After a miscarriage:
+
+- You can use birth control right away if you want it.
+- You can try for another pregnancy as soon as you feel ready.
+- If you want to try again, take a prenatal vitamin every day.
+- Ask us about support or counseling if you want it.","Miscarriage
+
+An early pregnancy loss is a pregnancy that stops growing in the first 12 weeks. It is common. It is not caused by stress, exercise, food, or sex.
+
+Your plan:
+
+- Your choice: {wait for it to pass/medicine to help it pass/a suction procedure}
+- Your next visit or test is on ***.
+
+What to expect:
+
+- Cramps and bleeding with clots can be stronger than a normal period.
+- Bleeding often lasts 1 to 2 weeks. It may stop and start a few times.
+- Use pads, not tampons, so you can see how much you bleed.
+
+For pain:
+
+- Take ibuprofen, naproxen, or acetaminophen as the package says, with food.
+- A hot pack on your belly can help with cramps.
+
+If you use misoprostol:
+
+- Take ibuprofen 1 hour before the misoprostol.
+- Cramps often start 2 to 4 hours after the pills and last 3 to 5 hours.
+- Nausea, diarrhea, or chills can happen. They should go away within 24 hours.
+- No bleeding within 24 hours? Use the second dose if you have one, or call us.
+
+Call the clinic if:
+
+- You still have no bleeding after the medicine
+- You feel it is taking too long
+- You feel very sad or have trouble coping
+- You have questions about another pregnancy
+
+Go to the ER if you have:
+
+- Bleeding that soaks more than 2 maxi pads an hour for 2 hours in a row
+- Fever over 101 F, chills, or bad-smelling discharge
+- Bad cramps that pain medicine does not help
+- Dizziness or feeling like you may pass out
+
+After a miscarriage:
+
+- You can use birth control right away if you want it.
+- You can try for another pregnancy as soon as you feel ready.
+- If you want to try again, take a prenatal vitamin every day.
+- Ask us about support or counseling if you want it.",2026-11-02,2026-11-02
+%pitrauma,After a fall or car crash in pregnancy,%,Patient instructions: prenatal,Use as after-visit instructions after minor trauma in pregnancy with reassuring monitoring.,"After a fall or car crash in pregnancy
+
+Your exam and monitoring were normal today.
+
+Go to Labor and Delivery or the ER right away if you have:
+
+- Bleeding from your vagina
+- Fluid leaking from your vagina
+- Cramps or contractions that do not stop
+- Belly pain or a belly that feels hard or tender
+- Your baby moving less than usual
+- Feeling dizzy or faint
+
+Seat belts:
+
+- Always wear both the lap belt and the shoulder belt.
+- Put the lap belt low, under your belly and across your hips.
+- Put the shoulder belt between your breasts and off to the side of your belly.
+- Do not turn off the airbags.
+
+Your safety:
+
+- If someone is hurting you, call us or the National Domestic Violence Hotline at 800-799-7233.
+- You can also text START to 88788.
+
+Call the clinic if:
+
+- You have pain from other injuries that is not getting better
+- You have questions about your pregnancy","After a fall or car crash in pregnancy
+
+Your exam and monitoring were normal today.
+
+Go to Labor and Delivery or the ER right away if you have:
+
+- Bleeding from your vagina
+- Fluid leaking from your vagina
+- Cramps or contractions that do not stop
+- Belly pain or a belly that feels hard or tender
+- Your baby moving less than usual
+- Feeling dizzy or faint
+
+Seat belts:
+
+- Always wear both the lap belt and the shoulder belt.
+- Put the lap belt low, under your belly and across your hips.
+- Put the shoulder belt between your breasts and off to the side of your belly.
+- Do not turn off the airbags.
+
+Your safety:
+
+- If someone is hurting you, call us or the National Domestic Violence Hotline at 800-799-7233.
+- You can also text START to 88788.
+
+Call the clinic if:
+
+- You have pain from other injuries that is not getting better
+- You have questions about your pregnancy",2026-11-02,2026-11-02
 %pipp,Recovery after vaginal birth,%,Patient instructions: postpartum,Use as postpartum instructions after a vaginal delivery.,"Recovery after vaginal birth
 
 Bleeding:
@@ -5892,6 +6042,74 @@ Call 911 if your baby is limp, hard to wake, or has trouble breathing.",2026-10-
 %hnvp,Nausea and vomiting of pregnancy HPI,%,HPIs: OB,Use for nausea and vomiting of pregnancy.,"G_ P_ at _w_d by _, presenting with nausea and vomiting x _. PUQE score _: nausea _ hours per day, vomiting _ episodes per day, retching _ episodes per day. Tolerating PO _, urine output _, weight change _. Denies hematemesis, abdominal pain, fever, diarrhea, headache. Tried _ with _ relief.","G*** P*** at ***w***d by ***, presenting with nausea and vomiting x ***. PUQE score ***: nausea *** hours per day, vomiting *** episodes per day, retching *** episodes per day. Tolerating PO ***, urine output ***, weight change ***. Denies hematemesis, abdominal pain, fever, diarrhea, headache. Tried *** with *** relief.",2026-10-29,
 %hpp,Postpartum complaint HPI,%,HPIs: OB,Use for postpartum patients returning with a complaint.,"_yo G_ P_ postpartum day _ s/p _ on _, presenting with _. Bleeding _, pain _, feeding _. Denies heavy bleeding, fever, severe headache, vision changes, chest pain, dyspnea, calf pain, foul discharge, wound drainage, thoughts of harming self or baby. Pregnancy and delivery complications _.","***yo G*** P*** postpartum day *** s/p *** on ***, presenting with ***. Bleeding ***, pain ***, feeding ***. Denies heavy bleeding, fever, severe headache, vision changes, chest pain, dyspnea, calf pain, foul discharge, wound drainage, thoughts of harming self or baby. Pregnancy and delivery complications ***.",2026-10-29,
 %hbf,Breastfeeding HPI,%,HPIs: OB,Use for the HPI of a breastfeeding concern visit.,"_yo G_ P_ here for breastfeeding concern, postpartum day _, infant _ days old. Feeds _/24 hr, _ min, _both sides / one side. Supplement _none / expressed milk / donor milk / formula _ mL x _/day. Pumping _ x/day, _ mL/session. Voids _ and stools _/24 hr, stool color _. Birth weight _ g, weight trend _. Nipple pain _/10, nipple damage _. Breast redness, lump, or fever _. Supply concern _. Prior breast surgery _, PCOS _, thyroid disease _, insufficient glandular tissue _. Meds _. Return to work _. Feeding goals _.","***yo G*** P*** here for breastfeeding concern, postpartum day ***, infant *** days old. Feeds ***/24 hr, *** min, {both sides/one side}. Supplement {none/expressed milk/donor milk/formula} *** mL x ***/day. Pumping *** x/day, *** mL/session. Voids *** and stools ***/24 hr, stool color ***. Birth weight *** g, weight trend ***. Nipple pain ***/10, nipple damage ***. Breast redness, lump, or fever ***. Supply concern ***. Prior breast surgery ***, PCOS ***, thyroid disease ***, insufficient glandular tissue ***. Meds ***. Return to work ***. Feeding goals ***.",2026-10-31,2026-10-31
+%hbleed1,First-trimester bleeding HPI,%,HPIs: OB,"Use for vaginal bleeding or cramping before 13 weeks, with drop-downs for amount, tissue passage, and ectopic red flags.","_yo G_ P_ at _w_d by _LMP / early US / unsure dates, presenting with vaginal bleeding x _.
+
+- Prior US this pregnancy: _none / IUP seen, no cardiac activity yet / IUP w/ cardiac activity / _
+- Amount: _spotting / like a light period / like a heavy period / soaking 2 or more pads an hour
+- Clots: _none / small clots / large clots _
+- Tissue passed: _no / possibly / yes, _
+- Cramping: _none / mild / like strong period cramps / severe _
+- One-sided pain: _no / yes, _ side
+- Shoulder tip pain: _no / yes
+- Dizziness or fainting: _no / lightheaded / fainted
+- Fever, chills, or foul discharge: _no / yes, _
+- Recent intercourse or trauma: _no / yes, _
+- Pregnancy symptoms: _unchanged / fading _
+- Ectopic risk: _none / prior ectopic / tubal surgery or PID / IUD in place / IVF pregnancy _
+- Prior losses: _none / _ losses at _ wk
+- Pregnancy desired: _yes / no / unsure
+- Blood type and Rh: _unknown / Rh positive / Rh negative","***yo G*** P*** at ***w***d by {LMP/early US/unsure dates}, presenting with vaginal bleeding x ***.
+
+- Prior US this pregnancy: {none/IUP seen}, no cardiac activity yet / IUP w/ cardiac activity / ***
+- Amount: {spotting/like a light period/like a heavy period/soaking 2 or more} pads an hour
+- Clots: {none/small clots/large clots} ***
+- Tissue passed: {no/possibly/yes}, ***
+- Cramping: {none/mild/like strong period cramps/severe} ***
+- One-sided pain: {no/yes}, *** side
+- Shoulder tip pain: {no/yes}
+- Dizziness or fainting: {no/lightheaded/fainted}
+- Fever, chills, or foul discharge: {no/yes}, ***
+- Recent intercourse or trauma: {no/yes}, ***
+- Pregnancy symptoms: {unchanged/fading} ***
+- Ectopic risk: {none/prior ectopic/tubal surgery or PID/IUD in place/IVF pregnancy} ***
+- Prior losses: ***none / *** losses at *** wk
+- Pregnancy desired: {yes/no/unsure}
+- Blood type and Rh: {unknown/Rh positive/Rh negative}",2026-11-02,2026-11-02
+%htrauma,Trauma in pregnancy HPI,%,HPIs: OB,"Use for a pregnant patient after a fall, motor vehicle crash, assault, or blow to the abdomen.","_yo G_ P_ at _w_d by _, presenting after injury at _ (time).
+
+- Type: _motor vehicle crash / fall / assault / blow to the abdomen / _
+- Details: _
+- Seat belt: _lap and shoulder, lap belt low / lap belt over belly / shoulder only / none / n/a
+- Airbag: _deployed / not deployed / n/a
+- Abdominal impact: _none / direct blow to abdomen / landed on abdomen _
+- Abdominal pain or uterine tenderness: _none / mild / severe _
+- Vaginal bleeding: _none / spotting / heavier than spotting _
+- Leakage of fluid: _none / yes _
+- Contractions or cramping: _none / irregular / regular, every _ min
+- Fetal movement: _normal / decreased / none since injury
+- Head injury or LOC: _none / hit head, no LOC / LOC _
+- Other injuries: _none / _
+- Safe at home, no one hurting you: _yes / no / declined to answer privately
+- Tdap this pregnancy: _yes / no / unknown
+- Blood type and Rh: _Rh positive / Rh negative / unknown
+- Pregnancy course notable for _","***yo G*** P*** at ***w***d by ***, presenting after injury at *** (time).
+
+- Type: ***motor vehicle crash / fall / assault / blow to the abdomen / ***
+- Details: ***
+- Seat belt: ***lap and shoulder, lap belt low / lap belt over belly / shoulder only / none / n/a
+- Airbag: ***deployed / not deployed / n/a
+- Abdominal impact: {none/direct blow to abdomen/landed on abdomen} ***
+- Abdominal pain or uterine tenderness: {none/mild/severe} ***
+- Vaginal bleeding: {none/spotting/heavier} than spotting ***
+- Leakage of fluid: {none/yes} ***
+- Contractions or cramping: {none/irregular/regular}, every *** min
+- Fetal movement: {normal/decreased/none} since injury
+- Head injury or LOC: {none/hit head}, no LOC / LOC ***
+- Other injuries: ***none / ***
+- Safe at home, no one hurting you: {yes/no/declined} to answer privately
+- Tdap this pregnancy: {yes/no/unknown}
+- Blood type and Rh: {Rh positive/Rh negative/unknown}
+- Pregnancy course notable for ***",2026-11-02,2026-11-02
 %sve,Sterile vaginal exam,%,Exams,Use for a cervical exam in labor or triage.,"SVE at _: dilation _ cm, effacement _ percent, station _, position _, consistency _, by _","SVE at ***: dilation *** cm, effacement *** percent, station ***, position ***, consistency ***, by ***",2026-10-29,
 %leo,Fundal height and Leopolds,%,Exams,"Use for fundal height, Leopold maneuvers, and EFW.","- Fundal height: _ cm
 - Leopold maneuvers: fetal lie _, presentation _cephalic / breech / transverse, back _, engagement _
@@ -6786,7 +7004,7 @@ If G6PD deficiency:
 
 If sepsis, hypoxia, or rising creatinine:
 
-- Escalate level of care, notify attending and OBHG","#Pyelonephritis in pregnancy
+- Escalate level of care, notify attending and OBHWS","#Pyelonephritis in pregnancy
 Likely pyelonephritis given ***fever, flank pain, CVA tenderness, pyuria / fever, nausea, vomiting, positive urine cx / preterm contractions with fever and pyuria.
 GA ***. Tmax ***, HR ***, BP ***, RR ***, SpO2 ***. WBC ***, platelets ***, Hgb ***, creatinine ***. UA ***, urine cx ***, prior cx ***.
 
@@ -6840,7 +7058,7 @@ If G6PD deficiency:
 
 If sepsis, hypoxia, or rising creatinine:
 
-- Escalate level of care, notify attending and OBHG",2026-11-01,2026-11-01
+- Escalate level of care, notify attending and OBHWS",2026-11-02,2026-11-02
 %perineum,Perineal wound breakdown or infection,%,Exams,Use for postpartum perineal laceration or episiotomy wound breakdown or infection.,"#Perineal wound _breakdown / infection
 Likely perineal wound infection or breakdown given _pain, redness, swelling, 1 wk after repair / separated wound edges, pain, discharge / fever, purulent discharge, perineal pain.
 PPD _, laceration _ degree, repair _. Temp _, HR _, BP _. Wound: edges _, erythema _, induration _, discharge _, necrotic tissue _. Rectal exam _.
@@ -9087,6 +9305,87 @@ If delivery planned <34w0d, or 34w0d-36w6d within 7 days, and no prior course:
 
 - START betamethasone 12 mg IM q24h x 2 doses
 - Not at 34w0d or later if pregestational diabetes",2026-11-01,2026-11-01
+%trauma,Trauma in pregnancy,%,Exams,"Use for the A&P of a pregnant patient after trauma, with monitoring, Kleihauer-Betke, Rh, and discharge criteria.","#Trauma in pregnancy at _w_d
+Likely _minor trauma given no abdominal impact, pain, or bleeding / blunt abdominal trauma given impact, tenderness / minor fall, reassuring fetal status.
+Mechanism _. Vitals _. Uterine tenderness _. Bleeding _. FHT _. Contractions _ per hr. Rh _.
+
+DDx:
+>Minor trauma w/o obstetric injury; most likely given _, reassuring monitoring
+>Placental abruption; considered but unlikely given _, continuous monitoring
+>Preterm labor or ROM; considered but unlikely given _, SSE and SVE if indicated
+>Fetomaternal hemorrhage; considered but unlikely given _, Kleihauer-Betke
+
+- Monitoring if more than 20 wk: _4 hr minimum (AAFP) / 6 hr minimum (EAST)
+- Previable: intermittent Doppler FHT; viable: continuous fetal monitoring plus toco
+- Labs: CBC, type and screen, coags _
+- Kleihauer-Betke: _after major trauma regardless of Rh (AAFP) / if Rh negative (AAFP algorithm) / all patients over 12 wk (EAST)
+- US for fetal status _; a normal US does not exclude abruption
+- Rh negative: Rh immune globulin 300 mcg IM within 72 hr unless injury remote from uterus
+- Extra Rh immune globulin per Kleihauer-Betke: 300 mcg per 30 mL fetomaternal hemorrhage
+- Tetanus: Tdap if not yet given this pregnancy _
+- Screen privately for intimate partner violence; depression and suicide risk if positive
+- Seat belt counseling: lap belt low under belly, shoulder belt between breasts; keep airbags on
+- OBHWS aware _
+- Handout given
+
+If contractions, bleeding, tenderness, ROM, or abnormal FHT:
+
+- Extend monitoring to 24 hr: _6 or more contractions/hr in first 4 hr (AAFP text) / 3-7 contractions/hr (AAFP table)
+- Also 24 hr for nonreassuring FHT, vaginal bleeding, significant uterine tenderness, serious maternal injury, or positive Kleihauer-Betke
+- 24-34 wk and delivery appears imminent: START betamethasone 12 mg IM q24h x 2 doses
+
+Discharge home if all:
+
+- Contractions resolved, reassuring tracing, intact membranes, no bleeding, no uterine tenderness
+- Return for bleeding, fluid, contractions, abdominal pain, or decreased fetal movement
+
+If major trauma:
+
+- Trauma team; airway, breathing, circulation first, then fetal assessment
+- Left uterine displacement if over 20 wk: manual, or tilt whole body 25-30 degrees
+- Two large-bore IVs; continuous FHT if viable
+- Indicated imaging, including CT; fetal dose under 50 mGy not linked to anomalies or loss
+- If arrest and over 20 wk: perimortem cesarean if no ROSC within 4-5 min","#Trauma in pregnancy at ***w***d
+Likely ***minor trauma given no abdominal impact, pain, or bleeding / blunt abdominal trauma given impact, tenderness / minor fall, reassuring fetal status.
+Mechanism ***. Vitals ***. Uterine tenderness ***. Bleeding ***. FHT ***. Contractions *** per hr. Rh ***.
+
+DDx:
+>Minor trauma w/o obstetric injury; most likely given ***, reassuring monitoring
+>Placental abruption; considered but unlikely given ***, continuous monitoring
+>Preterm labor or ROM; considered but unlikely given ***, SSE and SVE if indicated
+>Fetomaternal hemorrhage; considered but unlikely given ***, Kleihauer-Betke
+
+- Monitoring if more than 20 wk: ***4 hr minimum (AAFP) / 6 hr minimum (EAST)
+- Previable: intermittent Doppler FHT; viable: continuous fetal monitoring plus toco
+- Labs: CBC, type and screen, coags ***
+- Kleihauer-Betke: ***after major trauma regardless of Rh (AAFP) / if Rh negative (AAFP algorithm) / all patients over 12 wk (EAST)
+- US for fetal status ***; a normal US does not exclude abruption
+- Rh negative: Rh immune globulin 300 mcg IM within 72 hr unless injury remote from uterus
+- Extra Rh immune globulin per Kleihauer-Betke: 300 mcg per 30 mL fetomaternal hemorrhage
+- Tetanus: Tdap if not yet given this pregnancy ***
+- Screen privately for intimate partner violence; depression and suicide risk if positive
+- Seat belt counseling: lap belt low under belly, shoulder belt between breasts; keep airbags on
+- OBHWS aware ***
+- Handout given
+
+If contractions, bleeding, tenderness, ROM, or abnormal FHT:
+
+- Extend monitoring to 24 hr: ***6 or more contractions/hr in first 4 hr (AAFP text) / 3-7 contractions/hr (AAFP table)
+- Also 24 hr for nonreassuring FHT, vaginal bleeding, significant uterine tenderness, serious maternal injury, or positive Kleihauer-Betke
+- 24-34 wk and delivery appears imminent: START betamethasone 12 mg IM q24h x 2 doses
+
+Discharge home if all:
+
+- Contractions resolved, reassuring tracing, intact membranes, no bleeding, no uterine tenderness
+- Return for bleeding, fluid, contractions, abdominal pain, or decreased fetal movement
+
+If major trauma:
+
+- Trauma team; airway, breathing, circulation first, then fetal assessment
+- Left uterine displacement if over 20 wk: manual, or tilt whole body 25-30 degrees
+- Two large-bore IVs; continuous FHT if viable
+- Indicated imaging, including CT; fetal dose under 50 mGy not linked to anomalies or loss
+- If arrest and over 20 wk: perimortem cesarean if no ROSC within 4-5 min",2026-11-02,2026-11-02
 %pnc05,"Prenatal checklist, 5 weeks",%,Prenatal checklists by week,"Use at the 5-week prenatal visit to track what is due, next and already done.","Prenatal checklist, 5 weeks
 
 Due today:
@@ -11027,7 +11326,7 @@ BP _, no severe features.
 
 - CBC, CMP, LDH, urine protein to creatinine ratio
 - BP q15 min, treat if 160/110 or more persisting 15 min
-- Senior consult with OBHG if severe features
+- Senior consult with OBHWS if severe features
 
 #Intrahepatic cholestasis of pregnancy
 
@@ -11096,7 +11395,7 @@ BP ***, no severe features.
 
 - CBC, CMP, LDH, urine protein to creatinine ratio
 - BP q15 min, treat if 160/110 or more persisting 15 min
-- Senior consult with OBHG if severe features
+- Senior consult with OBHWS if severe features
 
 #Intrahepatic cholestasis of pregnancy
 
@@ -11119,7 +11418,7 @@ DDx:
 - Renal US if no improvement by 72 hr
 - START PO abx per susceptibilities when afebrile and improving, 14 days total
 - Urine cx after the 14-day course
-- START suppression: nitrofurantoin 100 mg PO qHS or cephalexin 250-500 mg PO qHS",2026-11-01,2026-11-01
+- START suppression: nitrofurantoin 100 mg PO qHS or cephalexin 250-500 mg PO qHS",2026-11-02,2026-11-02
 %appp,Postpartum problem menu,%,Other OB,Use on postpartum A&P; keep the blocks that apply and delete the rest.,"#S/p _ at _w_d, PPD _
 
 - Routine postpartum care
@@ -11475,7 +11774,7 @@ Bleeding _, pain _, contractions _. Placental location _. Most likely _ given _.
 
 - CBC, type and screen, fibrinogen, PT and PTT, Kleihauer-Betke if Rh negative
 - 2 large-bore IVs, continuous maternal and fetal monitoring
-- Notify attending, involve OBHG
+- Notify attending, involve OBHWS
 - Bedside US for placenta and presentation, no digital exam until previa excluded
 - Speculum exam for source
 - UA with culture, GC and chlamydia, vaginal profile, GBS culture
@@ -11486,13 +11785,13 @@ Bleeding _, pain _, contractions _. Placental location _. Most likely _ given _.
 - Under 32 weeks and delivery imminent: magnesium sulfate for neuroprotection
 - Magnesium regimen _ local: 4 g IV over 15-30 min then 1 g/h, or 6 g IV load then 2 g/h
 - No tocolysis if abruption suspected
-- 34 weeks or later: discuss delivery timing with senior, attending and OBHG","#Antepartum bleeding at ***w***d
+- 34 weeks or later: discuss delivery timing with senior, attending and OBHWS","#Antepartum bleeding at ***w***d
 
 Bleeding ***, pain ***, contractions ***. Placental location ***. Most likely *** given ***. *** considered but unlikely given ***, will ***. Abruption, previa, vasa previa, infection, trauma and labor considered.
 
 - CBC, type and screen, fibrinogen, PT and PTT, Kleihauer-Betke if Rh negative
 - 2 large-bore IVs, continuous maternal and fetal monitoring
-- Notify attending, involve OBHG
+- Notify attending, involve OBHWS
 - Bedside US for placenta and presentation, no digital exam until previa excluded
 - Speculum exam for source
 - UA with culture, GC and chlamydia, vaginal profile, GBS culture
@@ -11503,7 +11802,7 @@ Bleeding ***, pain ***, contractions ***. Placental location ***. Most likely **
 - Under 32 weeks and delivery imminent: magnesium sulfate for neuroprotection
 - Magnesium regimen *** local: 4 g IV over 15-30 min then 1 g/h, or 6 g IV load then 2 g/h
 - No tocolysis if abruption suspected
-- 34 weeks or later: discuss delivery timing with senior, attending and OBHG",2026-11-01,2026-11-01
+- 34 weeks or later: discuss delivery timing with senior, attending and OBHWS",2026-11-02,2026-11-02
 %ptl,Rule out preterm labor,%,Other OB,Use in OB triage for preterm contractions.,"#Rule out preterm labor at _w_d
 
 Contractions every _ min. Leakage of fluid _, bleeding _, discharge _, intercourse in 24 h _. FHT category _I / II / III, baseline _. Prior preterm birth _, prior cesarean _, steroids this pregnancy _.
@@ -11517,7 +11816,7 @@ Contractions every _ min. Leakage of fluid _, bleeding _, discharge _, intercour
 
 Preterm labor diagnosed, cervical change, 2 cm or more, or positive fFN with short cervix:
 
-- Consult OBHG, admit
+- Consult OBHWS, admit
 - Betamethasone 12 mg IM q24h x2 doses if 24w0d-33w6d
 - START betamethasone 12 mg IM q24h x 2 doses if 34w0d-36w6d, singleton, delivery risk within 7 days, no prior course
 - No late preterm betamethasone with pregestational diabetes or chorioamnionitis, and no tocolysis to complete it
@@ -11547,7 +11846,7 @@ Contractions every *** min. Leakage of fluid ***, bleeding ***, discharge ***, i
 
 Preterm labor diagnosed, cervical change, 2 cm or more, or positive fFN with short cervix:
 
-- Consult OBHG, admit
+- Consult OBHWS, admit
 - Betamethasone 12 mg IM q24h x2 doses if 24w0d-33w6d
 - START betamethasone 12 mg IM q24h x 2 doses if 34w0d-36w6d, singleton, delivery risk within 7 days, no prior course
 - No late preterm betamethasone with pregestational diabetes or chorioamnionitis, and no tocolysis to complete it
@@ -11564,7 +11863,7 @@ Preterm labor diagnosed, cervical change, 2 cm or more, or positive fFN with sho
 Preterm labor ruled out, negative fFN or cervical length over 30 mm and no cervical change:
 
 - Discharge with preterm labor precautions
-- OB follow-up in 1 week",2026-11-01,2026-11-01
+- OB follow-up in 1 week",2026-11-02,2026-11-02
 %rol,Term rule out labor,%,Other OB,Use in OB triage for term patients with contractions.,"#Rule out labor at _w_d
 
 SVE on arrival _ at _. FHT category _I / II / III. Bedside US _ presentation. Prior cesarean _.
@@ -12188,14 +12487,14 @@ Reviewed risks including incomplete passage needing a repeat dose or uterine asp
 
 - Mifepristone 200 mg PO once, if available, then misoprostol 24 hours later _
 - Misoprostol 800 mcg vaginally once, 4 tablets placed together, first dose on _
-- Repeat misoprostol 800 mcg vaginally if no bleeding or passage of tissue after 3 hours, up to 7 days after the first dose
-- Ibuprofen 800 mg PO 1 hour before misoprostol, then q8h PRN cramping, and acetaminophen 1000 mg PO q8h PRN, max 3 g/day
+- Repeat misoprostol 800 mcg vaginally if no response to the first dose, no sooner than 3 hours and usually within 7 days
+- Ibuprofen 400 mg PO 1 hour before misoprostol, then q4-6h PRN cramping, and acetaminophen 1000 mg PO q8h PRN, max 3 g/day
 - Ondansetron 4 mg PO q8h PRN nausea _
-- Rh immune globulin if Rh negative and 12 weeks or more, consider under 12 weeks _
+- Rh immune globulin if Rh negative and 12 weeks or more; under 12 weeks not routine, shared decision _
 - Follow-up ultrasound or hCG in 7-14 days _
 - Backup for uterine aspiration: Dr. _
 
-Go to the ER for soaking 2 or more pads an hour for 2 hours in a row, fever, pain not controlled by medicine, foul-smelling discharge, or dizziness or fainting.
+Go to the ER for soaking more than 2 maxi pads an hour for 2 hours in a row, fever, pain not controlled by medicine, foul-smelling discharge, or dizziness or fainting.
 
 Questions answered.","#Early pregnancy loss, *** weeks by ***
 
@@ -12205,16 +12504,16 @@ Reviewed risks including incomplete passage needing a repeat dose or uterine asp
 
 - Mifepristone 200 mg PO once, if available, then misoprostol 24 hours later ***
 - Misoprostol 800 mcg vaginally once, 4 tablets placed together, first dose on ***
-- Repeat misoprostol 800 mcg vaginally if no bleeding or passage of tissue after 3 hours, up to 7 days after the first dose
-- Ibuprofen 800 mg PO 1 hour before misoprostol, then q8h PRN cramping, and acetaminophen 1000 mg PO q8h PRN, max 3 g/day
+- Repeat misoprostol 800 mcg vaginally if no response to the first dose, no sooner than 3 hours and usually within 7 days
+- Ibuprofen 400 mg PO 1 hour before misoprostol, then q4-6h PRN cramping, and acetaminophen 1000 mg PO q8h PRN, max 3 g/day
 - Ondansetron 4 mg PO q8h PRN nausea ***
-- Rh immune globulin if Rh negative and 12 weeks or more, consider under 12 weeks ***
+- Rh immune globulin if Rh negative and 12 weeks or more; under 12 weeks not routine, shared decision ***
 - Follow-up ultrasound or hCG in 7-14 days ***
 - Backup for uterine aspiration: Dr. ***
 
-Go to the ER for soaking 2 or more pads an hour for 2 hours in a row, fever, pain not controlled by medicine, foul-smelling discharge, or dizziness or fainting.
+Go to the ER for soaking more than 2 maxi pads an hour for 2 hours in a row, fever, pain not controlled by medicine, foul-smelling discharge, or dizziness or fainting.
 
-Questions answered.",2026-10-30,2026-10-30
+Questions answered.",2026-11-02,2026-11-02
 &hp,Admission H&P,&,Notes,Use for every adult inpatient admission. Paste an `&h` HPI and `#` problem blocks into it.,"Admission H&P
 
 Date of admission: [ 1_sjhs_admission_date_gv ]
@@ -17596,6 +17895,55 @@ Meal changes needed ***at school / in child care / at work / ***:
 - Duration: ***this school year / {months/ongoing}
 
 Please contact our office at *** local with questions.",2026-11-01,2026-11-01
+$ustendon,POCUS tendon exam,$,Visit notes,Use to document a point-of-care ultrasound of a painful tendon in clinic.,"Point-of-care ultrasound, tendon, _right / left / bilateral
+Indication: _
+Performed and interpreted by: _
+Transducer: _high-frequency linear / _
+Arm structure: _supraspinatus / long head of biceps / common extensor origin / common flexor origin / distal biceps / first dorsal compartment _
+Leg structure: _gluteus medius and minimus / patellar tendon / Achilles midportion / Achilles insertion / posterior tibial / peroneal _
+Views: _long and short axis / long axis only _
+Contralateral comparison: _done / not done
+
+Findings:
+
+- Thickness: _normal and symmetric / _ mm vs _ mm contralateral
+- Echotexture: _normal fibrillar pattern / focal hypoechoic area _ / diffuse hypoechoic, fibrillar pattern lost
+- Anisotropy: _excluded by angling probe perpendicular to fibers / _
+- Doppler: _no flow in tendon / neovascularity in tendon _ / not done
+- Tear: _none / partial-thickness, hypoechoic or anechoic cleft _ mm / full-thickness, gap _ mm, retraction _
+- Dynamic: _fibers move together, no gap / gap widens w/ motion / not done
+- Tendon sheath: _no fluid or thickening / sheath fluid / sheath thickening, Doppler flow _
+- Bursa: _no distension / bursal fluid _
+- Calcification: _none / intratendinous calcification _ / enthesophyte at insertion _
+- Enthesis cortex: _smooth / irregular _
+- Probe tenderness: _none / maximal at _
+
+Impression: _no sonographic tendinopathy / tendinopathy, thickened and hypoechoic / tendinopathy w/ neovascularity / partial-thickness tear / full-thickness tear / tenosynovitis / bursitis _
+Images saved: _yes / _","Point-of-care ultrasound, tendon, {right/left/bilateral}
+Indication: ***
+Performed and interpreted by: ***
+Transducer: ***high-frequency linear / ***
+Arm structure: {supraspinatus/long head of biceps/common extensor origin/common flexor origin/distal biceps/first dorsal compartment} ***
+Leg structure: {gluteus medius and minimus/patellar tendon/Achilles midportion/Achilles insertion/posterior tibial/peroneal} ***
+Views: {long and short axis/long axis only} ***
+Contralateral comparison: {done/not done}
+
+Findings:
+
+- Thickness: ***normal and symmetric / *** mm vs *** mm contralateral
+- Echotexture: {normal fibrillar pattern/focal hypoechoic area} *** / diffuse hypoechoic, fibrillar pattern lost
+- Anisotropy: ***excluded by angling probe perpendicular to fibers / ***
+- Doppler: {no flow in tendon/neovascularity in tendon} *** / not done
+- Tear: {none/partial-thickness}, hypoechoic or anechoic cleft {mm/full-thickness}, gap *** mm, retraction ***
+- Dynamic: ***fibers move together, no gap / gap widens w/ motion / not done
+- Tendon sheath: {no fluid or thickening/sheath fluid/sheath thickening}, Doppler flow ***
+- Bursa: {no distension/bursal fluid} ***
+- Calcification: {none/intratendinous calcification} *** / enthesophyte at insertion ***
+- Enthesis cortex: {smooth/irregular} ***
+- Probe tenderness: {none/maximal} at ***
+
+Impression: {no sonographic tendinopathy/tendinopathy}, thickened and hypoechoic / tendinopathy w/ neovascularity / partial-thickness tear / full-thickness tear / tenosynovitis / bursitis ***
+Images saved: ***yes / ***",2026-11-02,2026-11-02
 $wcc3d,"Well child, 3 to 5 days",$,Well child visits,Use for the first newborn visit at 3 to 5 days.,"Well child visit, 3 to 5 days
 
 _ day old _w_d _ here with _ for newborn visit. Concerns: _.
@@ -37806,6 +38154,86 @@ $hpreg,Positive pregnancy test HPI,$,HPIs: clinic,Use for a new positive pregnan
 $hconstk,Pediatric constipation HPI,$,HPIs: clinic,Use for constipation in an infant or child.,"_F here for constipation x _, onset age _, history from _. Stools _ per wk, Bristol type _, large or toilet-clogging stools _. Withholding or retentive posturing _. Soiling or accidents _ per wk. Pain with BMs _, abdominal pain _, blood on stool or paper _. Meconium passed within 48 hr of birth _. Toilet trained _, at age _. Diet _, milk _ oz/day, water and juice _. Prior cleanouts _, current meds and doses _. Denies vomiting, poor weight gain, abdominal distension, leg weakness, or new urinary symptoms _.","***F here for constipation x ***, onset age ***, history from ***. Stools *** per wk, Bristol type ***, large or toilet-clogging stools ***. Withholding or retentive posturing ***. Soiling or accidents *** per wk. Pain with BMs ***, abdominal pain ***, blood on stool or paper ***. Meconium passed within 48 hr of birth ***. Toilet trained ***, at age ***. Diet ***, milk *** oz/day, water and juice ***. Prior cleanouts ***, current meds and doses ***. Denies vomiting, poor weight gain, abdominal distension, leg weakness, or new urinary symptoms ***.",2026-10-31,2026-10-31
 $hpostmi,Post-MI follow-up HPI,$,HPIs: clinic,Use for the HPI at a clinic follow-up visit after an MI or ACS.,"_M here for post-MI follow-up. _STEMI / NSTEMI on _ at _, treated with _PCI, _ stent(s) to _ / CABG / medical therapy. LVEF _% on _. Since d/c, chest pain _, nitroglycerin use _, dyspnea _, orthopnea or edema _, palpitations _, syncope _. Bleeding, bruising, or dark stools _. Taking aspirin, _ (P2Y12 inhibitor), statin, _, missed doses _, side effects _. Cardiac rehab _. Activity _, return to work _, driving _, sexual activity _. Tobacco _. Mood _, PHQ-2 _. Cardiology f/u _.","***M here for post-MI follow-up. {STEMI/NSTEMI} on *** at ***, treated with ***PCI, *** stent(s) to *** / CABG / medical therapy. LVEF ***% on ***. Since d/c, chest pain ***, nitroglycerin use ***, dyspnea ***, orthopnea or edema ***, palpitations ***, syncope ***. Bleeding, bruising, or dark stools ***. Taking aspirin, *** (P2Y12 inhibitor), statin, ***, missed doses ***, side effects ***. Cardiac rehab ***. Activity ***, return to work ***, driving ***, sexual activity ***. Tobacco ***. Mood ***, PHQ-2 ***. Cardiology f/u ***.",2026-10-31,2026-10-31
 $hbehavek,Child behavior concern HPI,$,HPIs: clinic,"Use for a child or teen brought in for tantrums, aggression, defiance, or other behavior concerns.","_ yo here with _ for behavior concerns x _, onset age _. Main behaviors _tantrums / hitting, biting, or kicking / defiance and arguing / lying or stealing / school behavior problems / breaking things. Frequency _ per _day / wk, lasting _ min. Settings _home only / school or daycare only / home and school / home, school, and with peers. Triggers _limits or being told no / transitions / hunger or tiredness / sibling conflict / screen time ending / unclear. Strategies tried _, response _. Discipline used at home _time-out / loss of privileges / rewards / yelling / physical discipline / mixed. Caregivers consistent with each other _yes / no. Sleep _ hr, snoring _yes / no. Screen time _ hr/day, screens in bedroom _yes / no. Diet _, caffeine or energy drinks _yes / no. Development and language _on track / speech delay / other delay. Hearing and vision concerns _. Lead level _. School grade _, grades _, suspensions _, IEP or 504 _none / in place / requested. Family stressors _none / move / separation or divorce / new sibling / death or loss / money or housing. ACEs and trauma history _. Family history of ADHD, mood, anxiety, or learning problems _. Caregiver mood and stress _. Harm to self _denied / reported. Harm to others or animals _denied / reported. Firearms in home _no / yes, locked and unloaded / yes, not locked.","*** yo here with *** for behavior concerns x ***, onset age ***. Main behaviors {tantrums/hitting}, biting, or kicking / defiance and arguing / lying or stealing / school behavior problems / breaking things. Frequency *** per {day/wk}, lasting *** min. Settings {home only/school or daycare only/home and school/home}, school, and with peers. Triggers {limits or being told no/transitions/hunger or tiredness/sibling conflict/screen time ending/unclear}. Strategies tried ***, response ***. Discipline used at home {time-out/loss of privileges/rewards/yelling/physical discipline/mixed}. Caregivers consistent with each other {yes/no}. Sleep *** hr, snoring {yes/no}. Screen time *** hr/day, screens in bedroom {yes/no}. Diet ***, caffeine or energy drinks {yes/no}. Development and language {on track/speech delay/other delay}. Hearing and vision concerns ***. Lead level ***. School grade ***, grades ***, suspensions ***, IEP or 504 {none/in place/requested}. Family stressors {none/move/separation or divorce/new sibling/death or loss/money or housing}. ACEs and trauma history ***. Family history of ADHD, mood, anxiety, or learning problems ***. Caregiver mood and stress ***. Harm to self {denied/reported}. Harm to others or animals {denied/reported}. Firearms in home {no/yes}, locked and unloaded / yes, not locked.",2026-10-31,2026-10-31
+$htendonue,Upper extremity tendon pain HPI,$,HPIs: clinic,"Use for suspected tendinopathy at the shoulder, elbow, or wrist, with drop-downs for site, pattern, and red flags.","_F here for _ arm pain x _ wk, dominant hand _.
+
+- Site: _lateral shoulder / anterior shoulder, bicipital groove / lateral elbow / medial elbow / anterior elbow / radial wrist, thumb side _
+- Onset: _gradual, no injury / after new or increased activity / after a single strain or lift _
+- Activity change: _new job task or tool / more reps or hours / new sport or more training / none identified _
+- Work and sport: _
+- Pain pattern: _only w/ use, eases w/ rest / at start of activity, eases, then worse after / constant, now w/ daily tasks
+- Worse with: _overhead reaching / gripping, wrist extension / wrist flexion, pronation / elbow flexion, supination / thumb and wrist motion _
+- Night pain: _none / wakes from sleep / cannot lie on that side
+- Weakness: _none / weak from pain / true weakness, cannot lift arm or hold objects _
+- Stiffness: _none / morning stiffness _ min / loss of motion _
+- Neck pain or radiating arm pain: _none / yes, _
+- Numbness or tingling: _none / _
+- Sudden pop, bruising, or change in muscle shape: _none / yes, _
+- Swelling, redness, warmth, or fever: _none / yes, _
+- Fluoroquinolone use: _none recent / yes, _
+- Corticosteroids: _none / prior injection at this site x _, last _ / systemic steroids _
+- Risk factors: _none / diabetes / hyperlipidemia / thyroid or other endocrine disorder / inflammatory arthritis, psoriasis, or gout _
+- Prior episodes: _
+- Tried: _relative rest / ice / NSAID / brace or strap / home exercise or PT / injection _ with _ relief
+- Goal: _","***F here for *** arm pain x *** wk, dominant hand ***.
+
+- Site: {lateral shoulder/anterior shoulder}, bicipital groove / lateral elbow / medial elbow / anterior elbow / radial wrist, thumb side ***
+- Onset: ***gradual, no injury / after new or increased activity / after a single strain or lift ***
+- Activity change: {new job task or tool/more reps or hours/new sport or more training/none identified} ***
+- Work and sport: ***
+- Pain pattern: ***only w/ use, eases w/ rest / at start of activity, eases, then worse after / constant, now w/ daily tasks
+- Worse with: {overhead reaching/gripping}, wrist extension / wrist flexion, pronation / elbow flexion, supination / thumb and wrist motion ***
+- Night pain: {none/wakes from sleep/cannot lie} on that side
+- Weakness: {none/weak from pain/true weakness}, cannot lift arm or hold objects ***
+- Stiffness: {none/morning stiffness} {min/loss} of motion ***
+- Neck pain or radiating arm pain: {none/yes}, ***
+- Numbness or tingling: ***none / ***
+- Sudden pop, bruising, or change in muscle shape: {none/yes}, ***
+- Swelling, redness, warmth, or fever: {none/yes}, ***
+- Fluoroquinolone use: {none recent/yes}, ***
+- Corticosteroids: {none/prior} injection at this site x ***, last *** / systemic steroids ***
+- Risk factors: {none/diabetes/hyperlipidemia/thyroid or other endocrine disorder/inflammatory arthritis}, psoriasis, or gout ***
+- Prior episodes: ***
+- Tried: {relative rest/ice/NSAID/brace or strap/home exercise or PT/injection} *** with *** relief
+- Goal: ***",2026-11-02,2026-11-02
+$htendonle,Lower extremity tendon pain HPI,$,HPIs: clinic,"Use for suspected tendinopathy at the hip, knee, ankle, or heel, with drop-downs for site, training load, and red flags.","_F here for _ leg pain x _ wk.
+
+- Site: _lateral hip / below kneecap / Achilles, 2-6 cm above heel / Achilles insertion / behind medial malleolus / behind lateral malleolus _
+- Onset: _gradual, no injury / after new or increased activity / after twisting the foot or stepping off a curb _
+- Training change: _more miles or time / hills, speed, or jumping / new surface / new shoes / none identified _
+- Activity, weekly volume, and footwear: _
+- Pain pattern: _at start and end of activity / throughout activity / now w/ daily walking or stairs
+- First steps in AM or after sitting: _no pain or stiffness / stiff and painful x _ min
+- Worse with: _side-lying, sitting w/ legs crossed / jumping, squatting / running, push-off / standing, walking _
+- Arch or ankle changes: _none / arch flattening on that side / ankle feels unstable or pops _
+- Sudden pop at back of heel, cannot push off: _no / yes, _
+- Back pain or pain radiating below the knee: _none / yes, _
+- Numbness or tingling: _none / _
+- Swelling, redness, warmth, or fever: _none / yes, _
+- Fluoroquinolone use: _none recent / yes, _
+- Corticosteroids: _none / prior injection at this site x _, last _ / systemic steroids _
+- Risk factors: _none / diabetes / hyperlipidemia / obesity / thyroid or other endocrine disorder / inflammatory arthritis, psoriasis, or gout _
+- Prior episodes: _
+- Tried: _relative rest / ice / NSAID / heel lift, insert, or strap / home exercise or PT / injection _ with _ relief
+- Goal: _","***F here for *** leg pain x *** wk.
+
+- Site: {lateral hip/below kneecap/Achilles}, 2-6 cm above heel / Achilles insertion / behind medial malleolus / behind lateral malleolus ***
+- Onset: ***gradual, no injury / after new or increased activity / after twisting the foot or stepping off a curb ***
+- Training change: {more miles or time/hills}, speed, or jumping / new surface / new shoes / none identified ***
+- Activity, weekly volume, and footwear: ***
+- Pain pattern: ***at start and end of activity / throughout activity / now w/ daily walking or stairs
+- First steps in AM or after sitting: {no pain or stiffness/stiff and painful} x *** min
+- Worse with: ***side-lying, sitting w/ legs crossed / jumping, squatting / running, push-off / standing, walking ***
+- Arch or ankle changes: {none/arch flattening on that side/ankle feels unstable or pops} ***
+- Sudden pop at back of heel, cannot push off: {no/yes}, ***
+- Back pain or pain radiating below the knee: {none/yes}, ***
+- Numbness or tingling: ***none / ***
+- Swelling, redness, warmth, or fever: {none/yes}, ***
+- Fluoroquinolone use: {none recent/yes}, ***
+- Corticosteroids: {none/prior} injection at this site x ***, last *** / systemic steroids ***
+- Risk factors: {none/diabetes/hyperlipidemia/obesity/thyroid or other endocrine disorder/inflammatory arthritis}, psoriasis, or gout ***
+- Prior episodes: ***
+- Tried: {relative rest/ice/NSAID/heel lift}, insert, or strap / home exercise or PT / injection *** with *** relief
+- Goal: ***",2026-11-02,2026-11-02
 $omtpiri,Piriformis counterstrain,$,Osteopathic manipulation,Use inside an OMT procedure note to document piriformis counterstrain.,"Counterstrain, piriformis, _left / right / bilateral
 
 - Tender point midway between the greater trochanter and the lateral sacral border, rated 10/10
@@ -48952,6 +49380,7 @@ If thigh or hip after high-energy shearing trauma:
 #tendinopathy,Tendinopathy,#,Problem blocks: clinic and chronic,"Use for overuse tendinopathy at the elbow, wrist, knee, heel, hip, or biceps.","#Tendinopathy, _lateral elbow / medial elbow / de Quervain / patellar / Achilles / gluteal / biceps / _
 Likely tendinopathy given _insidious onset after increased activity / focal tendon tenderness / pain w/ resisted tendon loading.
 _ side, duration _ wk, tender at _, pain w/ resisted _, strength _, recent fluoroquinolone _.
+POCUS: _not done / normal tendon / thickened, hypoechoic tendon / neovascularity on Doppler / partial-thickness tear / full-thickness tear _
 
 DDx:
 >Tendinopathy; most likely given _, _
@@ -48968,6 +49397,7 @@ DDx:
 - Fluoroquinolone tendon risk higher if >60, on corticosteroids, or transplant recipient
 - Statins: no established link to tendon rupture _
 - Imaging only if not improving at _ wk or red flags: x-ray first, then ultrasound or MRI
+- POCUS in clinic if dx unclear or tear suspected
 - Full resolution may take >6 mo
 - Sports medicine or orthopedic referral if little improvement after 3 to 6 mo
 - F/u in _ wk
@@ -49032,6 +49462,7 @@ If biceps:
 - Popeye deformity suggests complete rupture, orthopedic referral","#Tendinopathy, ***lateral elbow / medial elbow / de Quervain / patellar / Achilles / gluteal / biceps / ***
 Likely tendinopathy given ***insidious onset after increased activity / focal tendon tenderness / pain w/ resisted tendon loading.
 *** side, duration *** wk, tender at ***, pain w/ resisted ***, strength ***, recent fluoroquinolone ***.
+POCUS: {not done/normal tendon/thickened}, hypoechoic tendon / neovascularity on Doppler / partial-thickness tear / full-thickness tear ***
 
 DDx:
 >Tendinopathy; most likely given ***, ***
@@ -49048,6 +49479,7 @@ DDx:
 - Fluoroquinolone tendon risk higher if >60, on corticosteroids, or transplant recipient
 - Statins: no established link to tendon rupture ***
 - Imaging only if not improving at *** wk or red flags: x-ray first, then ultrasound or MRI
+- POCUS in clinic if dx unclear or tear suspected
 - Full resolution may take >6 mo
 - Sports medicine or orthopedic referral if little improvement after 3 to 6 mo
 - F/u in *** wk
@@ -49109,7 +49541,7 @@ If biceps:
 
 - Rest from painful activity, ice, PT stretching and strengthening ***
 - Corticosteroid injection may relieve pain ***
-- Popeye deformity suggests complete rupture, orthopedic referral",2026-10-31,2026-10-31
+- Popeye deformity suggests complete rupture, orthopedic referral",2026-11-02,2026-11-02
 #libidom,Low libido in men,#,Problem blocks: clinic and chronic,Use for the A&P of low sexual desire in men.,"#Low libido
 Likely _testosterone deficiency given low libido, ED, two low AM levels / depression given low mood, anhedonia, positive PHQ-9 / medication effect given SSRI, opioid, or finasteride start.
 Duration _, distress _, ED _. AM total testosterone _ and _ ng/dL, LH _, prolactin _, PHQ-9 _.
@@ -57123,6 +57555,103 @@ If aural polyp, attic or marginal perforation, or white mass behind TM:
 If vertigo, facial weakness, severe headache, or fever:
 
 - Emergent ENT and imaging for labyrinthitis, facial nerve palsy, or intracranial spread",2026-11-02,2026-11-02
+#miscarriage,Early pregnancy loss,#,Problem blocks: clinic and chronic,"Use for the A&P of a confirmed early pregnancy loss, with expectant, medical, and aspiration branches.","#Early pregnancy loss, _ wk
+Likely pregnancy loss given _CRL 7 mm or more, no FHR / mean sac 25 mm or more, no embryo / retained products on TVUS.
+Type _embryonic demise / anembryonic gestation / incomplete miscarriage / complete miscarriage. BP _, HR _, Hgb _, Rh _.
+
+- Options reviewed: expectant, medical, uterine aspiration
+- Patient chose _
+- Rh negative and 12 wk or more: Rh immune globulin 300 mcg IM within 72 hr
+- Rh negative and <12 wk: Rh immune globulin not routinely given; shared decision _
+- Bleeding precautions: soaking more than 2 pads an hour for 2 hr, fever, foul discharge, dizziness or fainting
+- Counseling or grief support offered _
+- Contraception may start right away if desired _
+- May try to conceive again right away; folic acid daily
+- Handout given
+
+If expectant management:
+
+- Completion by about 2 wk: 84% incomplete, 59% embryonic demise, 52% anembryonic
+- May switch to meds or aspiration at any time
+- START ibuprofen 400 mg PO q4-6h PRN cramping
+- F/u in _ wk to confirm completion, bleeding history plus TVUS or hCG
+
+If medical management:
+
+- START mifepristone 200 mg PO once, if available
+- START misoprostol 800 mcg vaginally 24 hr after mifepristone, or alone if mifepristone unavailable
+- Repeat misoprostol 800 mcg vaginally if no response, no sooner than 3 hr and usually within 7 days
+- Cramping and bleeding usually start 2-6 hr after misoprostol
+- START ibuprofen 400 mg PO 1 hr before misoprostol, then q4-6h PRN cramping
+- TVUS or serial hCG in 7-14 days to confirm completion
+
+If uterine aspiration:
+
+- Office manual uterine aspiration w/ paracervical block _, or referral to _
+- Inspect aspirated tissue for products of conception to confirm completion
+
+Confirm completion:
+
+- Tissue seen on exam or at aspiration, or
+- TVUS w/o the previously seen pregnancy, or
+- hCG fall of 50% or more at 2 days or 87% or more at 7 days
+- hCG to zero only if ectopic not excluded or molar pregnancy suspected
+
+If incomplete after medical or expectant management:
+
+- Offer repeat misoprostol or uterine aspiration _
+
+If heavy bleeding w/ falling Hgb, unstable vitals, or fever w/ uterine tenderness:
+
+- Urgent uterine aspiration, OB/GYN now; IV abx if infection suspected","#Early pregnancy loss, *** wk
+Likely pregnancy loss given ***CRL 7 mm or more, no FHR / mean sac 25 mm or more, no embryo / retained products on TVUS.
+Type {embryonic demise/anembryonic gestation/incomplete miscarriage/complete miscarriage}. BP ***, HR ***, Hgb ***, Rh ***.
+
+- Options reviewed: expectant, medical, uterine aspiration
+- Patient chose ***
+- Rh negative and 12 wk or more: Rh immune globulin 300 mcg IM within 72 hr
+- Rh negative and <12 wk: Rh immune globulin not routinely given; shared decision ***
+- Bleeding precautions: soaking more than 2 pads an hour for 2 hr, fever, foul discharge, dizziness or fainting
+- Counseling or grief support offered ***
+- Contraception may start right away if desired ***
+- May try to conceive again right away; folic acid daily
+- Handout given
+
+If expectant management:
+
+- Completion by about 2 wk: 84% incomplete, 59% embryonic demise, 52% anembryonic
+- May switch to meds or aspiration at any time
+- START ibuprofen 400 mg PO q4-6h PRN cramping
+- F/u in *** wk to confirm completion, bleeding history plus TVUS or hCG
+
+If medical management:
+
+- START mifepristone 200 mg PO once, if available
+- START misoprostol 800 mcg vaginally 24 hr after mifepristone, or alone if mifepristone unavailable
+- Repeat misoprostol 800 mcg vaginally if no response, no sooner than 3 hr and usually within 7 days
+- Cramping and bleeding usually start 2-6 hr after misoprostol
+- START ibuprofen 400 mg PO 1 hr before misoprostol, then q4-6h PRN cramping
+- TVUS or serial hCG in 7-14 days to confirm completion
+
+If uterine aspiration:
+
+- Office manual uterine aspiration w/ paracervical block ***, or referral to ***
+- Inspect aspirated tissue for products of conception to confirm completion
+
+Confirm completion:
+
+- Tissue seen on exam or at aspiration, or
+- TVUS w/o the previously seen pregnancy, or
+- hCG fall of 50% or more at 2 days or 87% or more at 7 days
+- hCG to zero only if ectopic not excluded or molar pregnancy suspected
+
+If incomplete after medical or expectant management:
+
+- Offer repeat misoprostol or uterine aspiration ***
+
+If heavy bleeding w/ falling Hgb, unstable vitals, or fever w/ uterine tenderness:
+
+- Urgent uterine aspiration, OB/GYN now; IV abx if infection suspected",2026-11-02,2026-11-02
 #wuhtn,New hypertension workup,#,Workups,Use for the initial workup of newly diagnosed hypertension.,"#Hypertension, new diagnosis
 Likely _primary / secondary hypertension given _obesity or family h/o HTN, no secondary features / onset <30 or abrupt rise, resistant BP / hypokalemia or snoring w/ daytime sleepiness.
 Office BP _ and _, home or ambulatory average _. Secondary cause features _.
@@ -59709,6 +60238,210 @@ If benign variant (premature thelarche or adrenarche):
 - Refer to peds endocrinology: puberty signs <6 yr in girls or <9 yr in boys, or rapid progression
 - Also refer: headaches, vision changes, seizures, NF1, prior CNS irradiation, or known neoplasm
 - F/u in *** mo",2026-11-01,2026-11-01
+#wuepl,Suspected early pregnancy loss workup,#,Workups,"Use for the workup of bleeding or suspected miscarriage before 13 weeks, from first visit to diagnosis.","#First-trimester bleeding
+Likely _threatened miscarriage given closed os, IUP w/ FHR / pregnancy loss given heavy bleeding, tissue passed / uncertain viability given sac, no FHR yet.
+Gestational age _ by _. BP _, HR _. Os _. hCG _. TVUS _. Hgb _. Rh _.
+
+DDx:
+>_; most likely given _, _
+>Early pregnancy loss; considered but unlikely given _, repeat TVUS if criteria not met
+>Ectopic pregnancy; considered but unlikely given _, serial hCG and TVUS until location known
+>Cervicitis, vaginitis, or cervical polyp; considered but unlikely given speculum exam _
+
+- Vitals, abdominal exam; emergent eval if unstable or peritoneal signs
+- Speculum exam: os, blood amount, tissue at os, cervical source
+- TVUS: gestational sac, yolk sac, embryo, CRL, cardiac activity, adnexa, free fluid
+- Quantitative hCG _
+- CBC for baseline Hgb
+- ABO and Rh if unknown
+- Progesterone if TVUS inconclusive: <6 ng/mL excludes a viable pregnancy, does not exclude ectopic _
+- Heavy bleeding precautions: soaking more than 2 pads an hour for 2 hr in a row
+- Handout given
+
+TVUS diagnostic of pregnancy loss:
+
+- CRL 7 mm or more, no cardiac activity
+- Mean sac diameter 25 mm or more, no embryo
+- No embryo w/ cardiac activity 2 wk or more after a sac without yolk sac
+- No embryo w/ cardiac activity 11 days or more after a sac w/ yolk sac
+
+TVUS suspicious, not diagnostic:
+
+- CRL <7 mm, no cardiac activity; mean sac diameter 16-24 mm, no embryo
+- No embryo 6 wk or more after LMP; empty amnion; yolk sac >7 mm
+- Mean sac diameter minus CRL <5 mm; embryonic heart rate 85 or less
+- No embryo w/ cardiac activity 7-13 days after a sac without yolk sac, or 7-10 days after a sac w/ yolk sac
+- Repeat TVUS in 7-10 days before diagnosing loss
+
+If IUP w/ cardiac activity, closed os:
+
+- Threatened miscarriage; expectant management, no bed rest
+- Repeat TVUS if bleeding continues _
+
+If products of conception seen at os or in vagina:
+
+- Incomplete miscarriage; expectant management completes over 90% within 4 wk, or offer meds or aspiration
+
+If no IUP and prior TVUS showed an IUP:
+
+- Likely complete miscarriage if bleeding history fits passage of tissue
+- Repeat hCG in 48 hr; a fall of 50% or more supports completion
+
+If no IUP and none seen before:
+
+- Pregnancy of unknown location; ectopic precautions, serial hCG q48h and TVUS until location known or hCG <5
+
+If pregnancy loss confirmed:
+
+- Discuss expectant, medical, and uterine aspiration options
+- Rh negative and 12 wk or more: Rh immune globulin 300 mcg IM within 72 hr
+- Rh negative and <12 wk: Rh immune globulin not routinely needed; consider by shared decision _
+
+If heavy bleeding w/ falling Hgb, unstable vitals, or fever w/ uterine tenderness:
+
+- Urgent uterine aspiration, OB/GYN now; IV abx if infection suspected","#First-trimester bleeding
+Likely ***threatened miscarriage given closed os, IUP w/ FHR / pregnancy loss given heavy bleeding, tissue passed / uncertain viability given sac, no FHR yet.
+Gestational age *** by ***. BP ***, HR ***. Os ***. hCG ***. TVUS ***. Hgb ***. Rh ***.
+
+DDx:
+>***; most likely given ***, ***
+>Early pregnancy loss; considered but unlikely given ***, repeat TVUS if criteria not met
+>Ectopic pregnancy; considered but unlikely given ***, serial hCG and TVUS until location known
+>Cervicitis, vaginitis, or cervical polyp; considered but unlikely given speculum exam ***
+
+- Vitals, abdominal exam; emergent eval if unstable or peritoneal signs
+- Speculum exam: os, blood amount, tissue at os, cervical source
+- TVUS: gestational sac, yolk sac, embryo, CRL, cardiac activity, adnexa, free fluid
+- Quantitative hCG ***
+- CBC for baseline Hgb
+- ABO and Rh if unknown
+- Progesterone if TVUS inconclusive: <6 ng/mL excludes a viable pregnancy, does not exclude ectopic ***
+- Heavy bleeding precautions: soaking more than 2 pads an hour for 2 hr in a row
+- Handout given
+
+TVUS diagnostic of pregnancy loss:
+
+- CRL 7 mm or more, no cardiac activity
+- Mean sac diameter 25 mm or more, no embryo
+- No embryo w/ cardiac activity 2 wk or more after a sac without yolk sac
+- No embryo w/ cardiac activity 11 days or more after a sac w/ yolk sac
+
+TVUS suspicious, not diagnostic:
+
+- CRL <7 mm, no cardiac activity; mean sac diameter 16-24 mm, no embryo
+- No embryo 6 wk or more after LMP; empty amnion; yolk sac >7 mm
+- Mean sac diameter minus CRL <5 mm; embryonic heart rate 85 or less
+- No embryo w/ cardiac activity 7-13 days after a sac without yolk sac, or 7-10 days after a sac w/ yolk sac
+- Repeat TVUS in 7-10 days before diagnosing loss
+
+If IUP w/ cardiac activity, closed os:
+
+- Threatened miscarriage; expectant management, no bed rest
+- Repeat TVUS if bleeding continues ***
+
+If products of conception seen at os or in vagina:
+
+- Incomplete miscarriage; expectant management completes over 90% within 4 wk, or offer meds or aspiration
+
+If no IUP and prior TVUS showed an IUP:
+
+- Likely complete miscarriage if bleeding history fits passage of tissue
+- Repeat hCG in 48 hr; a fall of 50% or more supports completion
+
+If no IUP and none seen before:
+
+- Pregnancy of unknown location; ectopic precautions, serial hCG q48h and TVUS until location known or hCG <5
+
+If pregnancy loss confirmed:
+
+- Discuss expectant, medical, and uterine aspiration options
+- Rh negative and 12 wk or more: Rh immune globulin 300 mcg IM within 72 hr
+- Rh negative and <12 wk: Rh immune globulin not routinely needed; consider by shared decision ***
+
+If heavy bleeding w/ falling Hgb, unstable vitals, or fever w/ uterine tenderness:
+
+- Urgent uterine aspiration, OB/GYN now; IV abx if infection suspected",2026-11-02,2026-11-02
+#wurpl,Recurrent pregnancy loss workup,#,Workups,Use for the workup after 2 or more pregnancy losses.,"#Recurrent pregnancy loss
+Likely recurrent pregnancy loss given _2 first-trimester losses / 3 or more losses / losses after a prior live birth.
+Losses _ at _ wk, confirmed by _. Tissue testing done _. Age _. BMI _.
+
+DDx:
+>Unexplained recurrent loss; most likely given _, _
+>Chromosome problem in pregnancy tissue or parental rearrangement; considered but unlikely given _, _
+>Uterine anomaly, polyp, or fibroid; considered but unlikely given _, cavity imaging
+>Antiphospholipid syndrome; considered but unlikely given _, antibody testing
+>Thyroid disease or diabetes; considered but unlikely given _, TSH and A1c
+
+- Counts: 2 or more losses, consecutive or not, including hCG-confirmed biochemical losses; ectopic and molar excluded
+- Chromosome analysis of miscarriage tissue when available, array-based preferred
+- Uterine cavity: saline sonohysterogram preferred, or HSG or hysteroscopy _
+- Antiphospholipid antibodies: lupus anticoagulant, anticardiolipin IgG and IgM, beta-2 glycoprotein I IgG and IgM
+- Repeat positive antiphospholipid tests in 12 wk; skip testing if all losses were aneuploid
+- TSH
+- A1c if overweight, family history of diabetes, age >40, PMOS, or prior gestational diabetes
+- Prolactin only if galactorrhea or anovulation
+- Not routine: inherited thrombophilia, thyroid antibodies, immune or NK cell tests, ovarian reserve
+- Lifestyle: stop smoking; alcohol 3 drinks/wk or fewer; caffeine under 100 mg/day
+- 50-80% have a live birth later w/o specific treatment
+- Psychological support offered; supportive care and early visits in next pregnancy _
+- REI or OB/GYN referral _
+
+If unbalanced chromosome rearrangement in tissue:
+
+- Parental karyotypes, then genetic counseling
+
+If antiphospholipid syndrome confirmed:
+
+- START aspirin 81 mg PO daily before conception, add prophylactic heparin once pregnant; MFM referral _
+
+If TSH above 4 or lab upper limit:
+
+- START levothyroxine before conception _
+- Do not treat thyroid antibodies alone or TSH under 4
+
+If bleeding in a future pregnancy:
+
+- Vaginal progesterone may be offered by shared decision _","#Recurrent pregnancy loss
+Likely recurrent pregnancy loss given {2 first-trimester losses/3 or more losses/losses after a prior} live birth.
+Losses *** at *** wk, confirmed by ***. Tissue testing done ***. Age ***. BMI ***.
+
+DDx:
+>Unexplained recurrent loss; most likely given ***, ***
+>Chromosome problem in pregnancy tissue or parental rearrangement; considered but unlikely given ***, ***
+>Uterine anomaly, polyp, or fibroid; considered but unlikely given ***, cavity imaging
+>Antiphospholipid syndrome; considered but unlikely given ***, antibody testing
+>Thyroid disease or diabetes; considered but unlikely given ***, TSH and A1c
+
+- Counts: 2 or more losses, consecutive or not, including hCG-confirmed biochemical losses; ectopic and molar excluded
+- Chromosome analysis of miscarriage tissue when available, array-based preferred
+- Uterine cavity: saline sonohysterogram preferred, or HSG or hysteroscopy ***
+- Antiphospholipid antibodies: lupus anticoagulant, anticardiolipin IgG and IgM, beta-2 glycoprotein I IgG and IgM
+- Repeat positive antiphospholipid tests in 12 wk; skip testing if all losses were aneuploid
+- TSH
+- A1c if overweight, family history of diabetes, age >40, PMOS, or prior gestational diabetes
+- Prolactin only if galactorrhea or anovulation
+- Not routine: inherited thrombophilia, thyroid antibodies, immune or NK cell tests, ovarian reserve
+- Lifestyle: stop smoking; alcohol 3 drinks/wk or fewer; caffeine under 100 mg/day
+- 50-80% have a live birth later w/o specific treatment
+- Psychological support offered; supportive care and early visits in next pregnancy ***
+- REI or OB/GYN referral ***
+
+If unbalanced chromosome rearrangement in tissue:
+
+- Parental karyotypes, then genetic counseling
+
+If antiphospholipid syndrome confirmed:
+
+- START aspirin 81 mg PO daily before conception, add prophylactic heparin once pregnant; MFM referral ***
+
+If TSH above 4 or lab upper limit:
+
+- START levothyroxine before conception ***
+- Do not treat thyroid antibodies alone or TSH under 4
+
+If bleeding in a future pregnancy:
+
+- Vaginal progesterone may be offered by shared decision ***",2026-11-02,2026-11-02
 #vt,Stable monomorphic ventricular tachycardia,#,More problem blocks,"Use for new, hemodynamically stable monomorphic VT on the inpatient A&P.","#Monomorphic ventricular tachycardia
 Likely VT given _palpitations w/ WCT on ECG / h/o MI or LV dysfunction w/ WCT / lightheadedness or syncope w/ WCT, rate >100.
 Wide complex tachycardia, QRS _ ms, rate _, hemodynamically stable.
@@ -64827,6 +65560,74 @@ Chaperone: ***
 - Edema: none
 - Orthostatics: ***
 - Cap refill: under 2 seconds",2026-10-29,
+.etendonue,Upper extremity tendon exam,.,Exams: focused,"Use for suspected shoulder, elbow, or wrist tendinopathy; keep the lines for the site examined and delete the rest.","Upper extremity tendon exam, _right / left / bilateral
+
+- Inspection: _no swelling, atrophy, or deformity / swelling at _ / muscle atrophy at _ / change in biceps contour _
+- Shoulder tenderness: _none / greater tuberosity / bicipital groove, more than other side _
+- Elbow and wrist tenderness: _none / 1 cm distal to lateral epicondyle / medial epicondyle / distal biceps / radial styloid _
+- Shoulder ROM: _full, no painful arc / painful arc in abduction / active limited, passive full / active and passive limited _
+- Impingement: _Hawkins negative / Hawkins positive _
+- Supraspinatus: _empty can strong, painless / empty can painful, strong / empty can weak _
+- Infraspinatus: _resisted ER strong, painless / resisted ER painful, strong / resisted ER weak / ER lag present
+- Subscapularis: _lift-off normal / lift-off painful / unable to lift off
+- Drop arm: _negative / positive
+- Lateral elbow: _resisted grip and wrist extension painless / pain w/ resisted wrist extension / painful, weaker grip than other side
+- Medial elbow: _no pain w/ resisted wrist flexion or pronation / pain w/ resisted wrist flexion / pain w/ resisted pronation
+- Distal biceps: _hook test normal, resisted supination painless / pain w/ resisted flexion and supination / abnormal hook test
+- Thumb: _Finkelstein negative / Finkelstein positive, pain over radial styloid _
+- Ulnar nerve: _Tinel at cubital tunnel negative / Tinel at cubital tunnel positive
+- Neck: _full ROM, Spurling negative / _
+- Neurovascular: _sensation intact, radial pulse 2+ / _","Upper extremity tendon exam, {right/left/bilateral}
+
+- Inspection: ***no swelling, atrophy, or deformity / swelling at *** / muscle atrophy at *** / change in biceps contour ***
+- Shoulder tenderness: {none/greater tuberosity/bicipital groove}, more than other side ***
+- Elbow and wrist tenderness: {none/1 cm distal to lateral epicondyle/medial epicondyle/distal biceps/radial styloid} ***
+- Shoulder ROM: ***full, no painful arc / painful arc in abduction / active limited, passive full / active and passive limited ***
+- Impingement: {Hawkins negative/Hawkins positive} ***
+- Supraspinatus: ***empty can strong, painless / empty can painful, strong / empty can weak ***
+- Infraspinatus: ***resisted ER strong, painless / resisted ER painful, strong / resisted ER weak / ER lag present
+- Subscapularis: {lift-off normal/lift-off painful/unable} to lift off
+- Drop arm: {negative/positive}
+- Lateral elbow: ***resisted grip and wrist extension painless / pain w/ resisted wrist extension / painful, weaker grip than other side
+- Medial elbow: ***no pain w/ resisted wrist flexion or pronation / pain w/ resisted wrist flexion / pain w/ resisted pronation
+- Distal biceps: ***hook test normal, resisted supination painless / pain w/ resisted flexion and supination / abnormal hook test
+- Thumb: {Finkelstein negative/Finkelstein positive}, pain over radial styloid ***
+- Ulnar nerve: {Tinel at cubital tunnel negative/Tinel at cubital tunnel positive}
+- Neck: ***full ROM, Spurling negative / ***
+- Neurovascular: ***sensation intact, radial pulse 2+ / ***",2026-11-02,2026-11-02
+.etendonle,Lower extremity tendon exam,.,Exams: focused,"Use for suspected hip, knee, ankle, or heel tendinopathy; keep the lines for the site examined and delete the rest.","Lower extremity tendon exam, _right / left / bilateral
+
+- Gait: _normal / antalgic / Trendelenburg _
+- Inspection: _no swelling or deformity / Achilles thickening / medial ankle swelling / lateral ankle swelling / flat arch, too many toes _
+- Hip and knee tenderness: _none / greater trochanter / inferior pole of patella _
+- Ankle tenderness: _none / Achilles 2-6 cm above insertion / Achilles insertion / behind medial malleolus / behind lateral malleolus _
+- Single-leg stance 30 sec: _painless / lateral hip pain within 30 sec
+- Lateral hip resisted tests: _painless / pain w/ resisted abduction / pain w/ resisted external derotation / pain w/ FABER _
+- Hip ROM: _full, painless internal rotation / internal rotation painful or limited _
+- Decline squat: _painless, full depth / anterior knee pain, depth limited _
+- Achilles palpation: _no thickening or nodule / thickened nodule, moves w/ ankle motion / thickening, does not move w/ ankle motion / palpable gap
+- Royal London test: _negative / tenderness eases in full dorsiflexion
+- Thompson test: _normal, foot plantarflexes w/ calf squeeze / abnormal, no plantarflexion
+- Single-leg heel raise: _10 or more, painless, heel inverts / painful / fewer than 10 / heel does not invert _
+- Peroneal: _no pain w/ resisted eversion and dorsiflexion / pain behind fibula w/ resisted eversion and dorsiflexion / tendons sublux _
+- Back and neuro: _straight leg raise negative, strength and reflexes symmetric / _
+- Pulses: _DP and PT 2+ / _","Lower extremity tendon exam, {right/left/bilateral}
+
+- Gait: {normal/antalgic/Trendelenburg} ***
+- Inspection: {no swelling or deformity/Achilles thickening/medial ankle swelling/lateral ankle swelling/flat arch}, too many toes ***
+- Hip and knee tenderness: {none/greater trochanter/inferior pole} of patella ***
+- Ankle tenderness: {none/Achilles 2-6 cm above insertion/Achilles insertion/behind medial malleolus/behind lateral malleolus} ***
+- Single-leg stance 30 sec: {painless/lateral} hip pain within 30 sec
+- Lateral hip resisted tests: ***painless / pain w/ resisted abduction / pain w/ resisted external derotation / pain w/ FABER ***
+- Hip ROM: ***full, painless internal rotation / internal rotation painful or limited ***
+- Decline squat: ***painless, full depth / anterior knee pain, depth limited ***
+- Achilles palpation: {no thickening or nodule/thickened nodule}, moves w/ ankle motion / thickening, does not move w/ ankle motion / palpable gap
+- Royal London test: {negative/tenderness} eases in full dorsiflexion
+- Thompson test: ***normal, foot plantarflexes w/ calf squeeze / abnormal, no plantarflexion
+- Single-leg heel raise: ***10 or more, painless, heel inverts / painful / fewer than 10 / heel does not invert ***
+- Peroneal: ***no pain w/ resisted eversion and dorsiflexion / pain behind fibula w/ resisted eversion and dorsiflexion / tendons sublux ***
+- Back and neuro: ***straight leg raise negative, strength and reflexes symmetric / ***
+- Pulses: ***DP and PT 2+ / ***",2026-11-02,2026-11-02
 .chap,Chaperone,.,Fragments,Use when a chaperone is present for an exam.,"Chaperone _, role _, present for the entire exam.","Chaperone ***, role ***, present for the entire exam.",2026-10-29,
 .interp,Interpreter,.,Fragments,Use when a professional medical interpreter is used.,"Professional medical interpreter used for the entire visit: _ language, _in person / video / phone, interpreter name or ID _.","Professional medical interpreter used for the entire visit: *** language, {in person/video/phone}, interpreter name or ID ***.",2026-10-29,
 .interpdecl,"Interpreter declined, family or friend interpreted",.,Fragments,Use when the patient declines a professional interpreter and asks a family member or friend to interpret.,"Patient's preferred language is _. Patient was offered a professional medical interpreter at no cost and declined, requesting that _, their _, interpret instead. The person interpreting is an adult _. Patient was told a professional interpreter remains available at any time during care. A professional interpreter was used for _consent / medication instructions / other critical information.","Patient's preferred language is ***. Patient was offered a professional medical interpreter at no cost and declined, requesting that ***, their ***, interpret instead. The person interpreting is an adult ***. Patient was told a professional interpreter remains available at any time during care. A professional interpreter was used for {consent/medication instructions/other critical information}.",2026-10-29,
