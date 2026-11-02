@@ -66,6 +66,8 @@
   #view h1 { margin: 0 0 4px; font-size: 22px; font-weight: 600; display: flex; gap: 14px; align-items: baseline; flex-wrap: wrap; }
   #view h1 code { font: 500 20px var(--mono); color: var(--accent); }
   .stamp { margin: 2px 0 14px; font-size: 13px; color: var(--muted); }
+  svg.shield { width: 14px; height: 14px; flex: none; vertical-align: -2px; margin-right: 3px; }
+  .row svg.shield { align-self: center; }
   .acts { display: flex; gap: 8px; margin: 0 0 14px; flex-wrap: wrap; }
   .acts button { border: 1px solid var(--line); background: var(--bg); padding: 5px 14px; border-radius: 6px; cursor: pointer; }
   .acts button.primary { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
@@ -158,6 +160,7 @@ function build() {
     const d = document.createElement('div'); d.className = 'row'; d.setAttribute('role', 'option');
     d.innerHTML = '<span class="ab"></span><span class="ti"></span>';
     d.firstChild.textContent = r.abbr; d.lastChild.textContent = r.desc;
+    if (r.reviewed) { d.lastChild.insertAdjacentHTML('afterbegin', SHIELD); d.lastChild.title = 'Reviewed by the author'; }
     d.onclick = () => select(r, true);
     r.el = d; sec.rows.push(r); list.append(d);
   }
@@ -197,7 +200,8 @@ function render() {
   v.querySelector('h1 code').textContent = r.abbr;
   v.querySelector('h1 span').textContent = r.desc;
   const st = v.querySelector('.stamp');
-  st.textContent = r.verified ? 'Sources checked ' + day(r.verified) : '';
+  st.textContent = [r.reviewed && 'Reviewed by the author ' + day(r.reviewed), r.verified && 'Sources checked ' + day(r.verified)].filter(Boolean).join(' · ');
+  if (r.reviewed) st.insertAdjacentHTML('afterbegin', SHIELD);
   v.querySelector('pre').textContent = text;
   const copy = v.querySelector('.copy'); copy.textContent = 'Copy ' + (fmt === 'epic' ? 'Epic' : 'Cerner');
   copy.onclick = () => navigator.clipboard.writeText(text).then(() => flash(copy, 'Copied'));
@@ -205,6 +209,8 @@ function render() {
   link.onclick = () => navigator.clipboard.writeText(location.href).then(() => flash(link, 'Copied'));
   v.querySelector('.back').onclick = () => history.back();
 }
+
+const SHIELD = '<svg class="shield" viewBox="0 0 16 16" aria-hidden="true"><path d="M8 1l6 2.4v4.1c0 3.6-2.6 6.4-6 7.5-3.4-1.1-6-3.9-6-7.5V3.4z" fill="#1a7f37"/><path d="M5 8.1l2 2 4-4.1" stroke="#fff" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>';
 
 function day(d) { return new Date(d + 'T00:00:00Z').toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' }); }
 
@@ -238,6 +244,7 @@ const KEY = `<div class="acts nav"><button class="back" type="button">&larr; Bac
 <tr><td>Cerner</td><td><code>_</code> blank &middot; <code>_a / b</code> pick one &middot; <code>[VITALS]</code> smart template</td></tr>
 <tr><td>Epic</td><td><code>***</code> blank &middot; <code>{a/b}</code> build as SmartList &middot; <code>@VITALS@</code> your SmartLink &middot; <code>[ ]</code> Cerner template, swap in yours</td></tr>
 <tr><td>local</td><td>Institution-specific: fill in yours</td></tr>
+<tr><td><svg class="shield" viewBox="0 0 16 16" aria-hidden="true"><path d="M8 1l6 2.4v4.1c0 3.6-2.6 6.4-6 7.5-3.4-1.1-6-3.9-6-7.5V3.4z" fill="#1a7f37"/><path d="M5 8.1l2 2 4-4.1" stroke="#fff" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></td><td>Reviewed by the author since its last edit</td></tr>
 </table></div>`;
 
 function showKey(fromUser) {

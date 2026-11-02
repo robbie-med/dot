@@ -4,8 +4,11 @@
 Subjective:
 Ms. _ is a _ y/o G_ P_, TPAL _-_-_-_, Rh _positive / negative, rubella _immune / nonimmune, GBS _positive / negative / unknown, at _w_d by _ LMP confirmed by first trimester US, with history of _, presenting for _.
 
-Pregnancy complications: _. Fetal movement _. Contractions _. Vaginal bleeding, discharge or leakage of fluid _.
-Headache, visual changes, chest pain, dyspnea, abdominal pain, nausea, vomiting, edema or dysuria _.
+Pregnancy complications: _
+Fetal movement _
+Contractions _
+Vaginal bleeding, discharge or leakage of fluid _
+Headache, visual changes, chest pain, dyspnea, abdominal pain, nausea, vomiting, edema or dysuria _
 
 Continuity physician: Dr. _
 
@@ -59,7 +62,8 @@ _ y/o G_ P_, Rh _positive / negative, rubella _immune / nonimmune, GBS _positive
 
 #IUP at _w_d, admitted for _
 _ on admission, _.
-SVE _ on admission, Bishop score _. FHT category _I / II / III, contractions every _ min.
+SVE _ on admission, Bishop score _.
+FHT category _I / II / III, contractions every _ min.
 
 - Infant sex _, epidural _, breastfeeding _
 - Labor labs _
@@ -79,8 +83,11 @@ Dispo: _","Labor and delivery admission H&P
 Subjective:
 Ms. *** is a *** y/o G*** P***, TPAL ***-***-***-***, Rh {positive/negative}, rubella {immune/nonimmune}, GBS {positive/negative/unknown}, at ***w***d by *** LMP confirmed by first trimester US, with history of ***, presenting for ***.
 
-Pregnancy complications: ***. Fetal movement ***. Contractions ***. Vaginal bleeding, discharge or leakage of fluid ***.
-Headache, visual changes, chest pain, dyspnea, abdominal pain, nausea, vomiting, edema or dysuria ***.
+Pregnancy complications: ***
+Fetal movement ***
+Contractions ***
+Vaginal bleeding, discharge or leakage of fluid ***
+Headache, visual changes, chest pain, dyspnea, abdominal pain, nausea, vomiting, edema or dysuria ***
 
 Continuity physician: Dr. ***
 
@@ -134,7 +141,8 @@ Assessment and plan:
 
 #IUP at ***w***d, admitted for ***
 *** on admission, ***.
-SVE *** on admission, Bishop score ***. FHT category {I/II/III}, contractions every *** min.
+SVE *** on admission, Bishop score ***.
+FHT category {I/II/III}, contractions every *** min.
 
 - Infant sex ***, epidural ***, breastfeeding ***
 - Labor labs ***
@@ -1966,13 +1974,13 @@ Hair dye: yes. Very little gets through your scalp. If you are worried, wait unt
 
 Baths: warm baths are fine. Avoid hot tubs and saunas, especially in the first 3 months.
 
-Sex: yes, in a normal pregnancy. It does not cause miscarriage or early labor. We will tell you if you need to avoid it.
+Sex: yes, in a normal pregnancy. It does not cause miscarriage or early labor. However it might be uncomfortable, or your level of desire might be lower than normal. If this is causing problems in your relationship, tell your doctor.
 
 Exercise: yes. It does not cause miscarriage. Aim for 150 minutes a week.
 
-Eating for two: no. You do not need extra calories in the first 3 months. Add about 340 calories a day in the middle 3 months. Add about 450 a day in the last 3 months.
-
 Medicines: acetaminophen is the best choice for pain. Do not take ibuprofen, naproxen, or aspirin unless we tell you to. Ask us before taking any new medicine or herbal product.
+
+Bonus: Do I need to eat for two: no. You do not need extra calories in the first 3 months. Add about 340 calories a day in the middle 3 months. Add about 450 a day in the last 3 months.
 
 Call the clinic with any other questions.","Is it safe in pregnancy?
 
@@ -1982,15 +1990,15 @@ Hair dye: yes. Very little gets through your scalp. If you are worried, wait unt
 
 Baths: warm baths are fine. Avoid hot tubs and saunas, especially in the first 3 months.
 
-Sex: yes, in a normal pregnancy. It does not cause miscarriage or early labor. We will tell you if you need to avoid it.
+Sex: yes, in a normal pregnancy. It does not cause miscarriage or early labor. However it might be uncomfortable, or your level of desire might be lower than normal. If this is causing problems in your relationship, tell your doctor.
 
 Exercise: yes. It does not cause miscarriage. Aim for 150 minutes a week.
 
-Eating for two: no. You do not need extra calories in the first 3 months. Add about 340 calories a day in the middle 3 months. Add about 450 a day in the last 3 months.
-
 Medicines: acetaminophen is the best choice for pain. Do not take ibuprofen, naproxen, or aspirin unless we tell you to. Ask us before taking any new medicine or herbal product.
 
-Call the clinic with any other questions.",2026-10-30,2026-10-30
+Bonus: Do I need to eat for two: no. You do not need extra calories in the first 3 months. Add about 340 calories a day in the middle 3 months. Add about 450 a day in the last 3 months.
+
+Call the clinic with any other questions.",2026-10-29,
 %pivax,Vaccines in pregnancy,%,Patient instructions: prenatal,Use as after-visit instructions about vaccines in pregnancy.,"Vaccines in pregnancy
 
 Vaccines in pregnancy protect you, and they pass protection to your baby.
