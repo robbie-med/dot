@@ -8540,6 +8540,20 @@
 "reviewed": ""
 },
 {
+"section": "Patient instructions: more clinic topics",
+"abbr": "$pispasm",
+"desc": "Muscle spasm",
+"use": "Use as after-visit instructions for a muscle strain or spasm treated at home.",
+"body": "Muscle spasm\n\nA muscle spasm is a muscle that tightens and will not relax. Most get better with time and home care.\n\nAt home:\n\n- Keep moving. Bed rest can make it worse.\n- Use a heating pad on low.\n- Stretch the muscle gently a few times a day.\n- Take your pain medicine as directed: _\n\nIf you were given a muscle relaxer:\n\n- It can make you sleepy or dizzy.\n- Do not drive or drink alcohol while taking it.\n- Use it only for a short time.\n\nCall the clinic if:\n\n- The pain is not getting better in 2 weeks.\n- You have new numbness, tingling, or weakness.\n\nGo to the ER if:\n\n- You cannot control your bladder or bowels.\n- You have a fever with back pain.",
+"epic": "Muscle spasm\n\nA muscle spasm is a muscle that tightens and will not relax. Most get better with time and home care.\n\nAt home:\n\n- Keep moving. Bed rest can make it worse.\n- Use a heating pad on low.\n- Stretch the muscle gently a few times a day.\n- Take your pain medicine as directed: ***\n\nIf you were given a muscle relaxer:\n\n- It can make you sleepy or dizzy.\n- Do not drive or drink alcohol while taking it.\n- Use it only for a short time.\n\nCall the clinic if:\n\n- The pain is not getting better in 2 weeks.\n- You have new numbness, tingling, or weakness.\n\nGo to the ER if:\n\n- You cannot control your bladder or bowels.\n- You have a fever with back pain.",
+"family": "$",
+"tag": "$pi",
+"verified": "2026-11-06",
+"verified_source": "2 sources",
+"updated": "2026-11-06",
+"reviewed": ""
+},
+{
 "section": "Lab result sentences",
 "abbr": "$lrnlall",
 "desc": "All other results normal",
@@ -15271,6 +15285,34 @@
 "verified": "2026-11-02",
 "verified_source": "8 sources",
 "updated": "2026-11-02",
+"reviewed": ""
+},
+{
+"section": "Problem blocks: clinic and chronic",
+"abbr": "#spasm",
+"desc": "Acute muscle spasm",
+"use": "Use for acute neck, back, or limb muscle strain with spasm.",
+"body": "#Muscle spasm\nLikely acute muscle strain with spasm given _pain after lifting or overuse, tender tight muscle / painful ROM, palpable spasm, no red flags / neck or back stiffness, no neuro deficit.\nLocation _, red flags _, neuro exam _.\n\nDDx:\n>Muscle strain with spasm; most likely given _, _\n>Radiculopathy; considered but unlikely given neuro exam _, _\n>_; considered but unlikely given _, _\n\n- Stay active, heat, gentle stretching\n- START naproxen 500 mg PO BID with food x _ days\n- Relaxant adds little to NSAID alone; short course only if spasm limits sleep or function _\n- No carisoprodol: Schedule IV, misuse risk\n- F/u in _ wk if not improving\n\nIf using cyclobenzaprine:\n\n- START cyclobenzaprine 5 mg PO TID PRN spasm x 2 to 3 wk max\n- Rx note: sedating, anticholinergic; serotonin syndrome w/ SSRI, SNRI, tramadol; avoid w/ MAOI, arrhythmia, hyperthyroidism\n\nIf using methocarbamol:\n\n- START methocarbamol 1500 mg PO QID x 2 to 3 days, then 1000 mg PO QID\n- Rx note: drowsiness, dizziness; urine may turn brown, black, or green\n\nIf using tizanidine:\n\n- START tizanidine 2 mg PO q6-8h PRN, max 3 doses/day\n- Rx note: hypotension, sedation, liver injury; never w/ ciprofloxacin or fluvoxamine; taper, rebound HTN if stopped abruptly\n\nIf age 65 or older:\n\n- Avoid muscle relaxants: sedation, falls, anticholinergic effects",
+"epic": "#Muscle spasm\nLikely acute muscle strain with spasm given ***pain after lifting or overuse, tender tight muscle / painful ROM, palpable spasm, no red flags / neck or back stiffness, no neuro deficit.\nLocation ***, red flags ***, neuro exam ***.\n\nDDx:\n>Muscle strain with spasm; most likely given ***, ***\n>Radiculopathy; considered but unlikely given neuro exam ***, ***\n>***; considered but unlikely given ***, ***\n\n- Stay active, heat, gentle stretching\n- START naproxen 500 mg PO BID with food x *** days\n- Relaxant adds little to NSAID alone; short course only if spasm limits sleep or function ***\n- No carisoprodol: Schedule IV, misuse risk\n- F/u in *** wk if not improving\n\nIf using cyclobenzaprine:\n\n- START cyclobenzaprine 5 mg PO TID PRN spasm x 2 to 3 wk max\n- Rx note: sedating, anticholinergic; serotonin syndrome w/ SSRI, SNRI, tramadol; avoid w/ MAOI, arrhythmia, hyperthyroidism\n\nIf using methocarbamol:\n\n- START methocarbamol 1500 mg PO QID x 2 to 3 days, then 1000 mg PO QID\n- Rx note: drowsiness, dizziness; urine may turn brown, black, or green\n\nIf using tizanidine:\n\n- START tizanidine 2 mg PO q6-8h PRN, max 3 doses/day\n- Rx note: hypotension, sedation, liver injury; never w/ ciprofloxacin or fluvoxamine; taper, rebound HTN if stopped abruptly\n\nIf age 65 or older:\n\n- Avoid muscle relaxants: sedation, falls, anticholinergic effects",
+"family": "#",
+"tag": "#",
+"verified": "2026-11-06",
+"verified_source": "7 sources",
+"updated": "2026-11-06",
+"reviewed": ""
+},
+{
+"section": "Problem blocks: clinic and chronic",
+"abbr": "#legcramp",
+"desc": "Nocturnal leg cramps",
+"use": "Use for recurrent night-time leg cramps in adults.",
+"body": "#Nocturnal leg cramps\nLikely idiopathic nocturnal leg cramps given _sudden painful calf tightening at night / cramp relieved by stretching, normal exam / recurrent night cramps, no weakness or numbness.\nFrequency _, meds _, pulses _, sensation _.\n\nDDx:\n>Idiopathic nocturnal leg cramps; most likely given _, _\n>Restless legs syndrome; considered but unlikely given no urge to move, _\n>Claudication or peripheral neuropathy; considered but unlikely given pulses _, sensation _\n>Myositis; considered but unlikely given no weakness, _\n\n- Clinical diagnosis, labs not routinely needed\n- Labs only if history suggests a cause _\n- Review meds: IV iron sucrose, conjugated estrogens, raloxifene, naproxen, teriparatide, albuterol _\n- Acute cramp: forceful stretch of the cramping muscle\n- Calf stretching before bed, limited evidence\n- No quinine: FDA warning, thrombocytopenia\n- Magnesium unlikely to help idiopathic cramps\n- F/u in _ wk",
+"epic": "#Nocturnal leg cramps\nLikely idiopathic nocturnal leg cramps given {sudden painful calf tightening at night/cramp relieved by stretching}, normal exam / recurrent night cramps, no weakness or numbness.\nFrequency ***, meds ***, pulses ***, sensation ***.\n\nDDx:\n>Idiopathic nocturnal leg cramps; most likely given ***, ***\n>Restless legs syndrome; considered but unlikely given no urge to move, ***\n>Claudication or peripheral neuropathy; considered but unlikely given pulses ***, sensation ***\n>Myositis; considered but unlikely given no weakness, ***\n\n- Clinical diagnosis, labs not routinely needed\n- Labs only if history suggests a cause ***\n- Review meds: IV iron sucrose, conjugated estrogens, raloxifene, naproxen, teriparatide, albuterol ***\n- Acute cramp: forceful stretch of the cramping muscle\n- Calf stretching before bed, limited evidence\n- No quinine: FDA warning, thrombocytopenia\n- Magnesium unlikely to help idiopathic cramps\n- F/u in *** wk",
+"family": "#",
+"tag": "#",
+"verified": "2026-11-06",
+"verified_source": "2 sources",
+"updated": "2026-11-06",
 "reviewed": ""
 },
 {

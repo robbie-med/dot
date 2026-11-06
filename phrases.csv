@@ -38187,6 +38187,57 @@ Go to the ER if:
 - You feel dizzy or the room spins
 - Your face feels weak or droops
 - You have a bad headache, stiff neck, or fever",2026-11-02,2026-11-02
+$pispasm,Muscle spasm,$,Patient instructions: more clinic topics,Use as after-visit instructions for a muscle strain or spasm treated at home.,"Muscle spasm
+
+A muscle spasm is a muscle that tightens and will not relax. Most get better with time and home care.
+
+At home:
+
+- Keep moving. Bed rest can make it worse.
+- Use a heating pad on low.
+- Stretch the muscle gently a few times a day.
+- Take your pain medicine as directed: _
+
+If you were given a muscle relaxer:
+
+- It can make you sleepy or dizzy.
+- Do not drive or drink alcohol while taking it.
+- Use it only for a short time.
+
+Call the clinic if:
+
+- The pain is not getting better in 2 weeks.
+- You have new numbness, tingling, or weakness.
+
+Go to the ER if:
+
+- You cannot control your bladder or bowels.
+- You have a fever with back pain.","Muscle spasm
+
+A muscle spasm is a muscle that tightens and will not relax. Most get better with time and home care.
+
+At home:
+
+- Keep moving. Bed rest can make it worse.
+- Use a heating pad on low.
+- Stretch the muscle gently a few times a day.
+- Take your pain medicine as directed: ***
+
+If you were given a muscle relaxer:
+
+- It can make you sleepy or dizzy.
+- Do not drive or drink alcohol while taking it.
+- Use it only for a short time.
+
+Call the clinic if:
+
+- The pain is not getting better in 2 weeks.
+- You have new numbness, tingling, or weakness.
+
+Go to the ER if:
+
+- You cannot control your bladder or bowels.
+- You have a fever with back pain.",2026-11-06,2026-11-06
 $lrnlall,All other results normal,$,Lab result sentences,Use as a one-line result sentence that all remaining results were normal.,All of your other results were normal.,All of your other results were normal.,2026-10-29,
 $lrrepeat,"Slightly abnormal, recheck",$,Lab result sentences,Use for any result slightly outside the normal range that only needs a recheck.,Your _ was slightly outside the normal range at _. Small changes like this are common and often not a concern. We will recheck it in _.,Your *** was slightly outside the normal range at ***. Small changes like this are common and often not a concern. We will recheck it in ***.,2026-10-29,
 $lrpending,Results still pending,$,Lab result sentences,Use when some results are not back yet.,Your _ result is not back yet. We will let you know when it is.,Your *** result is not back yet. We will let you know when it is.,2026-10-29,
@@ -57922,6 +57973,106 @@ If incomplete after medical or expectant management:
 If heavy bleeding w/ falling Hgb, unstable vitals, or fever w/ uterine tenderness:
 
 - Urgent uterine aspiration, OB/GYN now; IV abx if infection suspected",2026-11-02,2026-11-02
+#spasm,Acute muscle spasm,#,Problem blocks: clinic and chronic,"Use for acute neck, back, or limb muscle strain with spasm.","#Muscle spasm
+Likely acute muscle strain with spasm given _pain after lifting or overuse, tender tight muscle / painful ROM, palpable spasm, no red flags / neck or back stiffness, no neuro deficit.
+Location _, red flags _, neuro exam _.
+
+DDx:
+>Muscle strain with spasm; most likely given _, _
+>Radiculopathy; considered but unlikely given neuro exam _, _
+>_; considered but unlikely given _, _
+
+- Stay active, heat, gentle stretching
+- START naproxen 500 mg PO BID with food x _ days
+- Relaxant adds little to NSAID alone; short course only if spasm limits sleep or function _
+- No carisoprodol: Schedule IV, misuse risk
+- F/u in _ wk if not improving
+
+If using cyclobenzaprine:
+
+- START cyclobenzaprine 5 mg PO TID PRN spasm x 2 to 3 wk max
+- Rx note: sedating, anticholinergic; serotonin syndrome w/ SSRI, SNRI, tramadol; avoid w/ MAOI, arrhythmia, hyperthyroidism
+
+If using methocarbamol:
+
+- START methocarbamol 1500 mg PO QID x 2 to 3 days, then 1000 mg PO QID
+- Rx note: drowsiness, dizziness; urine may turn brown, black, or green
+
+If using tizanidine:
+
+- START tizanidine 2 mg PO q6-8h PRN, max 3 doses/day
+- Rx note: hypotension, sedation, liver injury; never w/ ciprofloxacin or fluvoxamine; taper, rebound HTN if stopped abruptly
+
+If age 65 or older:
+
+- Avoid muscle relaxants: sedation, falls, anticholinergic effects","#Muscle spasm
+Likely acute muscle strain with spasm given ***pain after lifting or overuse, tender tight muscle / painful ROM, palpable spasm, no red flags / neck or back stiffness, no neuro deficit.
+Location ***, red flags ***, neuro exam ***.
+
+DDx:
+>Muscle strain with spasm; most likely given ***, ***
+>Radiculopathy; considered but unlikely given neuro exam ***, ***
+>***; considered but unlikely given ***, ***
+
+- Stay active, heat, gentle stretching
+- START naproxen 500 mg PO BID with food x *** days
+- Relaxant adds little to NSAID alone; short course only if spasm limits sleep or function ***
+- No carisoprodol: Schedule IV, misuse risk
+- F/u in *** wk if not improving
+
+If using cyclobenzaprine:
+
+- START cyclobenzaprine 5 mg PO TID PRN spasm x 2 to 3 wk max
+- Rx note: sedating, anticholinergic; serotonin syndrome w/ SSRI, SNRI, tramadol; avoid w/ MAOI, arrhythmia, hyperthyroidism
+
+If using methocarbamol:
+
+- START methocarbamol 1500 mg PO QID x 2 to 3 days, then 1000 mg PO QID
+- Rx note: drowsiness, dizziness; urine may turn brown, black, or green
+
+If using tizanidine:
+
+- START tizanidine 2 mg PO q6-8h PRN, max 3 doses/day
+- Rx note: hypotension, sedation, liver injury; never w/ ciprofloxacin or fluvoxamine; taper, rebound HTN if stopped abruptly
+
+If age 65 or older:
+
+- Avoid muscle relaxants: sedation, falls, anticholinergic effects",2026-11-06,2026-11-06
+#legcramp,Nocturnal leg cramps,#,Problem blocks: clinic and chronic,Use for recurrent night-time leg cramps in adults.,"#Nocturnal leg cramps
+Likely idiopathic nocturnal leg cramps given _sudden painful calf tightening at night / cramp relieved by stretching, normal exam / recurrent night cramps, no weakness or numbness.
+Frequency _, meds _, pulses _, sensation _.
+
+DDx:
+>Idiopathic nocturnal leg cramps; most likely given _, _
+>Restless legs syndrome; considered but unlikely given no urge to move, _
+>Claudication or peripheral neuropathy; considered but unlikely given pulses _, sensation _
+>Myositis; considered but unlikely given no weakness, _
+
+- Clinical diagnosis, labs not routinely needed
+- Labs only if history suggests a cause _
+- Review meds: IV iron sucrose, conjugated estrogens, raloxifene, naproxen, teriparatide, albuterol _
+- Acute cramp: forceful stretch of the cramping muscle
+- Calf stretching before bed, limited evidence
+- No quinine: FDA warning, thrombocytopenia
+- Magnesium unlikely to help idiopathic cramps
+- F/u in _ wk","#Nocturnal leg cramps
+Likely idiopathic nocturnal leg cramps given {sudden painful calf tightening at night/cramp relieved by stretching}, normal exam / recurrent night cramps, no weakness or numbness.
+Frequency ***, meds ***, pulses ***, sensation ***.
+
+DDx:
+>Idiopathic nocturnal leg cramps; most likely given ***, ***
+>Restless legs syndrome; considered but unlikely given no urge to move, ***
+>Claudication or peripheral neuropathy; considered but unlikely given pulses ***, sensation ***
+>Myositis; considered but unlikely given no weakness, ***
+
+- Clinical diagnosis, labs not routinely needed
+- Labs only if history suggests a cause ***
+- Review meds: IV iron sucrose, conjugated estrogens, raloxifene, naproxen, teriparatide, albuterol ***
+- Acute cramp: forceful stretch of the cramping muscle
+- Calf stretching before bed, limited evidence
+- No quinine: FDA warning, thrombocytopenia
+- Magnesium unlikely to help idiopathic cramps
+- F/u in *** wk",2026-11-06,2026-11-06
 #wuhtn,New hypertension workup,#,Workups,Use for the initial workup of newly diagnosed hypertension.,"#Hypertension, new diagnosis
 Likely _primary / secondary hypertension given _obesity or family h/o HTN, no secondary features / onset <30 or abrupt rise, resistant BP / hypokalemia or snoring w/ daytime sleepiness.
 Office BP _ and _, home or ambulatory average _. Secondary cause features _.
