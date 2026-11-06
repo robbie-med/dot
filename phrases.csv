@@ -58073,6 +58073,169 @@ DDx:
 - No quinine: FDA warning, thrombocytopenia
 - Magnesium unlikely to help idiopathic cramps
 - F/u in *** wk",2026-11-06,2026-11-06
+#hematuria,Gross hematuria,#,Problem blocks: clinic and chronic,Use for visible blood in the urine in adults.,"#Gross hematuria
+Likely _UTI given dysuria, frequency, + LE or nitrite / kidney stone given colicky flank pain, stone on imaging / prostatic bleeding given large prostate, other causes excluded.
+Episodes _, clots _, pack-years _, anticoagulant _, UA _.
+
+DDx:
+>_; most likely given _, _
+>Bladder or upper tract urothelial cancer; considered but unlikely given _, cystoscopy and CT urogram
+>Kidney cancer; considered but unlikely given _, CT urogram
+>Glomerular disease; considered but unlikely given no dysmorphic RBCs, casts, or proteinuria _
+
+- Gross hematuria is high risk: cystoscopy and upper tract imaging even after one episode
+- UA with microscopy and urine cx
+- BMP for creatinine before contrast
+- Urology referral for cystoscopy _
+- CT urogram, multiphase _
+- Same evaluation if on anticoagulant or antiplatelet therapy
+
+If CT urogram contraindicated:
+
+- MR urogram _
+- If both contraindicated: retrograde pyelograms with noncontrast CT or renal US
+
+If UTI on culture:
+
+- Treat UTI, repeat UA with microscopy after treatment
+
+If dysmorphic RBCs, casts, proteinuria, or rising creatinine:
+
+- Nephrology referral _
+
+If prostatic bleeding, other causes excluded:
+
+- START finasteride 5 mg PO daily for refractory bleeding _
+- Finasteride lowers PSA by half
+
+If smoker:
+
+- Tobacco cessation, smoking raises urothelial cancer risk _","#Gross hematuria
+Likely ***UTI given dysuria, frequency, + LE or nitrite / kidney stone given colicky flank pain, stone on imaging / prostatic bleeding given large prostate, other causes excluded.
+Episodes ***, clots ***, pack-years ***, anticoagulant ***, UA ***.
+
+DDx:
+>***; most likely given ***, ***
+>Bladder or upper tract urothelial cancer; considered but unlikely given ***, cystoscopy and CT urogram
+>Kidney cancer; considered but unlikely given ***, CT urogram
+>Glomerular disease; considered but unlikely given no dysmorphic RBCs, casts, or proteinuria ***
+
+- Gross hematuria is high risk: cystoscopy and upper tract imaging even after one episode
+- UA with microscopy and urine cx
+- BMP for creatinine before contrast
+- Urology referral for cystoscopy ***
+- CT urogram, multiphase ***
+- Same evaluation if on anticoagulant or antiplatelet therapy
+
+If CT urogram contraindicated:
+
+- MR urogram ***
+- If both contraindicated: retrograde pyelograms with noncontrast CT or renal US
+
+If UTI on culture:
+
+- Treat UTI, repeat UA with microscopy after treatment
+
+If dysmorphic RBCs, casts, proteinuria, or rising creatinine:
+
+- Nephrology referral ***
+
+If prostatic bleeding, other causes excluded:
+
+- START finasteride 5 mg PO daily for refractory bleeding ***
+- Finasteride lowers PSA by half
+
+If smoker:
+
+- Tobacco cessation, smoking raises urothelial cancer risk ***",2026-11-06,2026-11-06
+#scrotal,Scrotal mass,#,Problem blocks: clinic and chronic,Use for a scrotal lump or swelling in adolescents and adults.,"#Scrotal mass
+Likely _varicocele given soft cord swelling, larger standing or w/ Valsalva / hydrocele given smooth cystic swelling that transilluminates / spermatocele given cyst in the cord, separate from testis.
+Side _, intratesticular _, transilluminates _, tender _, cremasteric reflex _.
+
+DDx:
+>_; most likely given _, _
+>Testicular cancer; considered but unlikely given _, scrotal US and tumor markers
+>Testicular torsion; considered but unlikely given no acute pain, cremasteric reflex present _
+>Inguinal hernia or epididymitis; considered but unlikely given _, _
+
+- Scrotal US with Doppler
+- Exam standing and w/ Valsalva
+- Ask about constitutional sxs, abd pain, dysuria, hematuria _
+- Cancer risk: undescended testis, personal or family hx testicular cancer, HIV _
+
+If solid intratesticular mass:
+
+- Urgent urology referral
+- AFP, beta-hCG, LDH
+
+If acute pain, high suspicion of torsion:
+
+- Urgent urology before imaging; surgery within 6 hr for best salvage
+
+If isolated right-sided varicocele:
+
+- Imaging for retroperitoneal mass _
+
+If hydrocele:
+
+- US to exclude pathology the hydrocele hides
+- Urology if symptomatic or communicating","#Scrotal mass
+Likely ***varicocele given soft cord swelling, larger standing or w/ Valsalva / hydrocele given smooth cystic swelling that transilluminates / spermatocele given cyst in the cord, separate from testis.
+Side ***, intratesticular ***, transilluminates ***, tender ***, cremasteric reflex ***.
+
+DDx:
+>***; most likely given ***, ***
+>Testicular cancer; considered but unlikely given ***, scrotal US and tumor markers
+>Testicular torsion; considered but unlikely given no acute pain, cremasteric reflex present ***
+>Inguinal hernia or epididymitis; considered but unlikely given ***, ***
+
+- Scrotal US with Doppler
+- Exam standing and w/ Valsalva
+- Ask about constitutional sxs, abd pain, dysuria, hematuria ***
+- Cancer risk: undescended testis, personal or family hx testicular cancer, HIV ***
+
+If solid intratesticular mass:
+
+- Urgent urology referral
+- AFP, beta-hCG, LDH
+
+If acute pain, high suspicion of torsion:
+
+- Urgent urology before imaging; surgery within 6 hr for best salvage
+
+If isolated right-sided varicocele:
+
+- Imaging for retroperitoneal mass ***
+
+If hydrocele:
+
+- US to exclude pathology the hydrocele hides
+- Urology if symptomatic or communicating",2026-11-06,2026-11-06
+#gim,Gastric intestinal metaplasia,#,Problem blocks: clinic and chronic,Use for gastric intestinal metaplasia found on EGD biopsy.,"#Gastric intestinal metaplasia
+Gastric intestinal metaplasia on EGD bx _, H. pylori _positive / negative / eradicated.
+Extent _, subtype _, family hx gastric cancer _, race, ethnicity, or birthplace _.
+
+- Test for and treat H. pylori, then confirm eradication
+- No routine surveillance EGD for most; shared decision _
+- Test of cure 4 wk or more after abx, HOLD PPI 2 wk before
+
+If incomplete or extensive GIM, or family hx gastric cancer:
+
+- Surveillance EGD about every 3 yr, shorter if multiple risk factors _
+- Also consider if racial or ethnic minority or immigrant from high-incidence region _
+- Surveillance EGD: high-definition white light, at least 5 bx from antrum, incisura, and corpus","#Gastric intestinal metaplasia
+Gastric intestinal metaplasia on EGD bx ***, H. pylori {positive/negative/eradicated}.
+Extent ***, subtype ***, family hx gastric cancer ***, race, ethnicity, or birthplace ***.
+
+- Test for and treat H. pylori, then confirm eradication
+- No routine surveillance EGD for most; shared decision ***
+- Test of cure 4 wk or more after abx, HOLD PPI 2 wk before
+
+If incomplete or extensive GIM, or family hx gastric cancer:
+
+- Surveillance EGD about every 3 yr, shorter if multiple risk factors ***
+- Also consider if racial or ethnic minority or immigrant from high-incidence region ***
+- Surveillance EGD: high-definition white light, at least 5 bx from antrum, incisura, and corpus",2026-11-06,2026-11-06
 #wuhtn,New hypertension workup,#,Workups,Use for the initial workup of newly diagnosed hypertension.,"#Hypertension, new diagnosis
 Likely _primary / secondary hypertension given _obesity or family h/o HTN, no secondary features / onset <30 or abrupt rise, resistant BP / hypokalemia or snoring w/ daytime sleepiness.
 Office BP _ and _, home or ambulatory average _. Secondary cause features _.
